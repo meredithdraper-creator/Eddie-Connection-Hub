@@ -2,7 +2,8 @@
   "sheet": {
     "id": "1KEzUxA7NuEuTQ3ZHRVGeQ0TqX4zLsWu2z6CpFI8cbxM",
     "opportunitiesGid": "0",
-    "eventsGid": ""
+    "eventsGid": "",
+    "opportunitiesCsvUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS--ZIsK9-8bmnlJGCs-S7d4Jh9NgD2sFKgKsE2Mg2yxqwvtnoq5d3hKPsLbVJIAHC1AehpaJuswxEc/pub?gid=0&single=true&output=csv"
   },
   "divisions": {
     "LS": { "label": "Lower School", "min": -2, "max": 5 },
