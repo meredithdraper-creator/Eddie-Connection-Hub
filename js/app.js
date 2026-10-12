@@ -1,14 +1,15 @@
 import { createEddie } from './eddie.js';
+import { createGuide } from './guide.js';
 
 const $ = (s) => document.querySelector(s);
 const esc = (s = '') => String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
 const hub = await fetch('data/hub.json', { cache: 'no-cache' }).then((r) => r.json());
-const eddie = createEddie(hub);
+const eddie = createGuide(hub, createEddie(hub));
 const { items, events, meta } = hub;
 
 // ---------- cards ----------
-function card(it, compact = false) {
+function card(it, compact = false, why = [], badge = '') {
   const pills = [
     it.cost === 0 ? '<span class="pill free">Free</span>' : `<span class="pill gray">${esc(it.costText)}</span>`,
     it.tryout ? '<span class="pill">Tryout / audition</span>' : '<span class="pill gray">No tryout</span>',
@@ -17,7 +18,9 @@ function card(it, compact = false) {
   const contact = it.sponsorEmail
     ? `<a class="cta" href="mailto:${esc(it.sponsorEmail)}?subject=${encodeURIComponent('Question about ' + it.name)}">Email ${esc(it.sponsor || 'sponsor')}</a>`
     : '';
+  const whyHtml = why && why.length ? `<div class="why"><b>Why Eddie picked this</b><ul>${why.map((w) => `<li>${esc(w)}</li>`).join('')}</ul></div>` : '';
   return `<article class="card${compact ? ' compact' : ''}">
+    ${badge ? `<span class="badge">${esc(badge)}</span>` : ''}
     <span class="cat">${esc(it.category)}</span>
     <h3>${esc(it.name)}</h3>
     ${compact ? '' : `<p>${esc(it.description)}</p>`}
@@ -28,6 +31,7 @@ function card(it, compact = false) {
       ${it.sponsor ? `<li><b>Lead:</b> ${esc(it.sponsor)}</li>` : ''}
     </ul>
     <div class="pills">${pills}</div>
+    ${whyHtml}
     ${contact}
   </article>`;
 }
@@ -83,7 +87,12 @@ function eddieSays(r) {
   const delay = matchMedia('(prefers-reduced-motion: reduce)').matches ? 0 : 450;
   setTimeout(() => {
     typing.remove();
-    const body = [`<div class="bubble">${esc(r.text)}</div>`, ...r.items.map((i) => card(i, true)), ...r.events.map(eventCard)].join('');
+    const body = [
+      r.text ? `<div class="bubble">${esc(r.text)}</div>` : '',
+      r.question ? `<div class="bubble q">${esc(r.question)}</div>` : '',
+      ...r.items.map((i) => card(i, !r.detail, r.reasons?.[i.id], r.badges?.[i.id])),
+      ...r.events.map(eventCard),
+    ].join('');
     addMsg('eddie', body);
     setChips(r.chips);
   }, delay);
