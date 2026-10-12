@@ -126,3 +126,11 @@ main { max-width: 1040px; margin: -64px auto 0; padding: 0 clamp(12px, 3vw, 24px
   html { scroll-behavior: auto; }
   .hero-eddie, .typing i { animation: none; }
 }
+
+/* Guided discovery */
+.bubble.q { background: var(--maroon-tint); border-color: #E9C3CD; font-weight: 600; }
+.badge { align-self: flex-start; background: var(--black); color: #fff; font-size: .72rem; font-weight: 800; padding: 3px 10px; border-radius: 999px; }
+.why { background: var(--maroon-tint); border-radius: 10px; padding: 8px 12px; font-size: .86rem; }
+.why b { color: var(--maroon-dark); font-size: .74rem; text-transform: uppercase; letter-spacing: .08em; }
+.why ul { margin: 4px 0 0; padding-left: 18px; }
+.why li { margin: 1px 0; }
