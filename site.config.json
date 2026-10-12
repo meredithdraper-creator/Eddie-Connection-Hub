@@ -1,0 +1,20 @@
+{
+  "sheet": {
+    "id": "1KEzUxA7NuEuTQ3ZHRVGeQ0TqX4zLsWu2z6CpFI8cbxM",
+    "opportunitiesGid": "0",
+    "eventsGid": ""
+  },
+  "divisions": {
+    "LS": { "label": "Lower School", "min": -2, "max": 5 },
+    "MS": { "label": "Middle School", "min": 6, "max": 8 },
+    "US": { "label": "Upper School", "min": 9, "max": 12 }
+  },
+  "privacy": {
+    "publishStudentLeaderNames": false,
+    "publishStudentLeaderEmails": false,
+    "publishSponsorEmails": true
+  },
+  "safety": {
+    "counselorNote": "Please talk with a trusted adult, your school counselor, or call or text 988 (Suicide & Crisis Lifeline) any time."
+  }
+}
