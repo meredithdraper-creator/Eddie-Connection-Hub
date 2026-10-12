@@ -171,6 +171,20 @@ export function createEddie(hub) {
       return out;
     }
 
+    // --- grade-chip shortcuts ---
+    const chipKey = text.trim().toLowerCase().replace(/[\u2013\u2014]/g, '-');
+    const chipGrade = { 'prek-2': [-2, 2], 'grades 3-5': [3, 5], 'grades 6-8': [6, 8], 'grades 9-12': [9, 12] }[chipKey];
+    if (chipGrade) {
+      out.state.grade = chipGrade;
+      if (!items.some((it) => matchesGrade(it, chipGrade))) {
+        const lo = Math.min(...items.map((i) => i.gradeMin));
+        out.text = `Got it — ${text.trim()}! I don't have activities listed for that grade yet — the current list starts at Grade ${gradeLabel(lo)}. Check back soon, or try another grade band.`;
+        out.chips = ['Grades 3–5', 'Grades 6–8', 'Grades 9–12']; return out;
+      }
+      out.text = `Got it — ${text.trim()}! What are you into? Pick one or just tell me.`;
+      out.chips = chipsDefault.slice(0, 4); return out;
+    }
+
     if (/^(hi|hello|hey|yo|good (morning|afternoon|evening)|howdy|what'?s up)\b.{0,12}$/.test(t) && !parseGrade(text)) {
       out.text = "Hey there, War Eagle! 🦅 I help Woodward students and families find clubs, athletics, activities, and events. Tell me a grade and something you love — or tap a button!";
       out.chips = state.grade ? chipsDefault : GRADE_CHIPS;
@@ -194,14 +208,6 @@ export function createEddie(hub) {
     if (t === 'set grade') { out.text = 'What grade is the student in?'; out.chips = GRADE_CHIPS; return out; }
     if (t === 'back to clubs & activities') { out.text = 'Sure thing. What can I help you find?'; out.chips = chipsDefault; return out; }
 
-    // --- grade-chip shortcuts ---
-    const chipGrade = { 'prek–2': [-2, 2], 'prek-2': [-2, 2], 'grades 3–5': [3, 5], 'grades 3-5': [3, 5], 'grades 6–8': [6, 8], 'grades 6-8': [6, 8], 'grades 9–12': [9, 12], 'grades 9-12': [9, 12] }[t];
-    if (chipGrade) {
-      out.state.grade = chipGrade;
-      out.text = `Got it — ${gradeRangeLabel(...chipGrade)}! What are you into? Pick one or just tell me.`;
-      out.chips = chipsDefault.slice(0, 4); return out;
-    }
-
     // --- paging ---
     if (/^(show )?(me )?(more|next)\b/.test(t) && state.last) {
       const offset = (state.offset || 0) + pageSize;
@@ -217,63 +223,3 @@ export function createEddie(hub) {
     // --- events ---
     if (/\b(events?|happening|calendar|coming up|upcoming|this (week|month)|fair|concert|game day)\b/.test(t) && !/\bclub\b/.test(t)) {
       const { next } = understand(text, state);
-      out.state = next;
-      const today = new Date().toISOString().slice(0, 10);
-      let list = events.filter((e) => !e.date || e.date >= today).filter((e) => eventMatchesGrade(e, next.grade)).sort((a, b) => (a.date || '9').localeCompare(b.date || '9'));
-      if (!list.length) { out.text = `I don't see upcoming events${who(next)} right now. Check back soon — I update every morning!`; out.chips = chipsDefault; return out; }
-      out.text = `Here's what's coming up${who(next)}:`;
-      out.events = list.slice(0, 5);
-      out.chips = next.grade ? ['Sports', 'Arts & music', 'Clubs'] : GRADE_CHIPS;
-      return out;
-    }
-
-    // --- how to join ---
-    if (/\b(how (do|can) (i|we)|sign ?up|join|contact|who (do|should) (i|we)|email|reach)\b/.test(t) && state.last?.length) {
-      const target = items.find((i) => t.includes(i.name.toLowerCase())) || items.find((i) => i.id === state.last[0]);
-      out.items = [target];
-      const steps = [target.tryout && 'there’s a tryout/audition', target.application && 'there’s an application'].filter(Boolean);
-      out.text = `For ${target.name}, ${steps.length ? steps.join(' and ') : 'just show up — no tryout or application needed'}. ${target.sponsorEmail ? `Email ${target.sponsor} to get started:` : `Ask ${target.sponsor || 'the sponsor'} for details:`}`;
-      out.chips = ['Show more', 'Start over'];
-      return out;
-    }
-
-    // --- search ---
-    const parsed = understand(text, state);
-    const next = parsed.next;
-    // A refinement like "only free" keeps the earlier interest; a new topic replaces it.
-    const interest = parsed.interest.length ? parsed.interest : (state.interest || []);
-    out.state = next;
-    const hasQuery = interest.length > 0 || next.category || next.free || next.noTryout || next.noApp || next.days?.length || next.maxCost != null;
-
-    if (!hasQuery && !parseGrade(text)) {
-      out.text = next.grade ? "Tell me a little about what you enjoy — sports, music, building things, helping others? Or pick one:" : "Happy to help! First, what grade is the student in?";
-      out.chips = next.grade ? chipsDefault : GRADE_CHIPS;
-      return out;
-    }
-    if (!hasQuery) { // just gave a grade
-      out.text = `Awesome — ${typeof next.grade === 'string' ? divisions[next.grade].label : gradeRangeLabel(...next.grade)}! What are you into?`;
-      out.chips = chipsDefault; return out;
-    }
-
-    const results = filterItems(next, interest);
-    out.state.last = results.map((r) => r.id); out.state.offset = 0; out.state.interest = interest;
-    const filt = describeFilters(next);
-    if (!results.length) {
-      out.text = `Hmm, I couldn't find a match${who(next)}${filt ? ` (${filt})` : ''}. Let me widen it — want to loosen a filter?`;
-      out.chips = [next.free && 'Include paid', next.noTryout && 'Allow tryouts', next.days?.length && 'Any day', 'Start over'].filter(Boolean);
-      return out;
-    }
-    const head = results.length === 1 ? 'I found 1 great fit' : `I found ${results.length} that could be a good fit`;
-    out.text = `${head}${who(next)}${filt ? ` (${filt})` : ''}:`;
-    out.items = results.slice(0, pageSize);
-    out.chips = [results.length > pageSize && 'Show more', !next.free && 'Only free', !next.noTryout && 'No tryout', !next.grade && 'Set grade', 'Start over'].filter(Boolean).slice(0, 4);
-    return out;
-  }
-
-  // Chip clicks that mean "relax a filter" or "set grade"
-  function chipToText(chip) {
-    return chip;
-  }
-
-  return { respond, chipToText, filterItems, parseGrade };
-}
