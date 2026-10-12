@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-10-12T15:28:04.084Z",
-    "opportunityCount": 26,
-    "eventCount": 2,
+    "updated": "2026-10-12T15:54:47.326Z",
+    "opportunityCount": 60,
+    "eventCount": 0,
     "divisions": {
       "LS": {
         "label": "Lower School",
@@ -27,7 +27,7 @@
       "id": "jazz-band",
       "category": "Arts",
       "name": "Jazz Band",
-      "description": "Jazz Band allows students to deepen their skills and interests within arts, while building meaningful connections and contributing to a vibrant, connected student experience.",
+      "description": "Jazz Band allows students to deepen their skills and interests within arts, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of excellence through teamwork, collaboration, and shared commitment to growth.",
       "values": [
         "Excellence"
       ],
@@ -57,7 +57,7 @@
       "id": "chorus-ensemble",
       "category": "Arts",
       "name": "Chorus Ensemble",
-      "description": "Chorus Ensemble allows students to deepen their skills and interests within arts, while building meaningful connections and contributing to a vibrant, connected student experience.",
+      "description": "Chorus Ensemble allows students to deepen their skills and interests within arts, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of opportunity through teamwork, collaboration, and shared commitment to growth.",
       "values": [
         "Excellence"
       ],
@@ -86,7 +86,7 @@
       "id": "theater-club",
       "category": "Arts",
       "name": "Theater Club",
-      "description": "Theater Club allows students to deepen their skills and interests within arts, while building meaningful connections and contributing to a vibrant, connected student experience.",
+      "description": "Theater Club allows students to deepen their skills and interests within arts, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of opportunity through teamwork, collaboration, and shared commitment to growth.",
       "values": [
         "Excellence"
       ],
@@ -115,7 +115,7 @@
       "id": "digital-photography",
       "category": "Arts",
       "name": "Digital Photography",
-      "description": "Digital Photography allows students to deepen their skills and interests within arts, while building meaningful connections and contributing to a vibrant, connected student experience.",
+      "description": "Digital Photography allows students to deepen their skills and interests within arts, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of excellence through teamwork, collaboration, and shared commitment to growth.",
       "values": [
         "Excellence"
       ],
@@ -146,7 +146,7 @@
       "id": "ceramics-studio",
       "category": "Arts",
       "name": "Ceramics Studio",
-      "description": "Ceramics Studio allows students to deepen their skills and interests within arts, while building meaningful connections and contributing to a vibrant, connected student experience.",
+      "description": "Ceramics Studio allows students to deepen their skills and interests within arts, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of character through teamwork, collaboration, and shared commitment to growth.",
       "values": [
         "Excellence"
       ],
@@ -175,7 +175,7 @@
       "id": "string-orchestra",
       "category": "Arts",
       "name": "String Orchestra",
-      "description": "String Orchestra allows students to deepen their skills and interests within arts, while building meaningful connections and contributing to a vibrant, connected student experience.",
+      "description": "String Orchestra allows students to deepen their skills and interests within arts, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of opportunity through teamwork, collaboration, and shared commitment to growth.",
       "values": [
         "Excellence"
       ],
@@ -204,7 +204,7 @@
       "id": "creative-writing-club",
       "category": "Arts",
       "name": "Creative Writing Club",
-      "description": "Creative Writing Club allows students to deepen their skills and interests within arts, while building meaningful connections and contributing to a vibrant, connected student experience.",
+      "description": "Creative Writing Club allows students to deepen their skills and interests within arts, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of excellence through teamwork, collaboration, and shared commitment to growth.",
       "values": [
         "Excellence"
       ],
@@ -230,10 +230,100 @@
       "sponsorEmail": "ms.patel@school.org"
     },
     {
+      "id": "art-portfolio-workshop",
+      "category": "Arts",
+      "name": "Art Portfolio Workshop",
+      "description": "Art Portfolio Workshop allows students to deepen their skills and interests within arts, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of character through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence"
+      ],
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "sponsor": "Coach Daniels",
+      "location": "Auditorium",
+      "schedule": "Thursdays",
+      "days": [
+        "Thursday"
+      ],
+      "tags": [
+        "teamwork"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": true,
+      "application": true,
+      "sponsorEmail": "coach.daniels@school.org"
+    },
+    {
+      "id": "film-production-club",
+      "category": "Arts",
+      "name": "Film Production Club",
+      "description": "Film Production Club allows students to deepen their skills and interests within arts, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of excellence through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence"
+      ],
+      "schools": [
+        "LS",
+        "MS",
+        "US"
+      ],
+      "gradeMin": 6,
+      "gradeMax": 12,
+      "gradeText": "Grades 6–12",
+      "sponsor": "Ms. Thompson",
+      "location": "Room 101",
+      "schedule": "Wednesdays",
+      "days": [
+        "Wednesday"
+      ],
+      "tags": [
+        "technology"
+      ],
+      "cost": 75,
+      "costText": "$75",
+      "tryout": false,
+      "application": true,
+      "sponsorEmail": "ms.thompson@school.org"
+    },
+    {
+      "id": "stagecraft-crew",
+      "category": "Arts",
+      "name": "Stagecraft Crew",
+      "description": "Stagecraft Crew allows students to deepen their skills and interests within arts, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of opportunity through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence"
+      ],
+      "schools": [
+        "MS",
+        "US"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 12,
+      "gradeText": "Grades 7–12",
+      "sponsor": "Mr. Rivera",
+      "location": "Gym",
+      "schedule": "Fridays",
+      "days": [
+        "Friday"
+      ],
+      "tags": [
+        "leadership"
+      ],
+      "cost": 75,
+      "costText": "$75",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "mr.rivera@school.org"
+    },
+    {
       "id": "cross-country",
       "category": "Athletics",
       "name": "Cross Country",
-      "description": "Cross Country allows students to deepen their skills and interests within athletics, while building meaningful connections and contributing to a vibrant, connected student experience.",
+      "description": "Cross Country allows students to deepen their skills and interests within athletics, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of character through teamwork, collaboration, and shared commitment to growth.",
       "values": [
         "Excellence"
       ],
@@ -261,7 +351,7 @@
       "id": "basketball",
       "category": "Athletics",
       "name": "Basketball",
-      "description": "Basketball allows students to deepen their skills and interests within athletics, while building meaningful connections and contributing to a vibrant, connected student experience.",
+      "description": "Basketball allows students to deepen their skills and interests within athletics, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of opportunity through teamwork, collaboration, and shared commitment to growth.",
       "values": [
         "Excellence",
         "Opportunity"
@@ -291,7 +381,7 @@
       "id": "soccer",
       "category": "Athletics",
       "name": "Soccer",
-      "description": "Soccer allows students to deepen their skills and interests within athletics, while building meaningful connections and contributing to a vibrant, connected student experience.",
+      "description": "Soccer allows students to deepen their skills and interests within athletics, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of character through teamwork, collaboration, and shared commitment to growth.",
       "values": [
         "Excellence",
         "Opportunity"
@@ -320,7 +410,7 @@
       "id": "swim-team",
       "category": "Athletics",
       "name": "Swim Team",
-      "description": "Swim Team allows students to deepen their skills and interests within athletics, while building meaningful connections and contributing to a vibrant, connected student experience.",
+      "description": "Swim Team allows students to deepen their skills and interests within athletics, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of opportunity through teamwork, collaboration, and shared commitment to growth.",
       "values": [
         "Excellence"
       ],
@@ -347,10 +437,39 @@
       "sponsorEmail": "dr.liu@school.org"
     },
     {
+      "id": "track-and-field",
+      "category": "Athletics",
+      "name": "Track & Field",
+      "description": "Track & Field allows students to deepen their skills and interests within athletics, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of opportunity through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence"
+      ],
+      "schools": [
+        "LS"
+      ],
+      "gradeMin": 6,
+      "gradeMax": 12,
+      "gradeText": "Grades 6–12",
+      "sponsor": "Ms. Patel",
+      "location": "Room 101",
+      "schedule": "Tuesdays",
+      "days": [
+        "Tuesday"
+      ],
+      "tags": [
+        "service"
+      ],
+      "cost": 50,
+      "costText": "$50",
+      "tryout": true,
+      "application": true,
+      "sponsorEmail": "ms.patel@school.org"
+    },
+    {
       "id": "volleyball",
       "category": "Athletics",
       "name": "Volleyball",
-      "description": "Volleyball allows students to deepen their skills and interests within athletics, while building meaningful connections and contributing to a vibrant, connected student experience.",
+      "description": "Volleyball allows students to deepen their skills and interests within athletics, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of opportunity through teamwork, collaboration, and shared commitment to growth.",
       "values": [
         "Excellence"
       ],
@@ -376,10 +495,126 @@
       "sponsorEmail": "mr.johnson@school.org"
     },
     {
+      "id": "tennis-team",
+      "category": "Athletics",
+      "name": "Tennis Team",
+      "description": "Tennis Team allows students to deepen their skills and interests within athletics, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of opportunity through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence"
+      ],
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "sponsor": "Ms. Patel",
+      "location": "Auditorium",
+      "schedule": "Fridays",
+      "days": [
+        "Friday"
+      ],
+      "tags": [
+        "service"
+      ],
+      "cost": 25,
+      "costText": "$25",
+      "tryout": false,
+      "application": true,
+      "sponsorEmail": "ms.patel@school.org"
+    },
+    {
+      "id": "wrestling-club",
+      "category": "Athletics",
+      "name": "Wrestling Club",
+      "description": "Wrestling Club allows students to deepen their skills and interests within athletics, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of excellence through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence"
+      ],
+      "schools": [
+        "MS"
+      ],
+      "gradeMin": 4,
+      "gradeMax": 6,
+      "gradeText": "Grades 4–6",
+      "sponsor": "Dr. Liu",
+      "location": "Auditorium",
+      "schedule": "Wednesdays",
+      "days": [
+        "Wednesday"
+      ],
+      "tags": [
+        "service"
+      ],
+      "cost": 50,
+      "costText": "$50",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "dr.liu@school.org"
+    },
+    {
+      "id": "golf-team",
+      "category": "Athletics",
+      "name": "Golf Team",
+      "description": "Golf Team allows students to deepen their skills and interests within athletics, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of excellence through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence"
+      ],
+      "schools": [
+        "LS"
+      ],
+      "gradeMin": 4,
+      "gradeMax": 12,
+      "gradeText": "Grades 4–12",
+      "sponsor": "Mr. Johnson",
+      "location": "Art Studio",
+      "schedule": "Tuesdays",
+      "days": [
+        "Tuesday"
+      ],
+      "tags": [
+        "teamwork"
+      ],
+      "cost": 25,
+      "costText": "$25",
+      "tryout": true,
+      "application": false,
+      "sponsorEmail": "mr.johnson@school.org"
+    },
+    {
+      "id": "dance-team",
+      "category": "Athletics",
+      "name": "Dance Team",
+      "description": "Dance Team allows students to deepen their skills and interests within athletics, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of opportunity through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence"
+      ],
+      "schools": [
+        "LS"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "sponsor": "Ms. Patel",
+      "location": "STEM Lab",
+      "schedule": "Mondays",
+      "days": [
+        "Monday"
+      ],
+      "tags": [
+        "teamwork"
+      ],
+      "cost": 25,
+      "costText": "$25",
+      "tryout": false,
+      "application": true,
+      "sponsorEmail": "ms.patel@school.org"
+    },
+    {
       "id": "chess-club",
       "category": "Clubs & Interests",
       "name": "Chess Club",
-      "description": "Chess Club allows students to deepen their skills and interests within clubs & interests, while building meaningful connections and contributing to a vibrant, connected student experience.",
+      "description": "Chess Club allows students to deepen their skills and interests within clubs & interests, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of character through teamwork, collaboration, and shared commitment to growth.",
       "values": [
         "Excellence",
         "Opportunity"
@@ -407,7 +642,7 @@
       "id": "cooking-club",
       "category": "Clubs & Interests",
       "name": "Cooking Club",
-      "description": "Cooking Club allows students to deepen their skills and interests within clubs & interests, while building meaningful connections and contributing to a vibrant, connected student experience.",
+      "description": "Cooking Club allows students to deepen their skills and interests within clubs & interests, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of character through teamwork, collaboration, and shared commitment to growth.",
       "values": [
         "Excellence",
         "Opportunity"
@@ -434,10 +669,37 @@
       "sponsorEmail": "ms.thompson@school.org"
     },
     {
+      "id": "board-game-society",
+      "category": "Clubs & Interests",
+      "name": "Board Game Society",
+      "description": "Board Game Society allows students to deepen their skills and interests within clubs & interests, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of excellence through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence"
+      ],
+      "schools": [
+        "MS"
+      ],
+      "gradeMin": 4,
+      "gradeMax": 12,
+      "gradeText": "Grades 4–12",
+      "sponsor": "Ms. Thompson",
+      "location": "Room 101",
+      "schedule": "Biweekly",
+      "days": [],
+      "tags": [
+        "creativity"
+      ],
+      "cost": 25,
+      "costText": "$25",
+      "tryout": true,
+      "application": false,
+      "sponsorEmail": "ms.thompson@school.org"
+    },
+    {
       "id": "gardening-club",
       "category": "Clubs & Interests",
       "name": "Gardening Club",
-      "description": "Gardening Club allows students to deepen their skills and interests within clubs & interests, while building meaningful connections and contributing to a vibrant, connected student experience.",
+      "description": "Gardening Club allows students to deepen their skills and interests within clubs & interests, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of character through teamwork, collaboration, and shared commitment to growth.",
       "values": [
         "Excellence"
       ],
@@ -466,7 +728,7 @@
       "id": "esports-team",
       "category": "Clubs & Interests",
       "name": "Esports Team",
-      "description": "Esports Team allows students to deepen their skills and interests within clubs & interests, while building meaningful connections and contributing to a vibrant, connected student experience.",
+      "description": "Esports Team allows students to deepen their skills and interests within clubs & interests, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of character through teamwork, collaboration, and shared commitment to growth.",
       "values": [
         "Excellence"
       ],
@@ -492,10 +754,124 @@
       "sponsorEmail": "mr.johnson@school.org"
     },
     {
+      "id": "fashion-design-club",
+      "category": "Clubs & Interests",
+      "name": "Fashion Design Club",
+      "description": "Fashion Design Club allows students to deepen their skills and interests within clubs & interests, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of character through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence"
+      ],
+      "schools": [
+        "MS"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "sponsor": "Ms. Thompson",
+      "location": "Room 101",
+      "schedule": "Biweekly",
+      "days": [],
+      "tags": [
+        "technology"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "ms.thompson@school.org"
+    },
+    {
+      "id": "origami-and-paper-arts",
+      "category": "Clubs & Interests",
+      "name": "Origami & Paper Arts",
+      "description": "Origami & Paper Arts allows students to deepen their skills and interests within clubs & interests, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of opportunity through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence"
+      ],
+      "schools": [
+        "MS"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "sponsor": "Coach Daniels",
+      "location": "Library",
+      "schedule": "Tuesdays",
+      "days": [
+        "Tuesday"
+      ],
+      "tags": [
+        "service"
+      ],
+      "cost": 25,
+      "costText": "$25",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "coach.daniels@school.org"
+    },
+    {
+      "id": "outdoor-adventure-club",
+      "category": "Clubs & Interests",
+      "name": "Outdoor Adventure Club",
+      "description": "Outdoor Adventure Club allows students to deepen their skills and interests within clubs & interests, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of excellence through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence",
+        "Opportunity",
+        "Character"
+      ],
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 4,
+      "gradeMax": 12,
+      "gradeText": "Grades 4–12",
+      "sponsor": "Dr. Liu",
+      "location": "Gym",
+      "schedule": "Wednesdays",
+      "days": [
+        "Wednesday"
+      ],
+      "tags": [
+        "teamwork"
+      ],
+      "cost": 50,
+      "costText": "$50",
+      "tryout": true,
+      "application": false,
+      "sponsorEmail": "dr.liu@school.org"
+    },
+    {
+      "id": "lego-engineering-club",
+      "category": "Clubs & Interests",
+      "name": "Lego Engineering Club",
+      "description": "Lego Engineering Club allows students to deepen their skills and interests within clubs & interests, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of excellence through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence"
+      ],
+      "schools": [
+        "MS"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "sponsor": "Mr. Rivera",
+      "location": "Art Studio",
+      "schedule": "Biweekly",
+      "days": [],
+      "tags": [
+        "technology"
+      ],
+      "cost": 75,
+      "costText": "$75",
+      "tryout": false,
+      "application": true,
+      "sponsorEmail": "mr.rivera@school.org"
+    },
+    {
       "id": "book-club",
       "category": "Clubs & Interests",
       "name": "Book Club",
-      "description": "Book Club allows students to deepen their skills and interests within clubs & interests, while building meaningful connections and contributing to a vibrant, connected student experience.",
+      "description": "Book Club allows students to deepen their skills and interests within clubs & interests, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of opportunity through teamwork, collaboration, and shared commitment to growth.",
       "values": [
         "Excellence"
       ],
@@ -524,7 +900,7 @@
       "id": "student-council",
       "category": "Leadership",
       "name": "Student Council",
-      "description": "Student Council allows students to deepen their skills and interests within leadership, while building meaningful connections and contributing to a vibrant, connected student experience.",
+      "description": "Student Council allows students to deepen their skills and interests within leadership, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of character through teamwork, collaboration, and shared commitment to growth.",
       "values": [
         "Excellence",
         "Character",
@@ -555,7 +931,7 @@
       "id": "peer-mentors",
       "category": "Leadership",
       "name": "Peer Mentors",
-      "description": "Peer Mentors allows students to deepen their skills and interests within leadership, while building meaningful connections and contributing to a vibrant, connected student experience.",
+      "description": "Peer Mentors allows students to deepen their skills and interests within leadership, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of opportunity through teamwork, collaboration, and shared commitment to growth.",
       "values": [
         "Excellence",
         "Character",
@@ -581,10 +957,255 @@
       "sponsorEmail": "coach.daniels@school.org"
     },
     {
+      "id": "house-leadership-team",
+      "category": "Leadership",
+      "name": "House Leadership Team",
+      "description": "House Leadership Team allows students to deepen their skills and interests within leadership, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of character through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence",
+        "Character",
+        "Opportunity"
+      ],
+      "schools": [
+        "MS"
+      ],
+      "gradeMin": 5,
+      "gradeMax": 8,
+      "gradeText": "Grades 5–8",
+      "sponsor": "Mr. Rivera",
+      "location": "Gym",
+      "schedule": "Fridays",
+      "days": [
+        "Friday"
+      ],
+      "tags": [
+        "teamwork"
+      ],
+      "cost": 50,
+      "costText": "$50",
+      "tryout": true,
+      "application": false,
+      "sponsorEmail": "mr.rivera@school.org"
+    },
+    {
+      "id": "ambassador-program",
+      "category": "Leadership",
+      "name": "Ambassador Program",
+      "description": "Ambassador Program allows students to deepen their skills and interests within leadership, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of character through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence",
+        "Character",
+        "Opportunity"
+      ],
+      "schools": [
+        "MS"
+      ],
+      "gradeMin": 6,
+      "gradeMax": 12,
+      "gradeText": "Grades 6–12",
+      "sponsor": "Coach Daniels",
+      "location": "Auditorium",
+      "schedule": "Mondays",
+      "days": [
+        "Monday"
+      ],
+      "tags": [
+        "leadership"
+      ],
+      "cost": 75,
+      "costText": "$75",
+      "tryout": true,
+      "application": true,
+      "sponsorEmail": "coach.daniels@school.org"
+    },
+    {
+      "id": "advisory-leadership",
+      "category": "Leadership",
+      "name": "Advisory Leadership",
+      "description": "Advisory Leadership allows students to deepen their skills and interests within leadership, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of opportunity through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence",
+        "Character",
+        "Opportunity"
+      ],
+      "schools": [
+        "LS"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "sponsor": "Mr. Johnson",
+      "location": "Art Studio",
+      "schedule": "Biweekly",
+      "days": [],
+      "tags": [
+        "technology"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": true,
+      "application": false,
+      "sponsorEmail": "mr.johnson@school.org"
+    },
+    {
+      "id": "honor-council",
+      "category": "Leadership",
+      "name": "Honor Council",
+      "description": "Honor Council allows students to deepen their skills and interests within leadership, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of character through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence",
+        "Character"
+      ],
+      "schools": [
+        "MS"
+      ],
+      "gradeMin": 5,
+      "gradeMax": 8,
+      "gradeText": "Grades 5–8",
+      "sponsor": "Dr. Liu",
+      "location": "Auditorium",
+      "schedule": "Tuesdays",
+      "days": [
+        "Tuesday"
+      ],
+      "tags": [
+        "creativity"
+      ],
+      "cost": 50,
+      "costText": "$50",
+      "tryout": true,
+      "application": true,
+      "sponsorEmail": "dr.liu@school.org"
+    },
+    {
+      "id": "global-leadership-cohort",
+      "category": "Leadership",
+      "name": "Global Leadership Cohort",
+      "description": "Global Leadership Cohort allows students to deepen their skills and interests within leadership, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of excellence through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence",
+        "Character",
+        "Opportunity"
+      ],
+      "schools": [
+        "MS"
+      ],
+      "gradeMin": 4,
+      "gradeMax": 12,
+      "gradeText": "Grades 4–12",
+      "sponsor": "Mr. Johnson",
+      "location": "Art Studio",
+      "schedule": "Fridays",
+      "days": [
+        "Friday"
+      ],
+      "tags": [
+        "creativity"
+      ],
+      "cost": 25,
+      "costText": "$25",
+      "tryout": true,
+      "application": true,
+      "sponsorEmail": "mr.johnson@school.org"
+    },
+    {
+      "id": "team-captains-circle",
+      "category": "Leadership",
+      "name": "Team Captains Circle",
+      "description": "Team Captains Circle allows students to deepen their skills and interests within leadership, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of opportunity through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence",
+        "Character",
+        "Opportunity"
+      ],
+      "schools": [
+        "MS"
+      ],
+      "gradeMin": 5,
+      "gradeMax": 8,
+      "gradeText": "Grades 5–8",
+      "sponsor": "Ms. Thompson",
+      "location": "Auditorium",
+      "schedule": "Mondays",
+      "days": [
+        "Monday"
+      ],
+      "tags": [
+        "teamwork"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "ms.thompson@school.org"
+    },
+    {
+      "id": "service-leaders-board",
+      "category": "Leadership",
+      "name": "Service Leaders Board",
+      "description": "Service Leaders Board allows students to deepen their skills and interests within leadership, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of opportunity through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence",
+        "Character",
+        "Opportunity"
+      ],
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 6,
+      "gradeMax": 12,
+      "gradeText": "Grades 6–12",
+      "sponsor": "Dr. Liu",
+      "location": "Gym",
+      "schedule": "Wednesdays",
+      "days": [
+        "Wednesday"
+      ],
+      "tags": [
+        "creativity"
+      ],
+      "cost": 75,
+      "costText": "$75",
+      "tryout": true,
+      "application": false,
+      "sponsorEmail": "dr.liu@school.org"
+    },
+    {
+      "id": "student-advisory-panel",
+      "category": "Leadership",
+      "name": "Student Advisory Panel",
+      "description": "Student Advisory Panel allows students to deepen their skills and interests within leadership, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of opportunity through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence",
+        "Character",
+        "Opportunity"
+      ],
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 6,
+      "gradeMax": 12,
+      "gradeText": "Grades 6–12",
+      "sponsor": "Ms. Thompson",
+      "location": "Auditorium",
+      "schedule": "Thursdays",
+      "days": [
+        "Thursday"
+      ],
+      "tags": [
+        "technology"
+      ],
+      "cost": 25,
+      "costText": "$25",
+      "tryout": true,
+      "application": true,
+      "sponsorEmail": "ms.thompson@school.org"
+    },
+    {
       "id": "community-service-club",
       "category": "Service",
       "name": "Community Service Club",
-      "description": "Community Service Club allows students to deepen their skills and interests within service, while building meaningful connections and contributing to a vibrant, connected student experience.",
+      "description": "Community Service Club allows students to deepen their skills and interests within service, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of opportunity through teamwork, collaboration, and shared commitment to growth.",
       "values": [
         "Excellence",
         "Character",
@@ -612,10 +1233,103 @@
       "sponsorEmail": "mr.rivera@school.org"
     },
     {
+      "id": "food-bank-volunteers",
+      "category": "Service",
+      "name": "Food Bank Volunteers",
+      "description": "Food Bank Volunteers allows students to deepen their skills and interests within service, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of opportunity through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence",
+        "Character",
+        "Opportunity"
+      ],
+      "schools": [
+        "LS"
+      ],
+      "gradeMin": 6,
+      "gradeMax": 12,
+      "gradeText": "Grades 6–12",
+      "sponsor": "Dr. Liu",
+      "location": "Room 101",
+      "schedule": "Tuesdays",
+      "days": [
+        "Tuesday"
+      ],
+      "tags": [
+        "leadership"
+      ],
+      "cost": 75,
+      "costText": "$75",
+      "tryout": false,
+      "application": true,
+      "sponsorEmail": "dr.liu@school.org"
+    },
+    {
+      "id": "environmental-action-team",
+      "category": "Service",
+      "name": "Environmental Action Team",
+      "description": "Environmental Action Team allows students to deepen their skills and interests within service, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of character through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence",
+        "Character",
+        "Opportunity"
+      ],
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 6,
+      "gradeMax": 12,
+      "gradeText": "Grades 6–12",
+      "sponsor": "Dr. Liu",
+      "location": "Art Studio",
+      "schedule": "Tuesdays",
+      "days": [
+        "Tuesday"
+      ],
+      "tags": [
+        "service"
+      ],
+      "cost": 50,
+      "costText": "$50",
+      "tryout": true,
+      "application": false,
+      "sponsorEmail": "dr.liu@school.org"
+    },
+    {
+      "id": "peer-tutoring-program",
+      "category": "Service",
+      "name": "Peer Tutoring Program",
+      "description": "Peer Tutoring Program allows students to deepen their skills and interests within service, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of excellence through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence",
+        "Character",
+        "Opportunity"
+      ],
+      "schools": [
+        "LS"
+      ],
+      "gradeMin": 4,
+      "gradeMax": 12,
+      "gradeText": "Grades 4–12",
+      "sponsor": "Ms. Thompson",
+      "location": "Room 101",
+      "schedule": "Tuesdays",
+      "days": [
+        "Tuesday"
+      ],
+      "tags": [
+        "creativity"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": false,
+      "application": true,
+      "sponsorEmail": "ms.thompson@school.org"
+    },
+    {
       "id": "animal-shelter-helpers",
       "category": "Service",
       "name": "Animal Shelter Helpers",
-      "description": "Animal Shelter Helpers allows students to deepen their skills and interests within service, while building meaningful connections and contributing to a vibrant, connected student experience.",
+      "description": "Animal Shelter Helpers allows students to deepen their skills and interests within service, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of character through teamwork, collaboration, and shared commitment to growth.",
       "values": [
         "Excellence",
         "Character",
@@ -643,10 +1357,41 @@
       "sponsorEmail": "mr.rivera@school.org"
     },
     {
+      "id": "hospital-care-packages-group",
+      "category": "Service",
+      "name": "Hospital Care Packages Group",
+      "description": "Hospital Care Packages Group allows students to deepen their skills and interests within service, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of excellence through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence",
+        "Character",
+        "Opportunity"
+      ],
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 5,
+      "gradeMax": 8,
+      "gradeText": "Grades 5–8",
+      "sponsor": "Coach Daniels",
+      "location": "Art Studio",
+      "schedule": "Wednesdays",
+      "days": [
+        "Wednesday"
+      ],
+      "tags": [
+        "creativity"
+      ],
+      "cost": 25,
+      "costText": "$25",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "coach.daniels@school.org"
+    },
+    {
       "id": "recycling-crew",
       "category": "Service",
       "name": "Recycling Crew",
-      "description": "Recycling Crew allows students to deepen their skills and interests within service, while building meaningful connections and contributing to a vibrant, connected student experience.",
+      "description": "Recycling Crew allows students to deepen their skills and interests within service, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of character through teamwork, collaboration, and shared commitment to growth.",
       "values": [
         "Excellence",
         "Character",
@@ -674,10 +1419,130 @@
       "sponsorEmail": "coach.daniels@school.org"
     },
     {
+      "id": "neighborhood-clean-up-team",
+      "category": "Service",
+      "name": "Neighborhood Clean-Up Team",
+      "description": "Neighborhood Clean-Up Team allows students to deepen their skills and interests within service, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of excellence through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence",
+        "Character",
+        "Opportunity"
+      ],
+      "schools": [
+        "MS"
+      ],
+      "gradeMin": 4,
+      "gradeMax": 12,
+      "gradeText": "Grades 4–12",
+      "sponsor": "Mr. Rivera",
+      "location": "Library",
+      "schedule": "Tuesdays",
+      "days": [
+        "Tuesday"
+      ],
+      "tags": [
+        "technology"
+      ],
+      "cost": 50,
+      "costText": "$50",
+      "tryout": false,
+      "application": true,
+      "sponsorEmail": "mr.rivera@school.org"
+    },
+    {
+      "id": "senior-center-companions",
+      "category": "Service",
+      "name": "Senior Center Companions",
+      "description": "Senior Center Companions allows students to deepen their skills and interests within service, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of excellence through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence",
+        "Character",
+        "Opportunity"
+      ],
+      "schools": [
+        "MS"
+      ],
+      "gradeMin": 4,
+      "gradeMax": 12,
+      "gradeText": "Grades 4–12",
+      "sponsor": "Ms. Thompson",
+      "location": "Gym",
+      "schedule": "Biweekly",
+      "days": [],
+      "tags": [
+        "technology"
+      ],
+      "cost": 75,
+      "costText": "$75",
+      "tryout": true,
+      "application": true,
+      "sponsorEmail": "ms.thompson@school.org"
+    },
+    {
+      "id": "fundraising-and-philanthropy-club",
+      "category": "Service",
+      "name": "Fundraising & Philanthropy Club",
+      "description": "Fundraising & Philanthropy Club allows students to deepen their skills and interests within service, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of excellence through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence",
+        "Character",
+        "Opportunity"
+      ],
+      "schools": [
+        "MS"
+      ],
+      "gradeMin": 4,
+      "gradeMax": 12,
+      "gradeText": "Grades 4–12",
+      "sponsor": "Ms. Patel",
+      "location": "Art Studio",
+      "schedule": "Fridays",
+      "days": [
+        "Friday"
+      ],
+      "tags": [
+        "technology"
+      ],
+      "cost": 25,
+      "costText": "$25",
+      "tryout": true,
+      "application": true,
+      "sponsorEmail": "ms.patel@school.org"
+    },
+    {
+      "id": "math-team",
+      "category": "Academic & Enrichment",
+      "name": "Math Team",
+      "description": "Math Team allows students to deepen their skills and interests within academic & enrichment, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of opportunity through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence"
+      ],
+      "schools": [
+        "LS"
+      ],
+      "gradeMin": 4,
+      "gradeMax": 6,
+      "gradeText": "Grades 4–6",
+      "sponsor": "Dr. Liu",
+      "location": "Room 101",
+      "schedule": "Tuesdays",
+      "days": [
+        "Tuesday"
+      ],
+      "tags": [
+        "teamwork"
+      ],
+      "cost": 75,
+      "costText": "$75",
+      "tryout": false,
+      "application": true,
+      "sponsorEmail": "dr.liu@school.org"
+    },
+    {
       "id": "robotics",
       "category": "Academic & Enrichment",
       "name": "Robotics",
-      "description": "Robotics allows students to deepen their skills and interests within academic & enrichment, while building meaningful connections and contributing to a vibrant, connected student experience.",
+      "description": "Robotics allows students to deepen their skills and interests within academic & enrichment, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of opportunity through teamwork, collaboration, and shared commitment to growth.",
       "values": [
         "Excellence"
       ],
@@ -706,7 +1571,7 @@
       "id": "debate-team",
       "category": "Academic & Enrichment",
       "name": "Debate Team",
-      "description": "Debate Team allows students to deepen their skills and interests within academic & enrichment, while building meaningful connections and contributing to a vibrant, connected student experience.",
+      "description": "Debate Team allows students to deepen their skills and interests within academic & enrichment, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of excellence through teamwork, collaboration, and shared commitment to growth.",
       "values": [
         "Excellence"
       ],
@@ -735,7 +1600,7 @@
       "id": "science-olympiad",
       "category": "Academic & Enrichment",
       "name": "Science Olympiad",
-      "description": "Science Olympiad allows students to deepen their skills and interests within academic & enrichment, while building meaningful connections and contributing to a vibrant, connected student experience.",
+      "description": "Science Olympiad allows students to deepen their skills and interests within academic & enrichment, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of character through teamwork, collaboration, and shared commitment to growth.",
       "values": [
         "Excellence"
       ],
@@ -761,10 +1626,39 @@
       "sponsorEmail": "mr.johnson@school.org"
     },
     {
+      "id": "model-un",
+      "category": "Academic & Enrichment",
+      "name": "Model UN",
+      "description": "Model UN allows students to deepen their skills and interests within academic & enrichment, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of opportunity through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence"
+      ],
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 4,
+      "gradeMax": 12,
+      "gradeText": "Grades 4–12",
+      "sponsor": "Mr. Rivera",
+      "location": "Gym",
+      "schedule": "Thursdays",
+      "days": [
+        "Thursday"
+      ],
+      "tags": [
+        "service"
+      ],
+      "cost": 50,
+      "costText": "$50",
+      "tryout": true,
+      "application": true,
+      "sponsorEmail": "mr.rivera@school.org"
+    },
+    {
       "id": "coding-club",
       "category": "Academic & Enrichment",
       "name": "Coding Club",
-      "description": "Coding Club allows students to deepen their skills and interests within academic & enrichment, while building meaningful connections and contributing to a vibrant, connected student experience.",
+      "description": "Coding Club allows students to deepen their skills and interests within academic & enrichment, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of excellence through teamwork, collaboration, and shared commitment to growth.",
       "values": [
         "Excellence"
       ],
@@ -788,58 +1682,139 @@
       "tryout": false,
       "application": false,
       "sponsorEmail": "ms.thompson@school.org"
-    }
-  ],
-  "events": [
-    {
-      "id": "sample-activities-fair-2026-10-22",
-      "name": "Sample: Activities Fair",
-      "description": "Meet club sponsors and student leaders and sign up. (Sample row - replace with your Events tab.)",
-      "date": "2026-10-22",
-      "start": "3:30 PM",
-      "end": "5:00 PM",
-      "location": "Gym",
-      "schools": [
-        "LS",
-        "MS",
-        "US"
-      ],
-      "gradeMin": -2,
-      "gradeMax": 12,
-      "gradeText": "Grades PreK3–12",
-      "category": "Clubs & Interests",
-      "contact": "Student Life Office",
-      "contactEmail": "studentlife@school.org",
-      "link": "",
-      "costText": "Free"
     },
     {
-      "id": "sample-fall-concert-2026-11-05",
-      "name": "Sample: Fall Concert",
-      "description": "Chorus, Jazz Band, and String Orchestra perform. (Sample row)",
-      "date": "2026-11-05",
-      "start": "6:30 PM",
-      "end": "8:00 PM",
-      "location": "Auditorium",
+      "id": "literary-magazine",
+      "category": "Academic & Enrichment",
+      "name": "Literary Magazine",
+      "description": "Literary Magazine allows students to deepen their skills and interests within academic & enrichment, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of opportunity through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence"
+      ],
       "schools": [
-        "MS",
-        "US"
+        "LS"
       ],
       "gradeMin": 6,
       "gradeMax": 12,
       "gradeText": "Grades 6–12",
-      "category": "Arts",
-      "contact": "Mr. Rivera",
-      "contactEmail": "mr.rivera@school.org",
-      "link": "",
-      "costText": "Free"
+      "sponsor": "Dr. Liu",
+      "location": "STEM Lab",
+      "schedule": "Thursdays",
+      "days": [
+        "Thursday"
+      ],
+      "tags": [
+        "technology"
+      ],
+      "cost": 50,
+      "costText": "$50",
+      "tryout": true,
+      "application": false,
+      "sponsorEmail": "dr.liu@school.org"
+    },
+    {
+      "id": "history-scholars-circle",
+      "category": "Academic & Enrichment",
+      "name": "History Scholars Circle",
+      "description": "History Scholars Circle allows students to deepen their skills and interests within academic & enrichment, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of excellence through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence"
+      ],
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 5,
+      "gradeMax": 8,
+      "gradeText": "Grades 5–8",
+      "sponsor": "Dr. Liu",
+      "location": "Room 101",
+      "schedule": "Thursdays",
+      "days": [
+        "Thursday"
+      ],
+      "tags": [
+        "technology"
+      ],
+      "cost": 50,
+      "costText": "$50",
+      "tryout": true,
+      "application": false,
+      "sponsorEmail": "dr.liu@school.org"
+    },
+    {
+      "id": "stem-research-group",
+      "category": "Academic & Enrichment",
+      "name": "STEM Research Group",
+      "description": "STEM Research Group allows students to deepen their skills and interests within academic & enrichment, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of opportunity through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence"
+      ],
+      "schools": [
+        "LS"
+      ],
+      "gradeMin": 4,
+      "gradeMax": 12,
+      "gradeText": "Grades 4–12",
+      "sponsor": "Ms. Thompson",
+      "location": "Library",
+      "schedule": "Thursdays",
+      "days": [
+        "Thursday"
+      ],
+      "tags": [
+        "creativity"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": true,
+      "application": true,
+      "sponsorEmail": "ms.thompson@school.org"
+    },
+    {
+      "id": "academic-bowl",
+      "category": "Academic & Enrichment",
+      "name": "Academic Bowl",
+      "description": "Academic Bowl allows students to deepen their skills and interests within academic & enrichment, while building meaningful connections and contributing to a vibrant, connected student experience. Students practice our core value of excellence through teamwork, collaboration, and shared commitment to growth.",
+      "values": [
+        "Excellence"
+      ],
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 4,
+      "gradeMax": 6,
+      "gradeText": "Grades 4–6",
+      "sponsor": "Ms. Patel",
+      "location": "Library",
+      "schedule": "Biweekly",
+      "days": [],
+      "tags": [
+        "technology"
+      ],
+      "cost": 50,
+      "costText": "$50",
+      "tryout": false,
+      "application": true,
+      "sponsorEmail": "ms.patel@school.org"
     }
   ],
+  "events": [],
   "warnings": [
-    "23 email address(es) contained doubled dots (e.g. \"dr..liu@school.org\") and were auto-corrected. Worth fixing at the source in the sheet.",
-    "Row 15 (Cooking Club): School \"US\" doesn't match grades Grades 4–6 — Eddie matches on grade level",
-    "Row 18 (Book Club): School \"US\" doesn't match grades Grades 5–8 — Eddie matches on grade level",
-    "Row 21 (Community Service Club): School \"MS\" doesn't match grades Grades 9–12 — Eddie matches on grade level",
-    "Row 22 (Animal Shelter Helpers): School \"US\" doesn't match grades Grades 5–8 — Eddie matches on grade level"
+    "53 email address(es) contained doubled dots (e.g. \"dr..liu@school.org\") and were auto-corrected. Worth fixing at the source in the sheet.",
+    "Row 16 (Track & Field): School \"LS\" doesn't match grades Grades 6–12 — Eddie matches on grade level",
+    "Row 21 (Dance Team): School \"LS\" doesn't match grades Grades 9–12 — Eddie matches on grade level",
+    "Row 23 (Cooking Club): School \"US\" doesn't match grades Grades 4–6 — Eddie matches on grade level",
+    "Row 27 (Fashion Design Club): School \"MS\" doesn't match grades Grades 9–12 — Eddie matches on grade level",
+    "Row 28 (Origami & Paper Arts): School \"MS\" doesn't match grades Grades 9–12 — Eddie matches on grade level",
+    "Row 30 (Lego Engineering Club): School \"MS\" doesn't match grades Grades 9–12 — Eddie matches on grade level",
+    "Row 31 (Book Club): School \"US\" doesn't match grades Grades 5–8 — Eddie matches on grade level",
+    "Row 36 (Advisory Leadership): School \"LS\" doesn't match grades Grades 9–12 — Eddie matches on grade level",
+    "Row 42 (Community Service Club): School \"MS\" doesn't match grades Grades 9–12 — Eddie matches on grade level",
+    "Row 43 (Food Bank Volunteers): School \"LS\" doesn't match grades Grades 6–12 — Eddie matches on grade level",
+    "Row 46 (Animal Shelter Helpers): School \"US\" doesn't match grades Grades 5–8 — Eddie matches on grade level",
+    "Row 47 (Hospital Care Packages Group): School \"US\" doesn't match grades Grades 5–8 — Eddie matches on grade level",
+    "Row 58 (Literary Magazine): School \"LS\" doesn't match grades Grades 6–12 — Eddie matches on grade level",
+    "Row 59 (History Scholars Circle): School \"US\" doesn't match grades Grades 5–8 — Eddie matches on grade level",
+    "Row 61 (Academic Bowl): School \"US\" doesn't match grades Grades 4–6 — Eddie matches on grade level"
   ]
 }
