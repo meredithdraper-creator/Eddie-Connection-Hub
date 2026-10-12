@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-10-12T15:54:47.326Z",
-    "opportunityCount": 60,
+    "updated": "2026-10-12T17:49:06.418Z",
+    "opportunityCount": 110,
     "eventCount": 0,
     "divisions": {
       "LS": {
@@ -1796,6 +1796,1671 @@
       "tryout": false,
       "application": true,
       "sponsorEmail": "ms.patel@school.org"
+    },
+    {
+      "id": "little-artists-studio",
+      "category": "Arts",
+      "name": "Little Artists Studio",
+      "description": "Young artists explore paint, clay, collage, and print-making through playful, process-focused projects, and every session ends with a mini gallery walk to celebrate each child's work.",
+      "values": [
+        "Excellence",
+        "Opportunity"
+      ],
+      "schools": [
+        "LS"
+      ],
+      "gradeMin": -1,
+      "gradeMax": 2,
+      "gradeText": "Grades PreK4–2",
+      "sponsor": "Ms. Alvarez",
+      "location": "Lower School Art Room",
+      "schedule": "Wednesdays, 3:15–4:15 PM",
+      "days": [
+        "Wednesday"
+      ],
+      "tags": [
+        "painting",
+        "crafts",
+        "creativity"
+      ],
+      "cost": 25,
+      "costText": "$25",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "ms.alvarez@school.org"
+    },
+    {
+      "id": "primary-singers",
+      "category": "Arts",
+      "name": "Primary Singers",
+      "description": "A joyful beginning choir where students learn songs, rhythm games, and simple harmonies while building confidence singing together. The group performs at the winter and spring family showcases.",
+      "values": [
+        "Character",
+        "Excellence"
+      ],
+      "schools": [
+        "LS"
+      ],
+      "gradeMin": 0,
+      "gradeMax": 2,
+      "gradeText": "Grades K–2",
+      "sponsor": "Mrs. Washington",
+      "location": "Lower School Music Room",
+      "schedule": "Tuesdays, 3:15–4:00 PM",
+      "days": [
+        "Tuesday"
+      ],
+      "tags": [
+        "singing",
+        "choir",
+        "music"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "mrs.washington@school.org"
+    },
+    {
+      "id": "creative-movement",
+      "category": "Arts",
+      "name": "Creative Movement",
+      "description": "Through stories, music, and imaginative games, young dancers build balance, coordination, and body awareness. No experience is needed, only energy and curiosity.",
+      "values": [
+        "Opportunity",
+        "Character"
+      ],
+      "schools": [
+        "LS"
+      ],
+      "gradeMin": -1,
+      "gradeMax": 2,
+      "gradeText": "Grades PreK4–2",
+      "sponsor": "Ms. O'Connor",
+      "location": "Lower School Gym",
+      "schedule": "Thursdays, 3:15–4:00 PM",
+      "days": [
+        "Thursday"
+      ],
+      "tags": [
+        "dance",
+        "movement",
+        "music"
+      ],
+      "cost": 30,
+      "costText": "$30",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "ms.oconnor@school.org"
+    },
+    {
+      "id": "handbell-choir",
+      "category": "Arts",
+      "name": "Handbell Choir",
+      "description": "Students learn to read music and ring in sequence to create beautiful melodies as a team. Every ringer is responsible for specific notes, so teamwork is essential.",
+      "values": [
+        "Character",
+        "Excellence"
+      ],
+      "schools": [
+        "LS"
+      ],
+      "gradeMin": 3,
+      "gradeMax": 5,
+      "gradeText": "Grades 3–5",
+      "sponsor": "Mrs. Washington",
+      "location": "Lower School Music Room",
+      "schedule": "Mondays, 3:30–4:30 PM",
+      "days": [
+        "Monday"
+      ],
+      "tags": [
+        "music",
+        "bells",
+        "performance"
+      ],
+      "cost": 20,
+      "costText": "$20",
+      "tryout": false,
+      "application": true,
+      "sponsorEmail": "mrs.washington@school.org"
+    },
+    {
+      "id": "steel-pan-ensemble",
+      "category": "Arts",
+      "name": "Steel Pan Ensemble",
+      "description": "Learn to play the steel drum and perform island, pop, and jazz favorites. Students practice rhythm, ear training, and ensemble listening, and perform at school events and community festivals.",
+      "values": [
+        "Excellence",
+        "Opportunity"
+      ],
+      "schools": [
+        "LS",
+        "MS"
+      ],
+      "gradeMin": 4,
+      "gradeMax": 8,
+      "gradeText": "Grades 4–8",
+      "sponsor": "Mr. Delgado",
+      "location": "Band Room",
+      "schedule": "Thursdays, 3:30–5:00 PM",
+      "days": [
+        "Thursday"
+      ],
+      "tags": [
+        "music",
+        "drums",
+        "performance"
+      ],
+      "cost": 40,
+      "costText": "$40",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "mr.delgado@school.org"
+    },
+    {
+      "id": "drumline",
+      "category": "Arts",
+      "name": "Drumline",
+      "description": "The percussion backbone of Friday night athletics events. Members learn marching snare, bass, and cymbals techniques and perform original cadences at games and pep rallies.",
+      "values": [
+        "Excellence",
+        "Character"
+      ],
+      "schools": [
+        "MS",
+        "US"
+      ],
+      "gradeMin": 6,
+      "gradeMax": 12,
+      "gradeText": "Grades 6–12",
+      "sponsor": "Mr. Delgado",
+      "location": "Band Room",
+      "schedule": "Tuesdays and Thursdays, 3:30–5:00 PM",
+      "days": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "tags": [
+        "percussion",
+        "music",
+        "school spirit"
+      ],
+      "cost": 50,
+      "costText": "$50",
+      "tryout": true,
+      "application": false,
+      "sponsorEmail": "mr.delgado@school.org"
+    },
+    {
+      "id": "improv-troupe",
+      "category": "Arts",
+      "name": "Improv Troupe",
+      "description": "Quick thinking, bold choices, and a lot of laughs. Troupe members train in long- and short-form improv games and perform at school events, with an end-of-year showcase.",
+      "values": [
+        "Opportunity",
+        "Character"
+      ],
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "sponsor": "Ms. Brooks",
+      "location": "Black Box Theater",
+      "schedule": "Wednesdays, 3:45–5:15 PM",
+      "days": [
+        "Wednesday"
+      ],
+      "tags": [
+        "theater",
+        "comedy",
+        "performance"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": true,
+      "application": false,
+      "sponsorEmail": "ms.brooks@school.org"
+    },
+    {
+      "id": "yearbook-staff",
+      "category": "Arts",
+      "name": "Yearbook Staff",
+      "description": "The team that documents the year in photos, design, and stories. Staffers learn layout design, interviewing, photography, deadlines, and editorial decision-making.",
+      "values": [
+        "Excellence",
+        "Character"
+      ],
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "sponsor": "Mr. Singh",
+      "location": "Room 214",
+      "schedule": "Mondays, 3:30–5:00 PM",
+      "days": [
+        "Monday"
+      ],
+      "tags": [
+        "photography",
+        "design",
+        "journalism",
+        "writing"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": false,
+      "application": true,
+      "sponsorEmail": "mr.singh@school.org"
+    },
+    {
+      "id": "mural-project",
+      "category": "Arts",
+      "name": "Mural Project",
+      "description": "Students design and paint collaborative murals that brighten campus walls and community spaces. Participants learn sketching, scaling, color theory, and large-scale painting techniques.",
+      "values": [
+        "Opportunity",
+        "Character"
+      ],
+      "schools": [
+        "MS",
+        "US"
+      ],
+      "gradeMin": 6,
+      "gradeMax": 12,
+      "gradeText": "Grades 6–12",
+      "sponsor": "Ms. Alvarez",
+      "location": "Art Studio",
+      "schedule": "Fridays, 3:15–4:45 PM",
+      "days": [
+        "Friday"
+      ],
+      "tags": [
+        "painting",
+        "art",
+        "service",
+        "creativity"
+      ],
+      "cost": 15,
+      "costText": "$15",
+      "tryout": false,
+      "application": true,
+      "sponsorEmail": "ms.alvarez@school.org"
+    },
+    {
+      "id": "animation-studio",
+      "category": "Arts",
+      "name": "Animation Studio",
+      "description": "Bring drawings to life using stop-motion and digital tools. Teams storyboard, shoot, and edit short animated films that premiere at the spring film night.",
+      "values": [
+        "Excellence",
+        "Opportunity"
+      ],
+      "schools": [
+        "MS"
+      ],
+      "gradeMin": 6,
+      "gradeMax": 8,
+      "gradeText": "Grades 6–8",
+      "sponsor": "Ms. Chen",
+      "location": "Media Lab",
+      "schedule": "Tuesdays, 3:30–5:00 PM",
+      "days": [
+        "Tuesday"
+      ],
+      "tags": [
+        "animation",
+        "film",
+        "drawing",
+        "technology"
+      ],
+      "cost": 20,
+      "costText": "$20",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "ms.chen@school.org"
+    },
+    {
+      "id": "little-eagles-multi-sport",
+      "category": "Athletics",
+      "name": "Little Eagles Multi-Sport",
+      "description": "A fun introduction to sports for our youngest athletes. Each week features a new activity such as tag games, soccer skills, relay races, and parachute play, all focused on movement and good sportsmanship.",
+      "values": [
+        "Character",
+        "Opportunity"
+      ],
+      "schools": [
+        "LS"
+      ],
+      "gradeMin": -2,
+      "gradeMax": 1,
+      "gradeText": "Grades PreK3–1",
+      "sponsor": "Coach Bennett",
+      "location": "Lower School Gym",
+      "schedule": "Fridays, 3:15–4:00 PM",
+      "days": [
+        "Friday"
+      ],
+      "tags": [
+        "sports",
+        "movement",
+        "teamwork"
+      ],
+      "cost": 35,
+      "costText": "$35",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "coach.bennett@school.org"
+    },
+    {
+      "id": "youth-soccer-clinic",
+      "category": "Athletics",
+      "name": "Youth Soccer Clinic",
+      "description": "Players learn dribbling, passing, shooting, and teamwork in small-sided games. The season ends with a friendly scrimmage for families.",
+      "values": [
+        "Character",
+        "Excellence"
+      ],
+      "schools": [
+        "LS"
+      ],
+      "gradeMin": 0,
+      "gradeMax": 3,
+      "gradeText": "Grades K–3",
+      "sponsor": "Coach Reyes",
+      "location": "Lower School Field",
+      "schedule": "Mondays, 3:30–4:30 PM",
+      "days": [
+        "Monday"
+      ],
+      "tags": [
+        "soccer",
+        "sports",
+        "teamwork"
+      ],
+      "cost": 45,
+      "costText": "$45",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "coach.reyes@school.org"
+    },
+    {
+      "id": "gymnastics-and-tumbling",
+      "category": "Athletics",
+      "name": "Gymnastics & Tumbling",
+      "description": "Students build strength, flexibility, and body control on mats, beams, and bars. Certified instructors teach progressive skills in a safe, supportive environment.",
+      "values": [
+        "Excellence",
+        "Character"
+      ],
+      "schools": [
+        "LS"
+      ],
+      "gradeMin": 1,
+      "gradeMax": 5,
+      "gradeText": "Grades 1–5",
+      "sponsor": "Ms. O'Connor",
+      "location": "Lower School Gym",
+      "schedule": "Tuesdays, 3:30–4:30 PM",
+      "days": [
+        "Tuesday"
+      ],
+      "tags": [
+        "gymnastics",
+        "tumbling",
+        "fitness"
+      ],
+      "cost": 60,
+      "costText": "$60",
+      "tryout": false,
+      "application": true,
+      "sponsorEmail": "ms.oconnor@school.org"
+    },
+    {
+      "id": "flag-football",
+      "category": "Athletics",
+      "name": "Flag Football",
+      "description": "A fast-paced, non-contact league that teaches offensive plays, defensive coverage, and sportsmanship. The team competes against other area schools in a regional league.",
+      "values": [
+        "Excellence",
+        "Character"
+      ],
+      "schools": [
+        "MS",
+        "US"
+      ],
+      "gradeMin": 6,
+      "gradeMax": 12,
+      "gradeText": "Grades 6–12",
+      "sponsor": "Coach Reyes",
+      "location": "Football Field",
+      "schedule": "Mondays, Tuesdays, Wednesdays, Thursdays, 4:00–5:30 PM",
+      "days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "tags": [
+        "football",
+        "sports",
+        "competition"
+      ],
+      "cost": 75,
+      "costText": "$75",
+      "tryout": true,
+      "application": false,
+      "sponsorEmail": "coach.reyes@school.org"
+    },
+    {
+      "id": "lacrosse",
+      "category": "Athletics",
+      "name": "Lacrosse",
+      "description": "Develop cradling, passing, and shooting skills in one of the fastest-growing sports in the Southeast. Open to beginners as well as experienced players, with a competitive spring schedule.",
+      "values": [
+        "Excellence",
+        "Opportunity"
+      ],
+      "schools": [
+        "MS",
+        "US"
+      ],
+      "gradeMin": 6,
+      "gradeMax": 12,
+      "gradeText": "Grades 6–12",
+      "sponsor": "Coach Bennett",
+      "location": "Turf Field",
+      "schedule": "Mondays, Tuesdays, Wednesdays, Thursdays, 4:00–5:30 PM",
+      "days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "tags": [
+        "lacrosse",
+        "sports",
+        "spring"
+      ],
+      "cost": 150,
+      "costText": "$150",
+      "tryout": true,
+      "application": false,
+      "sponsorEmail": "coach.bennett@school.org"
+    },
+    {
+      "id": "baseball",
+      "category": "Athletics",
+      "name": "Baseball",
+      "description": "Varsity and junior varsity baseball for players who want to compete at a high level. Practices focus on fundamentals, conditioning, and game strategy, with a full spring regional schedule.",
+      "values": [
+        "Excellence",
+        "Character"
+      ],
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "sponsor": "Coach Hernandez",
+      "location": "Baseball Field",
+      "schedule": "Mondays, Tuesdays, Wednesdays, Thursdays, Fridays, 4:00–6:00 PM",
+      "days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "tags": [
+        "baseball",
+        "sports",
+        "spring",
+        "competition"
+      ],
+      "cost": 150,
+      "costText": "$150",
+      "tryout": true,
+      "application": false,
+      "sponsorEmail": "coach.hernandez@school.org"
+    },
+    {
+      "id": "softball",
+      "category": "Athletics",
+      "name": "Softball",
+      "description": "A competitive program for varsity and junior varsity players, with an emphasis on pitching, hitting, defensive skills, and strong team culture throughout the spring season.",
+      "values": [
+        "Excellence",
+        "Character"
+      ],
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "sponsor": "Coach Hernandez",
+      "location": "Softball Field",
+      "schedule": "Mondays, Tuesdays, Wednesdays, Thursdays, Fridays, 4:00–6:00 PM",
+      "days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "tags": [
+        "softball",
+        "sports",
+        "spring",
+        "competition"
+      ],
+      "cost": 150,
+      "costText": "$150",
+      "tryout": true,
+      "application": false,
+      "sponsorEmail": "coach.hernandez@school.org"
+    },
+    {
+      "id": "archery-club",
+      "category": "Athletics",
+      "name": "Archery Club",
+      "description": "Students learn range safety, form, and target shooting with certified instructors, with all equipment provided. A relaxing, focused sport that builds concentration and patience.",
+      "values": [
+        "Excellence",
+        "Opportunity"
+      ],
+      "schools": [
+        "MS",
+        "US"
+      ],
+      "gradeMin": 6,
+      "gradeMax": 12,
+      "gradeText": "Grades 6–12",
+      "sponsor": "Dr. Nakamura",
+      "location": "Archery Range",
+      "schedule": "Wednesdays, 3:45–5:00 PM",
+      "days": [
+        "Wednesday"
+      ],
+      "tags": [
+        "archery",
+        "focus",
+        "outdoor"
+      ],
+      "cost": 40,
+      "costText": "$40",
+      "tryout": false,
+      "application": true,
+      "sponsorEmail": "dr.nakamura@school.org"
+    },
+    {
+      "id": "fencing-club",
+      "category": "Athletics",
+      "name": "Fencing Club",
+      "description": "Learn the basics of foil fencing, including footwork, blade control, and sportsmanship. Beginners are welcome, and the club attends regional youth tournaments.",
+      "values": [
+        "Excellence",
+        "Character"
+      ],
+      "schools": [
+        "MS",
+        "US"
+      ],
+      "gradeMin": 6,
+      "gradeMax": 12,
+      "gradeText": "Grades 6–12",
+      "sponsor": "Mr. Laurent",
+      "location": "Dance Studio",
+      "schedule": "Tuesdays and Thursdays, 4:00–5:30 PM",
+      "days": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "tags": [
+        "fencing",
+        "sports",
+        "strategy"
+      ],
+      "cost": 120,
+      "costText": "$120",
+      "tryout": false,
+      "application": true,
+      "sponsorEmail": "mr.laurent@school.org"
+    },
+    {
+      "id": "yoga-and-mindful-movement",
+      "category": "Athletics",
+      "name": "Yoga & Mindful Movement",
+      "description": "A calming mix of beginner yoga, stretching, breathing exercises, and guided relaxation. Students leave each session feeling refreshed and better equipped to handle stress.",
+      "values": [
+        "Character",
+        "Opportunity"
+      ],
+      "schools": [
+        "LS",
+        "MS",
+        "US"
+      ],
+      "gradeMin": 3,
+      "gradeMax": 12,
+      "gradeText": "Grades 3–12",
+      "sponsor": "Ms. O'Connor",
+      "location": "Dance Studio",
+      "schedule": "Fridays, 3:15–4:00 PM",
+      "days": [
+        "Friday"
+      ],
+      "tags": [
+        "yoga",
+        "wellness",
+        "mindfulness"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "ms.oconnor@school.org"
+    },
+    {
+      "id": "storytime-explorers",
+      "category": "Clubs & Interests",
+      "name": "Storytime Explorers",
+      "description": "Our youngest readers gather for read-alouds, puppet shows, and story-inspired crafts. A cozy way to build a lifelong love of books.",
+      "values": [
+        "Opportunity",
+        "Character"
+      ],
+      "schools": [
+        "LS"
+      ],
+      "gradeMin": -2,
+      "gradeMax": 1,
+      "gradeText": "Grades PreK3–1",
+      "sponsor": "Ms. Alvarez",
+      "location": "Lower School Library",
+      "schedule": "Thursdays, 3:15–4:00 PM",
+      "days": [
+        "Thursday"
+      ],
+      "tags": [
+        "reading",
+        "books",
+        "stories"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "ms.alvarez@school.org"
+    },
+    {
+      "id": "nature-explorers",
+      "category": "Clubs & Interests",
+      "name": "Nature Explorers",
+      "description": "Students hunt for bugs, track animals, identify plants, and keep a nature journal as they investigate the campus woods and creek. Come ready to get a little muddy!",
+      "values": [
+        "Opportunity",
+        "Character"
+      ],
+      "schools": [
+        "LS"
+      ],
+      "gradeMin": 0,
+      "gradeMax": 3,
+      "gradeText": "Grades K–3",
+      "sponsor": "Mr. Singh",
+      "location": "Campus Nature Trail",
+      "schedule": "Wednesdays, 3:15–4:15 PM",
+      "days": [
+        "Wednesday"
+      ],
+      "tags": [
+        "nature",
+        "science",
+        "outdoors",
+        "animals"
+      ],
+      "cost": 20,
+      "costText": "$20",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "mr.singh@school.org"
+    },
+    {
+      "id": "puzzle-and-brain-games",
+      "category": "Clubs & Interests",
+      "name": "Puzzle & Brain Games",
+      "description": "Students tackle logic puzzles, Rubik's cubes, tangrams, and strategy games, building problem solving skills and perseverance while having fun with friends.",
+      "values": [
+        "Excellence",
+        "Opportunity"
+      ],
+      "schools": [
+        "LS"
+      ],
+      "gradeMin": 2,
+      "gradeMax": 5,
+      "gradeText": "Grades 2–5",
+      "sponsor": "Ms. Chen",
+      "location": "Lower School Library",
+      "schedule": "Tuesdays, 3:15–4:00 PM",
+      "days": [
+        "Tuesday"
+      ],
+      "tags": [
+        "puzzles",
+        "games",
+        "logic",
+        "strategy"
+      ],
+      "cost": 10,
+      "costText": "$10",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "ms.chen@school.org"
+    },
+    {
+      "id": "anime-and-manga-club",
+      "category": "Clubs & Interests",
+      "name": "Anime & Manga Club",
+      "description": "Fans of Japanese comics and animation meet to watch episodes, discuss stories, draw characters, and organize an annual cosplay day.",
+      "values": [
+        "Opportunity",
+        "Character"
+      ],
+      "schools": [
+        "MS",
+        "US"
+      ],
+      "gradeMin": 6,
+      "gradeMax": 12,
+      "gradeText": "Grades 6–12",
+      "sponsor": "Ms. Brooks",
+      "location": "Room 118",
+      "schedule": "Fridays, 3:30–4:30 PM",
+      "days": [
+        "Friday"
+      ],
+      "tags": [
+        "anime",
+        "manga",
+        "drawing",
+        "culture"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "ms.brooks@school.org"
+    },
+    {
+      "id": "podcasting-club",
+      "category": "Clubs & Interests",
+      "name": "Podcasting Club",
+      "description": "Write, record, and edit original podcasts on topics students care about. Members learn interviewing, scripting, audio editing, and how to publish for a school audience.",
+      "values": [
+        "Excellence",
+        "Opportunity"
+      ],
+      "schools": [
+        "MS",
+        "US"
+      ],
+      "gradeMin": 6,
+      "gradeMax": 12,
+      "gradeText": "Grades 6–12",
+      "sponsor": "Mr. Singh",
+      "location": "Media Lab",
+      "schedule": "Wednesdays, 3:30–5:00 PM",
+      "days": [
+        "Wednesday"
+      ],
+      "tags": [
+        "podcast",
+        "audio",
+        "journalism",
+        "technology"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": false,
+      "application": true,
+      "sponsorEmail": "mr.singh@school.org"
+    },
+    {
+      "id": "magic-and-illusion-club",
+      "category": "Clubs & Interests",
+      "name": "Magic & Illusion Club",
+      "description": "Students learn card tricks, sleight of hand, and stage illusions, practice presentation skills, and perform their best tricks at the annual talent showcase.",
+      "values": [
+        "Opportunity",
+        "Character"
+      ],
+      "schools": [
+        "LS",
+        "MS"
+      ],
+      "gradeMin": 3,
+      "gradeMax": 8,
+      "gradeText": "Grades 3–8",
+      "sponsor": "Mr. Laurent",
+      "location": "Room 105",
+      "schedule": "Thursdays, 3:30–4:30 PM",
+      "days": [
+        "Thursday"
+      ],
+      "tags": [
+        "magic",
+        "performance",
+        "creativity"
+      ],
+      "cost": 15,
+      "costText": "$15",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "mr.laurent@school.org"
+    },
+    {
+      "id": "knitting-and-crochet-circle",
+      "category": "Clubs & Interests",
+      "name": "Knitting & Crochet Circle",
+      "description": "A relaxed, welcoming circle where beginners and experienced makers learn stitches, make scarves and hats, and donate finished projects to local shelters.",
+      "values": [
+        "Character",
+        "Opportunity"
+      ],
+      "schools": [
+        "LS",
+        "MS",
+        "US"
+      ],
+      "gradeMin": 4,
+      "gradeMax": 12,
+      "gradeText": "Grades 4–12",
+      "sponsor": "Mrs. Washington",
+      "location": "Library",
+      "schedule": "Mondays, 3:30–4:30 PM",
+      "days": [
+        "Monday"
+      ],
+      "tags": [
+        "knitting",
+        "crafts",
+        "service",
+        "relaxation"
+      ],
+      "cost": 10,
+      "costText": "$10",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "mrs.washington@school.org"
+    },
+    {
+      "id": "spanish-conversation-club",
+      "category": "Clubs & Interests",
+      "name": "Spanish Conversation Club",
+      "description": "Practice speaking Spanish in a low-pressure setting with games, music, film clips, and cultural food days. All levels welcome, from beginner to heritage speakers.",
+      "values": [
+        "Opportunity",
+        "Excellence"
+      ],
+      "schools": [
+        "MS",
+        "US"
+      ],
+      "gradeMin": 6,
+      "gradeMax": 12,
+      "gradeText": "Grades 6–12",
+      "sponsor": "Ms. Alvarez",
+      "location": "Room 212",
+      "schedule": "Wednesdays, 3:30–4:30 PM",
+      "days": [
+        "Wednesday"
+      ],
+      "tags": [
+        "spanish",
+        "language",
+        "culture"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "ms.alvarez@school.org"
+    },
+    {
+      "id": "dungeons-and-dragons-guild",
+      "category": "Clubs & Interests",
+      "name": "Dungeons & Dragons Guild",
+      "description": "Players and game masters create characters, plan quests, and build stories together. A great place to practice teamwork, creativity, and imagination, with sessions for beginners and veterans.",
+      "values": [
+        "Opportunity",
+        "Character"
+      ],
+      "schools": [
+        "MS",
+        "US"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 12,
+      "gradeText": "Grades 7–12",
+      "sponsor": "Dr. Hassan",
+      "location": "Room 221",
+      "schedule": "Fridays, 3:30–5:30 PM",
+      "days": [
+        "Friday"
+      ],
+      "tags": [
+        "games",
+        "storytelling",
+        "strategy",
+        "creativity"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "dr.hassan@school.org"
+    },
+    {
+      "id": "cycling-club",
+      "category": "Clubs & Interests",
+      "name": "Cycling Club",
+      "description": "Group rides on local greenways build endurance and bike safety skills. Includes bike maintenance workshops, and helmets are required on every ride.",
+      "values": [
+        "Opportunity",
+        "Excellence"
+      ],
+      "schools": [
+        "MS",
+        "US"
+      ],
+      "gradeMin": 6,
+      "gradeMax": 12,
+      "gradeText": "Grades 6–12",
+      "sponsor": "Dr. Nakamura",
+      "location": "Bike Racks by Gym",
+      "schedule": "Saturdays, 9:00–11:00 AM",
+      "days": [
+        "Saturday"
+      ],
+      "tags": [
+        "cycling",
+        "fitness",
+        "outdoors"
+      ],
+      "cost": 25,
+      "costText": "$25",
+      "tryout": false,
+      "application": true,
+      "sponsorEmail": "dr.nakamura@school.org"
+    },
+    {
+      "id": "kindness-ambassadors",
+      "category": "Leadership",
+      "name": "Kindness Ambassadors",
+      "description": "Student ambassadors spread kindness around campus through compliment cards, buddy benches, and classroom service projects, learning that small acts can make a big difference.",
+      "values": [
+        "Character",
+        "Opportunity"
+      ],
+      "schools": [
+        "LS"
+      ],
+      "gradeMin": 0,
+      "gradeMax": 3,
+      "gradeText": "Grades K–3",
+      "sponsor": "Ms. O'Connor",
+      "location": "Room 12",
+      "schedule": "Fridays, 8:00–8:30 AM",
+      "days": [
+        "Friday"
+      ],
+      "tags": [
+        "kindness",
+        "leadership",
+        "community"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": false,
+      "application": true,
+      "sponsorEmail": "ms.oconnor@school.org"
+    },
+    {
+      "id": "eagle-buddies",
+      "category": "Leadership",
+      "name": "Eagle Buddies",
+      "description": "Fifth graders partner with younger students as reading buddies, recess helpers, and role models. A great first step into student leadership.",
+      "values": [
+        "Character",
+        "Opportunity"
+      ],
+      "schools": [
+        "LS"
+      ],
+      "gradeMin": 4,
+      "gradeMax": 5,
+      "gradeText": "Grades 4–5",
+      "sponsor": "Mr. Delgado",
+      "location": "Lower School Library",
+      "schedule": "Tuesdays, 7:50–8:20 AM",
+      "days": [
+        "Tuesday"
+      ],
+      "tags": [
+        "mentoring",
+        "leadership",
+        "reading"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": false,
+      "application": true,
+      "sponsorEmail": "mr.delgado@school.org"
+    },
+    {
+      "id": "class-officers-council",
+      "category": "Leadership",
+      "name": "Class Officers Council",
+      "description": "Elected class officers plan spirit weeks, homecoming events, and fundraisers while learning meeting skills, budgeting, and how to represent classmates' voices.",
+      "values": [
+        "Excellence",
+        "Character"
+      ],
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "sponsor": "Ms. Brooks",
+      "location": "Room 301",
+      "schedule": "Mondays, 7:45–8:15 AM",
+      "days": [
+        "Monday"
+      ],
+      "tags": [
+        "leadership",
+        "student government",
+        "events"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": false,
+      "application": true,
+      "sponsorEmail": "ms.brooks@school.org"
+    },
+    {
+      "id": "public-speaking-lab",
+      "category": "Leadership",
+      "name": "Public Speaking Lab",
+      "description": "Build confidence speaking in front of groups. Members practice storytelling, persuasive speeches, and impromptu speaking, with supportive coaching from peers and faculty.",
+      "values": [
+        "Excellence",
+        "Opportunity"
+      ],
+      "schools": [
+        "MS",
+        "US"
+      ],
+      "gradeMin": 6,
+      "gradeMax": 12,
+      "gradeText": "Grades 6–12",
+      "sponsor": "Dr. Hassan",
+      "location": "Room 219",
+      "schedule": "Thursdays, 3:30–4:30 PM",
+      "days": [
+        "Thursday"
+      ],
+      "tags": [
+        "speaking",
+        "communication",
+        "confidence"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "dr.hassan@school.org"
+    },
+    {
+      "id": "student-wellness-council",
+      "category": "Leadership",
+      "name": "Student Wellness Council",
+      "description": "Students lead campus-wide wellness initiatives such as mental health awareness weeks, stress-relief events, and peer support campaigns, in partnership with the counseling department.",
+      "values": [
+        "Character",
+        "Opportunity"
+      ],
+      "schools": [
+        "MS",
+        "US"
+      ],
+      "gradeMin": 6,
+      "gradeMax": 12,
+      "gradeText": "Grades 6–12",
+      "sponsor": "Ms. Brooks",
+      "location": "Counseling Suite",
+      "schedule": "Tuesdays, 3:30–4:15 PM",
+      "days": [
+        "Tuesday"
+      ],
+      "tags": [
+        "wellness",
+        "mental health",
+        "leadership",
+        "advocacy"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": false,
+      "application": true,
+      "sponsorEmail": "ms.brooks@school.org"
+    },
+    {
+      "id": "young-entrepreneurs",
+      "category": "Leadership",
+      "name": "Young Entrepreneurs",
+      "description": "Students develop business ideas, pitch to a panel, and launch a pop-up shop at the spring market. Learn about marketing, budgeting, and customer service.",
+      "values": [
+        "Excellence",
+        "Opportunity"
+      ],
+      "schools": [
+        "MS",
+        "US"
+      ],
+      "gradeMin": 6,
+      "gradeMax": 12,
+      "gradeText": "Grades 6–12",
+      "sponsor": "Mr. Singh",
+      "location": "Room 308",
+      "schedule": "Wednesdays, 3:30–4:45 PM",
+      "days": [
+        "Wednesday"
+      ],
+      "tags": [
+        "business",
+        "entrepreneurship",
+        "marketing",
+        "leadership"
+      ],
+      "cost": 10,
+      "costText": "$10",
+      "tryout": false,
+      "application": true,
+      "sponsorEmail": "mr.singh@school.org"
+    },
+    {
+      "id": "diversity-and-inclusion-alliance",
+      "category": "Leadership",
+      "name": "Diversity & Inclusion Alliance",
+      "description": "A student-led community that celebrates cultures, identities, and perspectives through heritage month programs, guest speakers, and respectful dialogue.",
+      "values": [
+        "Character",
+        "Opportunity"
+      ],
+      "schools": [
+        "MS",
+        "US"
+      ],
+      "gradeMin": 6,
+      "gradeMax": 12,
+      "gradeText": "Grades 6–12",
+      "sponsor": "Dr. Hassan",
+      "location": "Room 124",
+      "schedule": "Thursdays, 3:30–4:30 PM",
+      "days": [
+        "Thursday"
+      ],
+      "tags": [
+        "inclusion",
+        "culture",
+        "leadership",
+        "community"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "dr.hassan@school.org"
+    },
+    {
+      "id": "eagle-helpers",
+      "category": "Service",
+      "name": "Eagle Helpers",
+      "description": "Our youngest students practice caring for others by making cards for patients and neighbors, collecting donations, and tending the campus garden. Service learning at a kindergarten level.",
+      "values": [
+        "Character",
+        "Opportunity"
+      ],
+      "schools": [
+        "LS"
+      ],
+      "gradeMin": -1,
+      "gradeMax": 2,
+      "gradeText": "Grades PreK4–2",
+      "sponsor": "Mrs. Washington",
+      "location": "Room 8",
+      "schedule": "Fridays, 8:00–8:30 AM",
+      "days": [
+        "Friday"
+      ],
+      "tags": [
+        "service",
+        "kindness",
+        "community"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "mrs.washington@school.org"
+    },
+    {
+      "id": "book-drive-crew",
+      "category": "Service",
+      "name": "Book Drive Crew",
+      "description": "Students collect, sort, and deliver thousands of gently used books to classrooms and libraries in need, and learn how literacy supports communities.",
+      "values": [
+        "Character",
+        "Excellence"
+      ],
+      "schools": [
+        "LS"
+      ],
+      "gradeMin": 3,
+      "gradeMax": 5,
+      "gradeText": "Grades 3–5",
+      "sponsor": "Mr. Delgado",
+      "location": "Lower School Library",
+      "schedule": "Wednesdays, 3:15–4:00 PM",
+      "days": [
+        "Wednesday"
+      ],
+      "tags": [
+        "books",
+        "service",
+        "literacy",
+        "community"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "mr.delgado@school.org"
+    },
+    {
+      "id": "habitat-build-crew",
+      "category": "Service",
+      "name": "Habitat Build Crew",
+      "description": "Students partner with local Habitat for Humanity chapters on weekend build days. No experience is needed, and training and safety gear are provided on site.",
+      "values": [
+        "Character",
+        "Opportunity"
+      ],
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "sponsor": "Coach Bennett",
+      "location": "Off-campus (transportation provided)",
+      "schedule": "Select Saturdays, 8:00 AM–1:00 PM",
+      "days": [
+        "Saturday"
+      ],
+      "tags": [
+        "service",
+        "building",
+        "community",
+        "volunteering"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": false,
+      "application": true,
+      "sponsorEmail": "coach.bennett@school.org"
+    },
+    {
+      "id": "tech-help-for-seniors",
+      "category": "Service",
+      "name": "Tech Help for Seniors",
+      "description": "Students visit local senior centers to teach older adults how to use smartphones, video calls, and online safety, and build patience and communication skills along the way.",
+      "values": [
+        "Character",
+        "Excellence"
+      ],
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "sponsor": "Ms. Chen",
+      "location": "Computer Lab",
+      "schedule": "Biweekly Tuesdays, 3:30–5:00 PM",
+      "days": [
+        "Tuesday"
+      ],
+      "tags": [
+        "technology",
+        "seniors",
+        "service",
+        "teaching"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": false,
+      "application": true,
+      "sponsorEmail": "ms.chen@school.org"
+    },
+    {
+      "id": "coat-and-blanket-drive",
+      "category": "Service",
+      "name": "Coat & Blanket Drive",
+      "description": "Students organize seasonal drives for warm coats and blankets, then sort and deliver them to local shelters. They also learn about food and housing insecurity in our region.",
+      "values": [
+        "Character",
+        "Opportunity"
+      ],
+      "schools": [
+        "LS",
+        "MS"
+      ],
+      "gradeMin": 4,
+      "gradeMax": 8,
+      "gradeText": "Grades 4–8",
+      "sponsor": "Ms. O'Connor",
+      "location": "Cafeteria Lobby",
+      "schedule": "Mondays, 3:30–4:15 PM",
+      "days": [
+        "Monday"
+      ],
+      "tags": [
+        "service",
+        "donations",
+        "community",
+        "winter"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "ms.oconnor@school.org"
+    },
+    {
+      "id": "pen-pals-program",
+      "category": "Service",
+      "name": "Pen Pals Program",
+      "description": "Students write letters and cards to veterans, nursing home residents, and partner classrooms, building empathy and writing skills one message at a time.",
+      "values": [
+        "Character",
+        "Opportunity"
+      ],
+      "schools": [
+        "LS",
+        "MS"
+      ],
+      "gradeMin": 2,
+      "gradeMax": 8,
+      "gradeText": "Grades 2–8",
+      "sponsor": "Mrs. Washington",
+      "location": "Library",
+      "schedule": "Thursdays, 3:30–4:15 PM",
+      "days": [
+        "Thursday"
+      ],
+      "tags": [
+        "writing",
+        "letters",
+        "service",
+        "community"
+      ],
+      "cost": 5,
+      "costText": "$5",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "mrs.washington@school.org"
+    },
+    {
+      "id": "little-scientists-lab",
+      "category": "Academic & Enrichment",
+      "name": "Little Scientists Lab",
+      "description": "Hands-on experiments with bubbling volcanoes, slime, magnets, and simple machines spark curiosity about how the world works. Each session ends with a take-home science discovery.",
+      "values": [
+        "Excellence",
+        "Opportunity"
+      ],
+      "schools": [
+        "LS"
+      ],
+      "gradeMin": -1,
+      "gradeMax": 2,
+      "gradeText": "Grades PreK4–2",
+      "sponsor": "Dr. Nakamura",
+      "location": "Lower School Science Room",
+      "schedule": "Wednesdays, 3:15–4:15 PM",
+      "days": [
+        "Wednesday"
+      ],
+      "tags": [
+        "science",
+        "experiments",
+        "discovery"
+      ],
+      "cost": 30,
+      "costText": "$30",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "dr.nakamura@school.org"
+    },
+    {
+      "id": "maker-space-explorers",
+      "category": "Academic & Enrichment",
+      "name": "Maker Space Explorers",
+      "description": "Students invent, design, and build using cardboard, circuits, 3D printers, and recycled materials. Every session is a new challenge that celebrates creative problem solving.",
+      "values": [
+        "Excellence",
+        "Opportunity"
+      ],
+      "schools": [
+        "LS"
+      ],
+      "gradeMin": 3,
+      "gradeMax": 5,
+      "gradeText": "Grades 3–5",
+      "sponsor": "Ms. Chen",
+      "location": "STEM Lab",
+      "schedule": "Mondays, 3:30–4:30 PM",
+      "days": [
+        "Monday"
+      ],
+      "tags": [
+        "engineering",
+        "building",
+        "stem",
+        "creativity"
+      ],
+      "cost": 40,
+      "costText": "$40",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "ms.chen@school.org"
+    },
+    {
+      "id": "world-languages-explorers",
+      "category": "Academic & Enrichment",
+      "name": "World Languages Explorers",
+      "description": "A fun first taste of Spanish, French, and Mandarin through songs, games, and cultural activities. Students discover how languages connect people around the world.",
+      "values": [
+        "Opportunity",
+        "Excellence"
+      ],
+      "schools": [
+        "LS"
+      ],
+      "gradeMin": 0,
+      "gradeMax": 5,
+      "gradeText": "Grades K–5",
+      "sponsor": "Ms. Alvarez",
+      "location": "Lower School Room 14",
+      "schedule": "Tuesdays, 3:15–4:00 PM",
+      "days": [
+        "Tuesday"
+      ],
+      "tags": [
+        "languages",
+        "culture",
+        "world"
+      ],
+      "cost": 25,
+      "costText": "$25",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "ms.alvarez@school.org"
+    },
+    {
+      "id": "stock-market-challenge",
+      "category": "Academic & Enrichment",
+      "name": "Stock Market Challenge",
+      "description": "Teams manage virtual portfolios, research companies, and learn about investing, risk, and financial planning. Top teams compete in a statewide investing simulation each spring.",
+      "values": [
+        "Excellence",
+        "Opportunity"
+      ],
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "sponsor": "Mr. Singh",
+      "location": "Room 305",
+      "schedule": "Thursdays, 3:30–4:30 PM",
+      "days": [
+        "Thursday"
+      ],
+      "tags": [
+        "finance",
+        "investing",
+        "economics",
+        "business"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "mr.singh@school.org"
+    },
+    {
+      "id": "math-circle",
+      "category": "Academic & Enrichment",
+      "name": "Math Circle",
+      "description": "A collaborative space to explore puzzles, number theory, and creative problem solving beyond the classroom. Students share multiple strategies and celebrate the beauty of math.",
+      "values": [
+        "Excellence",
+        "Character"
+      ],
+      "schools": [
+        "MS"
+      ],
+      "gradeMin": 6,
+      "gradeMax": 8,
+      "gradeText": "Grades 6–8",
+      "sponsor": "Dr. Hassan",
+      "location": "Room 207",
+      "schedule": "Tuesdays, 3:30–4:30 PM",
+      "days": [
+        "Tuesday"
+      ],
+      "tags": [
+        "math",
+        "puzzles",
+        "logic",
+        "problem solving"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "dr.hassan@school.org"
+    },
+    {
+      "id": "spelling-and-vocabulary-bee",
+      "category": "Academic & Enrichment",
+      "name": "Spelling & Vocabulary Bee",
+      "description": "Students sharpen spelling, word roots, and vocabulary through games and friendly competitions that lead to the annual school bee and a path to regional contests.",
+      "values": [
+        "Excellence",
+        "Character"
+      ],
+      "schools": [
+        "LS",
+        "MS"
+      ],
+      "gradeMin": 3,
+      "gradeMax": 8,
+      "gradeText": "Grades 3–8",
+      "sponsor": "Mrs. Washington",
+      "location": "Library",
+      "schedule": "Thursdays, 3:15–4:15 PM",
+      "days": [
+        "Thursday"
+      ],
+      "tags": [
+        "spelling",
+        "vocabulary",
+        "words",
+        "competition"
+      ],
+      "cost": 0,
+      "costText": "Free",
+      "tryout": true,
+      "application": false,
+      "sponsorEmail": "mrs.washington@school.org"
+    },
+    {
+      "id": "astronomy-club",
+      "category": "Academic & Enrichment",
+      "name": "Astronomy Club",
+      "description": "Explore the night sky through telescopes, star maps, and space news. Members plan evening stargazing events, study planets and constellations, and track meteor showers.",
+      "values": [
+        "Opportunity",
+        "Excellence"
+      ],
+      "schools": [
+        "MS",
+        "US"
+      ],
+      "gradeMin": 6,
+      "gradeMax": 12,
+      "gradeText": "Grades 6–12",
+      "sponsor": "Dr. Nakamura",
+      "location": "STEM Lab / Observatory Deck",
+      "schedule": "Wednesdays, 3:30–4:30 PM, plus select evenings",
+      "days": [
+        "Wednesday"
+      ],
+      "tags": [
+        "astronomy",
+        "space",
+        "science",
+        "telescope"
+      ],
+      "cost": 10,
+      "costText": "$10",
+      "tryout": false,
+      "application": false,
+      "sponsorEmail": "dr.nakamura@school.org"
     }
   ],
   "events": [],
