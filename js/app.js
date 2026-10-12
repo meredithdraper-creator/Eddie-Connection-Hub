@@ -120,8 +120,9 @@ function renderBrowse() {
   const q = $('#q').value.trim().toLowerCase();
   const g = $('#f-grade').value, c = $('#f-cat').value, d = $('#f-day').value;
   const free = $('#f-free').checked, open = $('#f-open').checked;
+  const smart = q ? new Set(eddie.rank(q).map((i) => i.id)) : null;
   const list = items.filter((it) =>
-    (!q || `${it.name} ${it.category} ${it.tags.join(' ')} ${it.description} ${it.sponsor}`.toLowerCase().includes(q)) &&
+    (!q || smart.has(it.id) || `${it.name} ${it.category} ${it.tags.join(' ')} ${it.description} ${it.sponsor}`.toLowerCase().includes(q)) &&
     (g === '' || (it.gradeMin <= +g && it.gradeMax >= +g)) &&
     (!c || it.category === c) && (!d || it.days.includes(d)) &&
     (!free || it.cost === 0) && (!open || (!it.tryout && !it.application)));
