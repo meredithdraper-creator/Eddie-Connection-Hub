@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Eddie's Connection Hub · Woodward Academy</title>
+  <meta name="description" content="Chat with Eddie the Eagle to find clubs, athletics, activities, and events at Woodward Academy, PreK–12.">
+  <link rel="icon" href="assets/wa-monogram.png">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="skip" href="#chat">Skip to chat with Eddie</a>
+
+  <header class="site-header">
+    <a class="brand" href="./" aria-label="Woodward Academy War Eagles — home">
+      <img src="assets/war-eagles-lockup.jpg" alt="Woodward Academy War Eagles">
+    </a>
+    <nav aria-label="Sections">
+      <a href="#chat">Ask Eddie</a>
+      <a href="#browse">Browse</a>
+      <a href="#events">Events</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="hero-inner">
+      <img class="hero-eddie" src="assets/eddie-the-eagle.png" alt="Eddie the Eagle, the War Eagles mascot, pointing up">
+      <div class="hero-copy">
+        <p class="eyebrow">Woodward Academy · PreK–12</p>
+        <h1>Hi, I’m Eddie!<br><span>Let’s find your Connection.</span></h1>
+        <p class="lede">Clubs, athletics, arts, service, and events — tell me a grade and what you love, and I’ll point you to the right War Eagle community.</p>
+      </div>
+    </div>
+  </section>
+
+  <main>
+    <section id="chat" class="chat-card" aria-labelledby="chat-h">
+      <div class="chat-head">
+        <img src="assets/eddie-the-eagle.png" alt="" class="avatar">
+        <div>
+          <h2 id="chat-h">Chat with Eddie</h2>
+          <p>A guide bot, not a person. Nothing you type is saved or sent anywhere.</p>
+        </div>
+        <button class="ghost" id="reset" type="button">Start over</button>
+      </div>
+      <div id="log" class="log" role="log" aria-live="polite" aria-label="Conversation with Eddie"></div>
+      <div id="chips" class="chips" aria-label="Quick replies"></div>
+      <form id="composer" class="composer" autocomplete="off">
+        <label for="msg" class="sr">Message to Eddie</label>
+        <input id="msg" type="text" placeholder="e.g. my 3rd grader likes robots" maxlength="200" enterkeyhint="send">
+        <button type="submit">Send</button>
+      </form>
+    </section>
+
+    <section id="browse" class="section" aria-labelledby="browse-h">
+      <h2 id="browse-h">Browse everything</h2>
+      <div class="filters" role="search">
+        <label class="f-search"><span class="sr">Search</span><input id="q" type="search" placeholder="Search clubs, teams, activities…"></label>
+        <label>Grade
+          <select id="f-grade"><option value="">Any</option></select>
+        </label>
+        <label>Category
+          <select id="f-cat"><option value="">All</option></select>
+        </label>
+        <label>Day
+          <select id="f-day"><option value="">Any</option></select>
+        </label>
+        <label class="check"><input type="checkbox" id="f-free"> Free</label>
+        <label class="check"><input type="checkbox" id="f-open"> No tryout or application</label>
+      </div>
+      <p id="count" class="count" aria-live="polite"></p>
+      <div id="grid" class="grid"></div>
+    </section>
+
+    <section id="events" class="section alt" aria-labelledby="events-h">
+      <h2 id="events-h">Upcoming events</h2>
+      <div id="event-list" class="events"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-logos">
+      <img src="assets/wa-monogram.png" alt="Woodward Academy WA monogram">
+      <img src="assets/war-eagles-flying.png" alt="War Eagles">
+    </div>
+    <p>Information updates every morning from the school’s master Connection Hub list. <span id="updated"></span></p>
+    <p class="small">Eddie is a guide, not an official school communication. Contact the sponsor listed on each activity to confirm details.</p>
+  </footer>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
