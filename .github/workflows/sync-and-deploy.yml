@@ -31,13 +31,18 @@ jobs:
           OPPORTUNITIES_GID: ${{ vars.OPPORTUNITIES_GID }}
           EVENTS_GID: ${{ vars.EVENTS_GID }}
 
+      - name: Import events from the calendar feed
+        run: node scripts/fetch-events.mjs
+        env:
+          EVENTS_FEED_URL: ${{ secrets.EVENTS_FEED_URL }}
+
       - name: Commit updated data
         if: github.event_name != 'push'
         run: |
-          if ! git diff --quiet -- data/hub.json; then
+          git add data
+          if ! git diff --cached --quiet; then
             git config user.name "eddie-sync[bot]"
             git config user.email "eddie-sync@users.noreply.github.com"
-            git add data/hub.json
             git commit -m "chore: sync Connection Hub data"
             git push
           fi
