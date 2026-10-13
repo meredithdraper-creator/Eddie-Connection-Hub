@@ -21,7 +21,7 @@
     "counselorNote": "Please talk with a trusted adult, your school counselor, or call or text 988 (Suicide & Crisis Lifeline) any time."
   },
   "events": {
-    "lookaheadDays": 180,
+    "lookaheadDays": 14,
     "maxEvents": 400,
     "excludeKeywords": ["confidential", "private", "do not publish"],
     "calendarPage": "https://www.woodward.edu/calendar",
