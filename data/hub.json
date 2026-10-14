@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-10-13T17:34:48.478Z",
+    "updated": "2026-10-14T14:30:07.800Z",
     "opportunityCount": 289,
     "eventCount": 26,
     "divisions": {
@@ -31,7 +31,7 @@
       }
     },
     "safetyNote": "Please talk with a trusted adult, your school counselor, or call or text 988 (Suicide & Crisis Lifeline) any time.",
-    "eventsSyncedAt": "2026-10-13T17:34:50.320Z",
+    "eventsSyncedAt": "2026-10-14T14:30:36.449Z",
     "eventsFromFeed": true
   },
   "items": [
@@ -3811,7 +3811,7 @@
       "gradeText": "Grades 7–8",
       "sponsor": "Dr. Naima Williams",
       "location": "The Nest: Middle School Room 212",
-      "schedule": "",
+      "schedule": "Varies",
       "days": [],
       "tags": [
         "peer helpers",
@@ -3866,7 +3866,7 @@
       "cost": 0,
       "costText": "Free",
       "tryout": false,
-      "application": false
+      "application": true
     },
     {
       "id": "black-scholars-coalition",
