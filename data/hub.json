@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-10-14T14:30:07.800Z",
-    "opportunityCount": 289,
-    "eventCount": 26,
+    "updated": "2026-10-15T14:09:21.771Z",
+    "opportunityCount": 288,
+    "eventCount": 30,
     "divisions": {
       "PS": {
         "label": "Primary School",
@@ -31,7 +31,7 @@
       }
     },
     "safetyNote": "Please talk with a trusted adult, your school counselor, or call or text 988 (Suicide & Crisis Lifeline) any time.",
-    "eventsSyncedAt": "2026-10-14T14:30:36.449Z",
+    "eventsSyncedAt": "2026-10-15T14:09:45.310Z",
     "eventsFromFeed": true
   },
   "items": [
@@ -5359,41 +5359,6 @@
       "application": false
     },
     {
-      "id": "ethical-leadership-club",
-      "category": "Leadership",
-      "name": "Ethical Leadership Club",
-      "description": "A student-driven club to explore real-life dilemmas. Members learn how to lead with compassion, tackle challenges with confidence, and make a real difference in the world, starting with themselves. Perfect for future leaders ready to create positive change. Meets during Thursday community time, and students can join a different club each quarter.",
-      "values": [
-        "Character",
-        "Opportunity"
-      ],
-      "schools": [
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 8,
-      "gradeText": "Grades 7–8",
-      "sponsor": "",
-      "location": "",
-      "schedule": "Thursdays, during the 30-minute community time (clubs rotate each quarter)",
-      "days": [
-        "Thursday"
-      ],
-      "tags": [
-        "ethics",
-        "leadership",
-        "dilemmas",
-        "compassion",
-        "discussion",
-        "character",
-        "service"
-      ],
-      "cost": 0,
-      "costText": "Free",
-      "tryout": false,
-      "application": false
-    },
-    {
       "id": "harry-potter-club",
       "category": "Clubs & Interests",
       "name": "Harry Potter Club",
@@ -10071,28 +10036,6 @@
       "source": "woodward.edu"
     },
     {
-      "id": "volleyball-varsity-girls-aaaaaa-playoffs-1st-round-home-2026-10-17-",
-      "name": "Volleyball - Varsity Girls - AAAAAA Playoffs - 1st round (Home)",
-      "description": "",
-      "date": "2026-10-17",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "Paget Gym",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
       "id": "cross-country-varsity-boys-coach-wood-invitational-xc-meet-a-2026-10-17-",
       "name": "Cross Country - Varsity Boys - Coach Wood Invitational XC Meet (Away)",
       "description": "",
@@ -10123,6 +10066,50 @@
       "start": "",
       "end": "",
       "location": "McIntosh Nature Preserve",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "cross-country-varsity-girls-jv-v-boys-and-girls-cross-countr-2026-10-17-",
+      "name": "Cross Country - Varsity Girls - JV/V Boys & Girls Cross Country",
+      "description": "",
+      "date": "2026-10-17",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "volleyball-varsity-girls-vs-shiloh-high-school-home-2026-10-17-11-00-am",
+      "name": "Volleyball - Varsity Girls vs. Shiloh High School (Home)",
+      "description": "",
+      "date": "2026-10-17",
+      "dateEnd": "",
+      "start": "11:00 AM",
+      "end": "",
+      "location": "Paget Gym",
       "schools": [
         "US"
       ],
@@ -10204,8 +10191,8 @@
       "source": "woodward.edu"
     },
     {
-      "id": "wrestling-varsity-girls-wrestling-practice-begins-home-2026-10-19-4-00-pm",
-      "name": "Wrestling - Varsity Girls - Wrestling Practice Begins (Home)",
+      "id": "wrestling-varsity-wrestling-practice-begins-home-2026-10-19-4-00-pm",
+      "name": "Wrestling - Varsity - Wrestling Practice Begins (Home)",
       "description": "",
       "date": "2026-10-19",
       "dateEnd": "",
@@ -10226,8 +10213,8 @@
       "source": "woodward.edu"
     },
     {
-      "id": "wrestling-varsity-wrestling-practice-begins-home-2026-10-19-4-00-pm",
-      "name": "Wrestling - Varsity - Wrestling Practice Begins (Home)",
+      "id": "wrestling-varsity-girls-wrestling-practice-begins-home-2026-10-19-4-00-pm",
+      "name": "Wrestling - Varsity Girls - Wrestling Practice Begins (Home)",
       "description": "",
       "date": "2026-10-19",
       "dateEnd": "",
@@ -10561,6 +10548,29 @@
       "source": "woodward.edu"
     },
     {
+      "id": "swimming-and-diving-middle-school-boys-intrasquad-swim-meet--2026-10-27-",
+      "name": "Swimming & Diving - Middle School Boys - Intrasquad Swim Meet (Home)",
+      "description": "",
+      "date": "2026-10-27",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "Kennedy Natatorium",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 8,
+      "gradeText": "Grades 7–8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
       "id": "swimming-and-diving-varsity-girls-intrasquad-swim-meet-home-2026-10-27-",
       "name": "Swimming & Diving - Varsity Girls - Intrasquad Swim Meet (Home)",
       "description": "",
@@ -10583,14 +10593,14 @@
       "source": "woodward.edu"
     },
     {
-      "id": "swimming-and-diving-middle-school-boys-intrasquad-swim-meet--2026-10-27-",
-      "name": "Swimming & Diving - Middle School Boys - Intrasquad Swim Meet (Home)",
+      "id": "cheerleading-football-middle-school-ms-cheer-team-2026-10-28-",
+      "name": "Cheerleading - Football - Middle School - MS Cheer Team",
       "description": "",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "dateEnd": "",
       "start": "",
       "end": "",
-      "location": "Kennedy Natatorium",
+      "location": "",
       "schools": [
         "WN",
         "MS"
@@ -10598,6 +10608,50 @@
       "gradeMin": 7,
       "gradeMax": 8,
       "gradeText": "Grades 7–8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "volleyball-varsity-girls-aaaaaa-playoffs-championships-2026-10-29-",
+      "name": "Volleyball - Varsity Girls - AAAAAA Playoffs - Championships",
+      "description": "",
+      "date": "2026-10-29",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "clay-target-varsity-co-ed-gisa-clay-target-state-championshi-2026-10-29-",
+      "name": "Clay Target - Varsity Co-ed - GISA Clay Target State Championships (Away)",
+      "description": "",
+      "date": "2026-10-29",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "Forest City Gun Club",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
       "category": "Athletics",
       "contact": "",
       "contactEmail": "",
