@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-10-15T14:09:21.771Z",
+    "updated": "2026-10-16T13:56:43.831Z",
     "opportunityCount": 288,
-    "eventCount": 30,
+    "eventCount": 33,
     "divisions": {
       "PS": {
         "label": "Primary School",
@@ -31,7 +31,7 @@
       }
     },
     "safetyNote": "Please talk with a trusted adult, your school counselor, or call or text 988 (Suicide & Crisis Lifeline) any time.",
-    "eventsSyncedAt": "2026-10-15T14:09:45.310Z",
+    "eventsSyncedAt": "2026-10-16T13:57:13.352Z",
     "eventsFromFeed": true
   },
   "items": [
@@ -10593,29 +10593,6 @@
       "source": "woodward.edu"
     },
     {
-      "id": "cheerleading-football-middle-school-ms-cheer-team-2026-10-28-",
-      "name": "Cheerleading - Football - Middle School - MS Cheer Team",
-      "description": "",
-      "date": "2026-10-28",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 8,
-      "gradeText": "Grades 7–8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
       "id": "volleyball-varsity-girls-aaaaaa-playoffs-championships-2026-10-29-",
       "name": "Volleyball - Varsity Girls - AAAAAA Playoffs - Championships",
       "description": "",
@@ -10646,6 +10623,95 @@
       "start": "",
       "end": "",
       "location": "Forest City Gun Club",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "cheerleading-football-middle-school-ms-cheer-team-2026-10-30-",
+      "name": "Cheerleading - Football - Middle School - MS Cheer Team",
+      "description": "",
+      "date": "2026-10-30",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 8,
+      "gradeText": "Grades 7–8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "clay-target-varsity-co-ed-gisa-clay-target-state-championshi-2026-10-30-",
+      "name": "Clay Target - Varsity Co-ed - GISA Clay Target State Championships (Away)",
+      "description": "",
+      "date": "2026-10-30",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "Forest City Gun Club",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "football-varsity-vs-lovejoy-high-school-home-2026-10-30-7-30-pm",
+      "name": "Football - Varsity vs. Lovejoy High School (Home)",
+      "description": "",
+      "date": "2026-10-30",
+      "dateEnd": "",
+      "start": "7:30 PM",
+      "end": "",
+      "location": "Graham Hixon Field @ Colquitt Stadium",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "cheerleading-football-varsity-vs-lovejoy-high-school-home-2026-10-30-7-30-pm",
+      "name": "Cheerleading - Football - Varsity vs. Lovejoy High School (Home)",
+      "description": "",
+      "date": "2026-10-30",
+      "dateEnd": "",
+      "start": "7:30 PM",
+      "end": "",
+      "location": "Graham Hixon Field @ Colquitt Stadium",
       "schools": [
         "US"
       ],
