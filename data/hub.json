@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-10-16T13:56:43.831Z",
+    "updated": "2026-10-17T12:58:01.066Z",
     "opportunityCount": 288,
-    "eventCount": 33,
+    "eventCount": 34,
     "divisions": {
       "PS": {
         "label": "Primary School",
@@ -31,7 +31,7 @@
       }
     },
     "safetyNote": "Please talk with a trusted adult, your school counselor, or call or text 988 (Suicide & Crisis Lifeline) any time.",
-    "eventsSyncedAt": "2026-10-16T13:57:13.352Z",
+    "eventsSyncedAt": "2026-10-17T12:58:27.800Z",
     "eventsFromFeed": true
   },
   "items": [
@@ -9992,50 +9992,6 @@
   ],
   "events": [
     {
-      "id": "football-varsity-vs-langston-hughes-high-school-away-2026-10-16-7-30-pm",
-      "name": "Football - Varsity vs. Langston Hughes High School (Away)",
-      "description": "",
-      "date": "2026-10-16",
-      "dateEnd": "",
-      "start": "7:30 PM",
-      "end": "",
-      "location": "Langston Hughes High School",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "cheerleading-football-varsity-vs-langston-hughes-high-school-2026-10-16-7-30-pm",
-      "name": "Cheerleading - Football - Varsity vs. Langston Hughes High School (Away)",
-      "description": "",
-      "date": "2026-10-16",
-      "dateEnd": "",
-      "start": "7:30 PM",
-      "end": "",
-      "location": "Langston Hughes High School",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
       "id": "cross-country-varsity-boys-coach-wood-invitational-xc-meet-a-2026-10-17-",
       "name": "Cross Country - Varsity Boys - Coach Wood Invitational XC Meet (Away)",
       "description": "",
@@ -10371,8 +10327,8 @@
       "source": "woodward.edu"
     },
     {
-      "id": "cross-country-varsity-girls-alumni-mile-xc-home-2026-10-24-",
-      "name": "Cross Country - Varsity Girls - Alumni Mile (XC) (Home)",
+      "id": "cross-country-varsity-boys-alumni-mile-xc-home-2026-10-24-",
+      "name": "Cross Country - Varsity Boys - Alumni Mile (XC) (Home)",
       "description": "",
       "date": "2026-10-24",
       "dateEnd": "",
@@ -10393,8 +10349,8 @@
       "source": "woodward.edu"
     },
     {
-      "id": "cross-country-varsity-boys-alumni-mile-xc-home-2026-10-24-",
-      "name": "Cross Country - Varsity Boys - Alumni Mile (XC) (Home)",
+      "id": "cross-country-varsity-girls-alumni-mile-xc-home-2026-10-24-",
+      "name": "Cross Country - Varsity Girls - Alumni Mile (XC) (Home)",
       "description": "",
       "date": "2026-10-24",
       "dateEnd": "",
@@ -10437,28 +10393,6 @@
       "source": "woodward.edu"
     },
     {
-      "id": "basketball-9th-grade-boys-9th-grade-boys-basketball-tryouts--2026-10-26-3-45-pm",
-      "name": "Basketball - 9th Grade Boys - 9th Grade Boys Basketball Tryouts Begin (Home)",
-      "description": "",
-      "date": "2026-10-26",
-      "dateEnd": "",
-      "start": "3:45 PM",
-      "end": "",
-      "location": "Champions Gym",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 9,
-      "gradeText": "Grade 9",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
       "id": "basketball-junior-varsity-boys-jv-boys-basketball-tryouts-be-2026-10-26-3-45-pm",
       "name": "Basketball - Junior Varsity Boys - JV Boys Basketball Tryouts Begin (Home)",
       "description": "",
@@ -10473,6 +10407,28 @@
       "gradeMin": 9,
       "gradeMax": 12,
       "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-9th-grade-boys-9th-grade-boys-basketball-tryouts--2026-10-26-3-45-pm",
+      "name": "Basketball - 9th Grade Boys - 9th Grade Boys Basketball Tryouts Begin (Home)",
+      "description": "",
+      "date": "2026-10-26",
+      "dateEnd": "",
+      "start": "3:45 PM",
+      "end": "",
+      "location": "Champions Gym",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 9,
+      "gradeText": "Grade 9",
       "category": "Athletics",
       "contact": "",
       "contactEmail": "",
@@ -10548,6 +10504,28 @@
       "source": "woodward.edu"
     },
     {
+      "id": "swimming-and-diving-varsity-girls-intrasquad-swim-meet-home-2026-10-27-",
+      "name": "Swimming & Diving - Varsity Girls - Intrasquad Swim Meet (Home)",
+      "description": "",
+      "date": "2026-10-27",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "Kennedy Natatorium",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
       "id": "swimming-and-diving-middle-school-boys-intrasquad-swim-meet--2026-10-27-",
       "name": "Swimming & Diving - Middle School Boys - Intrasquad Swim Meet (Home)",
       "description": "",
@@ -10563,28 +10541,6 @@
       "gradeMin": 7,
       "gradeMax": 8,
       "gradeText": "Grades 7–8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "swimming-and-diving-varsity-girls-intrasquad-swim-meet-home-2026-10-27-",
-      "name": "Swimming & Diving - Varsity Girls - Intrasquad Swim Meet (Home)",
-      "description": "",
-      "date": "2026-10-27",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "Kennedy Natatorium",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
       "category": "Athletics",
       "contact": "",
       "contactEmail": "",
@@ -10712,6 +10668,72 @@
       "start": "7:30 PM",
       "end": "",
       "location": "Graham Hixon Field @ Colquitt Stadium",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "cross-country-varsity-boys-ghsa-sectional-xc-meet-away-2026-10-31-",
+      "name": "Cross Country - Varsity Boys - GHSA Sectional XC Meet (Away)",
+      "description": "",
+      "date": "2026-10-31",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "Foxhall Resort and Sporting Club",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "cross-country-varsity-girls-ghsa-sectional-xc-meet-away-2026-10-31-",
+      "name": "Cross Country - Varsity Girls - GHSA Sectional XC Meet (Away)",
+      "description": "",
+      "date": "2026-10-31",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "Foxhall Resort and Sporting Club",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "clay-target-varsity-co-ed-gisa-clay-target-state-championshi-2026-10-31-",
+      "name": "Clay Target - Varsity Co-ed - GISA Clay Target State Championships (Away)",
+      "description": "",
+      "date": "2026-10-31",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "Forest City Gun Club",
       "schools": [
         "US"
       ],
