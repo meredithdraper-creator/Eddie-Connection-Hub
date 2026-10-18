@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-10-17T12:58:01.066Z",
+    "updated": "2026-10-18T13:15:25.364Z",
     "opportunityCount": 288,
-    "eventCount": 34,
+    "eventCount": 30,
     "divisions": {
       "PS": {
         "label": "Primary School",
@@ -31,7 +31,7 @@
       }
     },
     "safetyNote": "Please talk with a trusted adult, your school counselor, or call or text 988 (Suicide & Crisis Lifeline) any time.",
-    "eventsSyncedAt": "2026-10-17T12:58:27.800Z",
+    "eventsSyncedAt": "2026-10-18T13:15:50.726Z",
     "eventsFromFeed": true
   },
   "items": [
@@ -9992,94 +9992,6 @@
   ],
   "events": [
     {
-      "id": "cross-country-varsity-boys-coach-wood-invitational-xc-meet-a-2026-10-17-",
-      "name": "Cross Country - Varsity Boys - Coach Wood Invitational XC Meet (Away)",
-      "description": "",
-      "date": "2026-10-17",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "McIntosh Nature Preserve",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "cross-country-varsity-girls-coach-wood-invitational-xc-meet--2026-10-17-",
-      "name": "Cross Country - Varsity Girls - Coach Wood Invitational XC Meet (Away)",
-      "description": "",
-      "date": "2026-10-17",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "McIntosh Nature Preserve",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "cross-country-varsity-girls-jv-v-boys-and-girls-cross-countr-2026-10-17-",
-      "name": "Cross Country - Varsity Girls - JV/V Boys & Girls Cross Country",
-      "description": "",
-      "date": "2026-10-17",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "volleyball-varsity-girls-vs-shiloh-high-school-home-2026-10-17-11-00-am",
-      "name": "Volleyball - Varsity Girls vs. Shiloh High School (Home)",
-      "description": "",
-      "date": "2026-10-17",
-      "dateEnd": "",
-      "start": "11:00 AM",
-      "end": "",
-      "location": "Paget Gym",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
       "id": "wrestling-middle-school-ms-wresting-begins-home-2026-10-19-3-45-pm",
       "name": "Wrestling - Middle School - MS Wresting Begins (Home)",
       "description": "",
@@ -10393,28 +10305,6 @@
       "source": "woodward.edu"
     },
     {
-      "id": "basketball-junior-varsity-boys-jv-boys-basketball-tryouts-be-2026-10-26-3-45-pm",
-      "name": "Basketball - Junior Varsity Boys - JV Boys Basketball Tryouts Begin (Home)",
-      "description": "",
-      "date": "2026-10-26",
-      "dateEnd": "",
-      "start": "3:45 PM",
-      "end": "",
-      "location": "Champions Gym",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
       "id": "basketball-9th-grade-boys-9th-grade-boys-basketball-tryouts--2026-10-26-3-45-pm",
       "name": "Basketball - 9th Grade Boys - 9th Grade Boys Basketball Tryouts Begin (Home)",
       "description": "",
@@ -10437,14 +10327,14 @@
       "source": "woodward.edu"
     },
     {
-      "id": "volleyball-varsity-girls-aaaaaa-playoffs-semifinals-2026-10-27-",
-      "name": "Volleyball - Varsity Girls - AAAAAA Playoffs - Semifinals",
+      "id": "basketball-junior-varsity-boys-jv-boys-basketball-tryouts-be-2026-10-26-3-45-pm",
+      "name": "Basketball - Junior Varsity Boys - JV Boys Basketball Tryouts Begin (Home)",
       "description": "",
-      "date": "2026-10-27",
+      "date": "2026-10-26",
       "dateEnd": "",
-      "start": "",
+      "start": "3:45 PM",
       "end": "",
-      "location": "",
+      "location": "Champions Gym",
       "schools": [
         "US"
       ],
@@ -10459,21 +10349,20 @@
       "source": "woodward.edu"
     },
     {
-      "id": "swimming-and-diving-middle-school-girls-intrasquad-swim-meet-2026-10-27-",
-      "name": "Swimming & Diving - Middle School Girls - Intrasquad Swim Meet (Home)",
+      "id": "volleyball-varsity-girls-aaaaaa-playoffs-semifinals-2026-10-27-",
+      "name": "Volleyball - Varsity Girls - AAAAAA Playoffs - Semifinals",
       "description": "",
       "date": "2026-10-27",
       "dateEnd": "",
       "start": "",
       "end": "",
-      "location": "Kennedy Natatorium",
+      "location": "",
       "schools": [
-        "WN",
-        "MS"
+        "US"
       ],
-      "gradeMin": 7,
-      "gradeMax": 8,
-      "gradeText": "Grades 7–8",
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
       "category": "Athletics",
       "contact": "",
       "contactEmail": "",
@@ -10549,6 +10438,29 @@
       "source": "woodward.edu"
     },
     {
+      "id": "swimming-and-diving-middle-school-girls-intrasquad-swim-meet-2026-10-27-",
+      "name": "Swimming & Diving - Middle School Girls - Intrasquad Swim Meet (Home)",
+      "description": "",
+      "date": "2026-10-27",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "Kennedy Natatorium",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 8,
+      "gradeText": "Grades 7–8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
       "id": "volleyball-varsity-girls-aaaaaa-playoffs-championships-2026-10-29-",
       "name": "Volleyball - Varsity Girls - AAAAAA Playoffs - Championships",
       "description": "",
@@ -10571,6 +10483,29 @@
       "source": "woodward.edu"
     },
     {
+      "id": "cheerleading-football-middle-school-ms-cheer-team-2026-10-29-",
+      "name": "Cheerleading - Football - Middle School - MS Cheer Team",
+      "description": "",
+      "date": "2026-10-29",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 8,
+      "gradeText": "Grades 7–8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
       "id": "clay-target-varsity-co-ed-gisa-clay-target-state-championshi-2026-10-29-",
       "name": "Clay Target - Varsity Co-ed - GISA Clay Target State Championships (Away)",
       "description": "",
@@ -10585,29 +10520,6 @@
       "gradeMin": 9,
       "gradeMax": 12,
       "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "cheerleading-football-middle-school-ms-cheer-team-2026-10-30-",
-      "name": "Cheerleading - Football - Middle School - MS Cheer Team",
-      "description": "",
-      "date": "2026-10-30",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 8,
-      "gradeText": "Grades 7–8",
       "category": "Athletics",
       "contact": "",
       "contactEmail": "",
