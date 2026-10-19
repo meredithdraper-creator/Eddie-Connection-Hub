@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-10-18T13:15:25.364Z",
+    "updated": "2026-10-19T16:26:51.663Z",
     "opportunityCount": 288,
-    "eventCount": 30,
+    "eventCount": 29,
     "divisions": {
       "PS": {
         "label": "Primary School",
@@ -31,7 +31,7 @@
       }
     },
     "safetyNote": "Please talk with a trusted adult, your school counselor, or call or text 988 (Suicide & Crisis Lifeline) any time.",
-    "eventsSyncedAt": "2026-10-18T13:15:50.726Z",
+    "eventsSyncedAt": "2026-10-19T16:27:16.064Z",
     "eventsFromFeed": true
   },
   "items": [
@@ -10125,12 +10125,12 @@
       "source": "woodward.edu"
     },
     {
-      "id": "volleyball-varsity-girls-aaaaaa-playoffs-2nd-round-home-2026-10-20-",
-      "name": "Volleyball - Varsity Girls - AAAAAA Playoffs - 2nd round (Home)",
+      "id": "volleyball-varsity-girls-vs-riverwood-international-charter--2026-10-20-6-00-pm",
+      "name": "Volleyball - Varsity Girls vs. Riverwood International Charter School (Home)",
       "description": "",
       "date": "2026-10-20",
       "dateEnd": "",
-      "start": "",
+      "start": "6:00 PM",
       "end": "",
       "location": "Paget Gym",
       "schools": [
@@ -10475,29 +10475,6 @@
       "gradeMin": 9,
       "gradeMax": 12,
       "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "cheerleading-football-middle-school-ms-cheer-team-2026-10-29-",
-      "name": "Cheerleading - Football - Middle School - MS Cheer Team",
-      "description": "",
-      "date": "2026-10-29",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 8,
-      "gradeText": "Grades 7–8",
       "category": "Athletics",
       "contact": "",
       "contactEmail": "",
