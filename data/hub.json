@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-10-20T14:17:35.725Z",
+    "updated": "2026-10-21T14:28:49.725Z",
     "opportunityCount": 288,
-    "eventCount": 31,
+    "eventCount": 29,
     "divisions": {
       "PS": {
         "label": "Primary School",
@@ -31,7 +31,7 @@
       }
     },
     "safetyNote": "Please talk with a trusted adult, your school counselor, or call or text 988 (Suicide & Crisis Lifeline) any time.",
-    "eventsSyncedAt": "2026-10-20T14:18:15.251Z",
+    "eventsSyncedAt": "2026-10-21T14:29:12.833Z",
     "eventsFromFeed": true
   },
   "items": [
@@ -9992,28 +9992,6 @@
   ],
   "events": [
     {
-      "id": "volleyball-varsity-girls-vs-riverwood-international-charter--2026-10-20-6-00-pm",
-      "name": "Volleyball - Varsity Girls vs. Riverwood International Charter School (Home)",
-      "description": "",
-      "date": "2026-10-20",
-      "dateEnd": "",
-      "start": "6:00 PM",
-      "end": "",
-      "location": "Paget Gym",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
       "id": "riflery-vs-langston-hughes-high-school-home-2026-10-21-4-00-pm",
       "name": "Riflery vs. Langston Hughes High School (Home)",
       "description": "",
@@ -10172,51 +10150,6 @@
       "source": "woodward.edu"
     },
     {
-      "id": "wrestling-middle-school-ms-wrestling-2026-10-26-",
-      "name": "Wrestling - Middle School - MS Wrestling",
-      "description": "",
-      "date": "2026-10-26",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 8,
-      "gradeText": "Grades 7–8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "wrestling-varsity-girls-grils-wrestling-2026-10-26-",
-      "name": "Wrestling - Varsity Girls - Grils Wrestling",
-      "description": "",
-      "date": "2026-10-26",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
       "id": "basketball-junior-varsity-boys-jv-boys-basketball-tryouts-be-2026-10-26-3-45-pm",
       "name": "Basketball - Junior Varsity Boys - JV Boys Basketball Tryouts Begin (Home)",
       "description": "",
@@ -10253,6 +10186,29 @@
       "gradeMin": 9,
       "gradeMax": 9,
       "gradeText": "Grade 9",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "wrestling-middle-school-ms-wrestling-2026-10-27-",
+      "name": "Wrestling - Middle School - MS Wrestling",
+      "description": "",
+      "date": "2026-10-27",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 8,
+      "gradeText": "Grades 7–8",
       "category": "Athletics",
       "contact": "",
       "contactEmail": "",
@@ -10387,6 +10343,29 @@
       "gradeMin": 9,
       "gradeMax": 12,
       "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "cheerleading-football-middle-school-ms-cheer-team-2026-10-29-",
+      "name": "Cheerleading - Football - Middle School - MS Cheer Team",
+      "description": "",
+      "date": "2026-10-29",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 8,
+      "gradeText": "Grades 7–8",
       "category": "Athletics",
       "contact": "",
       "contactEmail": "",
@@ -10535,28 +10514,6 @@
       "start": "",
       "end": "",
       "location": "Forest City Gun Club",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "cheerleading-basketball-varsity-v-basketball-cheer-team-2026-11-01-",
-      "name": "Cheerleading Basketball - Varsity - V Basketball Cheer Team",
-      "description": "",
-      "date": "2026-11-01",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
       "schools": [
         "US"
       ],
