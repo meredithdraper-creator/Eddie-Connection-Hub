@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-10-21T14:28:49.725Z",
+    "updated": "2026-10-22T14:30:10.696Z",
     "opportunityCount": 288,
-    "eventCount": 29,
+    "eventCount": 30,
     "divisions": {
       "PS": {
         "label": "Primary School",
@@ -31,7 +31,7 @@
       }
     },
     "safetyNote": "Please talk with a trusted adult, your school counselor, or call or text 988 (Suicide & Crisis Lifeline) any time.",
-    "eventsSyncedAt": "2026-10-21T14:29:12.833Z",
+    "eventsSyncedAt": "2026-10-22T14:30:36.907Z",
     "eventsFromFeed": true
   },
   "items": [
@@ -9992,24 +9992,21 @@
   ],
   "events": [
     {
-      "id": "riflery-vs-langston-hughes-high-school-home-2026-10-21-4-00-pm",
-      "name": "Riflery vs. Langston Hughes High School (Home)",
+      "id": "cheerleading-football-middle-school-ms-cheer-team-2026-10-23-",
+      "name": "Cheerleading - Football - Middle School - MS Cheer Team",
       "description": "",
-      "date": "2026-10-21",
+      "date": "2026-10-23",
       "dateEnd": "",
-      "start": "4:00 PM",
+      "start": "",
       "end": "",
-      "location": "Rifle Range",
+      "location": "",
       "schools": [
-        "PS",
-        "LS",
         "WN",
-        "MS",
-        "US"
+        "MS"
       ],
-      "gradeMin": -2,
-      "gradeMax": 12,
-      "gradeText": "All grades",
+      "gradeMin": 7,
+      "gradeMax": 8,
+      "gradeText": "Grades 7–8",
       "category": "Athletics",
       "contact": "",
       "contactEmail": "",
@@ -10062,28 +10059,6 @@
       "source": "woodward.edu"
     },
     {
-      "id": "volleyball-varsity-girls-aaaaaa-playoffs-quarterfinals-2026-10-24-",
-      "name": "Volleyball - Varsity Girls - AAAAAA Playoffs - Quarterfinals",
-      "description": "",
-      "date": "2026-10-24",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
       "id": "cross-country-varsity-boys-alumni-mile-xc-home-2026-10-24-",
       "name": "Cross Country - Varsity Boys - Alumni Mile (XC) (Home)",
       "description": "",
@@ -10114,6 +10089,28 @@
       "start": "",
       "end": "",
       "location": "Timothy J. Hamling Track & Field Complex",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "volleyball-varsity-girls-vs-dunwoody-high-school-home-2026-10-24-11-00-am",
+      "name": "Volleyball - Varsity Girls vs. Dunwoody High School (Home)",
+      "description": "",
+      "date": "2026-10-24",
+      "dateEnd": "",
+      "start": "11:00 AM",
+      "end": "",
+      "location": "Paget Gym",
       "schools": [
         "US"
       ],
@@ -10194,29 +10191,6 @@
       "source": "woodward.edu"
     },
     {
-      "id": "wrestling-middle-school-ms-wrestling-2026-10-27-",
-      "name": "Wrestling - Middle School - MS Wrestling",
-      "description": "",
-      "date": "2026-10-27",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 8,
-      "gradeText": "Grades 7–8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
       "id": "volleyball-varsity-girls-aaaaaa-playoffs-semifinals-2026-10-27-",
       "name": "Volleyball - Varsity Girls - AAAAAA Playoffs - Semifinals",
       "description": "",
@@ -10239,8 +10213,8 @@
       "source": "woodward.edu"
     },
     {
-      "id": "swimming-and-diving-middle-school-girls-intrasquad-swim-meet-2026-10-27-",
-      "name": "Swimming & Diving - Middle School Girls - Intrasquad Swim Meet (Home)",
+      "id": "swimming-and-diving-middle-school-boys-intrasquad-swim-meet--2026-10-27-",
+      "name": "Swimming & Diving - Middle School Boys - Intrasquad Swim Meet (Home)",
       "description": "",
       "date": "2026-10-27",
       "dateEnd": "",
@@ -10262,8 +10236,8 @@
       "source": "woodward.edu"
     },
     {
-      "id": "swimming-and-diving-middle-school-boys-intrasquad-swim-meet--2026-10-27-",
-      "name": "Swimming & Diving - Middle School Boys - Intrasquad Swim Meet (Home)",
+      "id": "swimming-and-diving-middle-school-girls-intrasquad-swim-meet-2026-10-27-",
+      "name": "Swimming & Diving - Middle School Girls - Intrasquad Swim Meet (Home)",
       "description": "",
       "date": "2026-10-27",
       "dateEnd": "",
@@ -10343,29 +10317,6 @@
       "gradeMin": 9,
       "gradeMax": 12,
       "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "cheerleading-football-middle-school-ms-cheer-team-2026-10-29-",
-      "name": "Cheerleading - Football - Middle School - MS Cheer Team",
-      "description": "",
-      "date": "2026-10-29",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 8,
-      "gradeText": "Grades 7–8",
       "category": "Athletics",
       "contact": "",
       "contactEmail": "",
@@ -10528,6 +10479,50 @@
       "source": "woodward.edu"
     },
     {
+      "id": "wrestling-varsity-v-boys-wrestling-2026-11-02-",
+      "name": "Wrestling - Varsity - V Boys Wrestling",
+      "description": "",
+      "date": "2026-11-02",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "wrestling-varsity-girls-grils-wrestling-2026-11-02-",
+      "name": "Wrestling - Varsity Girls - Grils Wrestling",
+      "description": "",
+      "date": "2026-11-02",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
       "id": "swimming-and-diving-varsity-girls-vs-holy-innocents-episcopa-2026-11-03-",
       "name": "Swimming & Diving - Varsity Girls vs. Holy Innocents' Episcopal School (Home)",
       "description": "",
@@ -10632,6 +10627,32 @@
       "gradeMin": 9,
       "gradeMax": 12,
       "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "riflery-vs-carver-early-college-high-school-home-2026-11-05-4-00-pm",
+      "name": "Riflery vs. Carver Early College High School (Home)",
+      "description": "",
+      "date": "2026-11-05",
+      "dateEnd": "",
+      "start": "4:00 PM",
+      "end": "",
+      "location": "Rifle Range",
+      "schools": [
+        "PS",
+        "LS",
+        "WN",
+        "MS",
+        "US"
+      ],
+      "gradeMin": -2,
+      "gradeMax": 12,
+      "gradeText": "All grades",
       "category": "Athletics",
       "contact": "",
       "contactEmail": "",
