@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-10-23T14:13:20.775Z",
+    "updated": "2026-10-24T13:18:59.099Z",
     "opportunityCount": 288,
-    "eventCount": 31,
+    "eventCount": 37,
     "divisions": {
       "PS": {
         "label": "Primary School",
@@ -31,7 +31,7 @@
       }
     },
     "safetyNote": "Please talk with a trusted adult, your school counselor, or call or text 988 (Suicide & Crisis Lifeline) any time.",
-    "eventsSyncedAt": "2026-10-23T14:13:45.985Z",
+    "eventsSyncedAt": "2026-10-24T13:19:23.476Z",
     "eventsFromFeed": true
   },
   "items": [
@@ -9992,50 +9992,6 @@
   ],
   "events": [
     {
-      "id": "football-varsity-vs-morrow-high-school-home-2026-10-23-7-30-pm",
-      "name": "Football - Varsity vs. Morrow High School (Home)",
-      "description": "",
-      "date": "2026-10-23",
-      "dateEnd": "",
-      "start": "7:30 PM",
-      "end": "",
-      "location": "Graham Hixon Field @ Colquitt Stadium",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "cheerleading-football-varsity-vs-morrow-high-school-home-2026-10-23-7-30-pm",
-      "name": "Cheerleading - Football - Varsity vs. Morrow High School (Home)",
-      "description": "",
-      "date": "2026-10-23",
-      "dateEnd": "",
-      "start": "7:30 PM",
-      "end": "",
-      "location": "Graham Hixon Field @ Colquitt Stadium",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
       "id": "cross-country-varsity-boys-alumni-mile-xc-home-2026-10-24-",
       "name": "Cross Country - Varsity Boys - Alumni Mile (XC) (Home)",
       "description": "",
@@ -10316,29 +10272,6 @@
       "gradeMin": 9,
       "gradeMax": 12,
       "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "cheerleading-football-middle-school-ms-cheer-team-2026-10-30-",
-      "name": "Cheerleading - Football - Middle School - MS Cheer Team",
-      "description": "",
-      "date": "2026-10-30",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 8,
-      "gradeText": "Grades 7–8",
       "category": "Athletics",
       "contact": "",
       "contactEmail": "",
@@ -10669,6 +10602,205 @@
       "start": "7:30 PM",
       "end": "",
       "location": "Creekside High School",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "wrestling-middle-school-ms-wrestling-2026-11-07-",
+      "name": "Wrestling - Middle School - MS Wrestling",
+      "description": "",
+      "date": "2026-11-07",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 8,
+      "gradeText": "Grades 7–8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "cross-country-varsity-boys-ghsa-state-xc-meet-away-2026-11-07-",
+      "name": "Cross Country - Varsity Boys - GHSA State XC Meet (Away)",
+      "description": "",
+      "date": "2026-11-07",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "Carrollton Elementary School",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "cross-country-varsity-girls-ghsa-state-xc-meet-away-2026-11-07-",
+      "name": "Cross Country - Varsity Girls - GHSA State XC Meet (Away)",
+      "description": "",
+      "date": "2026-11-07",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "Carrollton Elementary School",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-varsity-girls-hoops-for-hunger-away-2026-11-07-",
+      "name": "Basketball - Varsity Girls - Hoops for Hunger (Away)",
+      "description": "",
+      "date": "2026-11-07",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-varsity-boys-vs-kipp-atlanta-collegiate-high-scho-2026-11-07-",
+      "name": "Basketball - Varsity Boys vs. KIPP Atlanta Collegiate High School (Away)",
+      "description": "",
+      "date": "2026-11-07",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "KIPP Atlanta Collegiate High School",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-junior-varsity-boys-vs-wesleyan-school-home-2026-11-07-12-30-pm",
+      "name": "Basketball - Junior Varsity Boys vs. Wesleyan School (Home)",
+      "description": "",
+      "date": "2026-11-07",
+      "dateEnd": "",
+      "start": "12:30 PM",
+      "end": "",
+      "location": "Paget Gym",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "wrestling-junior-varsity-bronco-scramble-away-2026-11-07-9-00-am",
+      "name": "Wrestling - Junior Varsity - Bronco Scramble (Away)",
+      "description": "",
+      "date": "2026-11-07",
+      "dateEnd": "",
+      "start": "9:00 AM",
+      "end": "",
+      "location": "Brookwood High School",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "wrestling-varsity-girls-jaxco-crowns-and-claws-away-2026-11-07-9-00-am",
+      "name": "Wrestling - Varsity Girls - Jaxco Crowns & Claws (Away)",
+      "description": "",
+      "date": "2026-11-07",
+      "dateEnd": "",
+      "start": "9:00 AM",
+      "end": "",
+      "location": "Jackson County High School",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "wrestling-varsity-bronco-scramble-away-2026-11-07-9-00-am",
+      "name": "Wrestling - Varsity - Bronco Scramble (Away)",
+      "description": "",
+      "date": "2026-11-07",
+      "dateEnd": "",
+      "start": "9:00 AM",
+      "end": "",
+      "location": "Brookwood High School",
       "schools": [
         "US"
       ],
