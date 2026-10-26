@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-10-25T13:42:00.050Z",
+    "updated": "2026-10-26T16:06:17.973Z",
     "opportunityCount": 288,
-    "eventCount": 33,
+    "eventCount": 35,
     "divisions": {
       "PS": {
         "label": "Primary School",
@@ -31,7 +31,7 @@
       }
     },
     "safetyNote": "Please talk with a trusted adult, your school counselor, or call or text 988 (Suicide & Crisis Lifeline) any time.",
-    "eventsSyncedAt": "2026-10-25T13:42:13.611Z",
+    "eventsSyncedAt": "2026-10-26T16:06:40.511Z",
     "eventsFromFeed": true
   },
   "items": [
@@ -10036,28 +10036,6 @@
       "source": "woodward.edu"
     },
     {
-      "id": "volleyball-varsity-girls-aaaaaa-playoffs-semifinals-2026-10-27-",
-      "name": "Volleyball - Varsity Girls - AAAAAA Playoffs - Semifinals",
-      "description": "",
-      "date": "2026-10-27",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
       "id": "swimming-and-diving-middle-school-boys-intrasquad-swim-meet--2026-10-27-",
       "name": "Swimming & Diving - Middle School Boys - Intrasquad Swim Meet (Home)",
       "description": "",
@@ -10148,6 +10126,28 @@
       "source": "woodward.edu"
     },
     {
+      "id": "volleyball-varsity-girls-vs-pope-high-school-away-2026-10-27-5-00-pm",
+      "name": "Volleyball - Varsity Girls vs. Pope High School (Away)",
+      "description": "",
+      "date": "2026-10-27",
+      "dateEnd": "",
+      "start": "5:00 PM",
+      "end": "",
+      "location": "LakePoint Sports",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
       "id": "volleyball-varsity-girls-aaaaaa-playoffs-championships-2026-10-29-",
       "name": "Volleyball - Varsity Girls - AAAAAA Playoffs - Championships",
       "description": "",
@@ -10184,29 +10184,6 @@
       "gradeMin": 9,
       "gradeMax": 12,
       "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "cheerleading-football-middle-school-ms-cheer-team-2026-10-30-",
-      "name": "Cheerleading - Football - Middle School - MS Cheer Team",
-      "description": "",
-      "date": "2026-10-30",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 8,
-      "gradeText": "Grades 7–8",
       "category": "Athletics",
       "contact": "",
       "contactEmail": "",
@@ -10719,6 +10696,74 @@
       "gradeMin": 9,
       "gradeMax": 12,
       "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-middle-school-team-gray-girls-vs-the-paideia-scho-2026-11-09-5-00-pm",
+      "name": "Basketball - Middle School Team Gray Girls vs. The Paideia School (Away)",
+      "description": "",
+      "date": "2026-11-09",
+      "dateEnd": "",
+      "start": "5:00 PM",
+      "end": "",
+      "location": "The Paideia School",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 8,
+      "gradeText": "Grades 7–8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-junior-varsity-girls-vs-trinity-christian-school--2026-11-09-6-00-pm",
+      "name": "Basketball - Junior Varsity Girls vs. Trinity Christian School (Home)",
+      "description": "",
+      "date": "2026-11-09",
+      "dateEnd": "",
+      "start": "6:00 PM",
+      "end": "",
+      "location": "Champions Gym",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-7th-grade-boys-vs-the-paideia-school-away-2026-11-09-6-00-pm",
+      "name": "Basketball - 7th Grade Boys vs. The Paideia School (Away)",
+      "description": "",
+      "date": "2026-11-09",
+      "dateEnd": "",
+      "start": "6:00 PM",
+      "end": "",
+      "location": "The Paideia School",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 7,
+      "gradeText": "Grade 7",
       "category": "Athletics",
       "contact": "",
       "contactEmail": "",
