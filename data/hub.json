@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-10-27T15:20:09.129Z",
+    "updated": "2026-10-28T15:59:53.113Z",
     "opportunityCount": 288,
-    "eventCount": 42,
+    "eventCount": 41,
     "divisions": {
       "PS": {
         "label": "Primary School",
@@ -31,7 +31,7 @@
       }
     },
     "safetyNote": "Please talk with a trusted adult, your school counselor, or call or text 988 (Suicide & Crisis Lifeline) any time.",
-    "eventsSyncedAt": "2026-10-27T15:20:40.315Z",
+    "eventsSyncedAt": "2026-10-28T16:00:18.315Z",
     "eventsFromFeed": true
   },
   "items": [
@@ -9992,140 +9992,6 @@
   ],
   "events": [
     {
-      "id": "swimming-and-diving-varsity-boys-intrasquad-swim-meet-home-2026-10-27-",
-      "name": "Swimming & Diving - Varsity Boys - Intrasquad Swim Meet (Home)",
-      "description": "",
-      "date": "2026-10-27",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "Kennedy Natatorium",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "swimming-and-diving-varsity-girls-intrasquad-swim-meet-home-2026-10-27-",
-      "name": "Swimming & Diving - Varsity Girls - Intrasquad Swim Meet (Home)",
-      "description": "",
-      "date": "2026-10-27",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "Kennedy Natatorium",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "swimming-and-diving-middle-school-boys-intrasquad-swim-meet--2026-10-27-",
-      "name": "Swimming & Diving - Middle School Boys - Intrasquad Swim Meet (Home)",
-      "description": "",
-      "date": "2026-10-27",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "Kennedy Natatorium",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 8,
-      "gradeText": "Grades 7–8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "swimming-and-diving-middle-school-girls-intrasquad-swim-meet-2026-10-27-",
-      "name": "Swimming & Diving - Middle School Girls - Intrasquad Swim Meet (Home)",
-      "description": "",
-      "date": "2026-10-27",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "Kennedy Natatorium",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 8,
-      "gradeText": "Grades 7–8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "volleyball-varsity-girls-vs-pope-high-school-away-2026-10-27-5-00-pm",
-      "name": "Volleyball - Varsity Girls vs. Pope High School (Away)",
-      "description": "",
-      "date": "2026-10-27",
-      "dateEnd": "",
-      "start": "5:00 PM",
-      "end": "",
-      "location": "LakePoint Sports",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "volleyball-varsity-girls-aaaaaa-playoffs-championships-2026-10-29-",
-      "name": "Volleyball - Varsity Girls - AAAAAA Playoffs - Championships",
-      "description": "",
-      "date": "2026-10-29",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
       "id": "clay-target-varsity-co-ed-gisa-clay-target-state-championshi-2026-10-29-",
       "name": "Clay Target - Varsity Co-ed - GISA Clay Target State Championships (Away)",
       "description": "",
@@ -10134,6 +10000,28 @@
       "start": "",
       "end": "",
       "location": "Forest City Gun Club",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "volleyball-varsity-girls-vs-mcintosh-high-school-away-2026-10-29-6-00-pm",
+      "name": "Volleyball - Varsity Girls vs. McIntosh High School (Away)",
+      "description": "",
+      "date": "2026-10-29",
+      "dateEnd": "",
+      "start": "6:00 PM",
+      "end": "",
+      "location": "LakePoint Sports",
       "schools": [
         "US"
       ],
@@ -10325,6 +10213,28 @@
       "source": "woodward.edu"
     },
     {
+      "id": "swimming-and-diving-varsity-girls-vs-holy-innocents-episcopa-2026-11-03-",
+      "name": "Swimming & Diving - Varsity Girls vs. Holy Innocents' Episcopal School (Home)",
+      "description": "",
+      "date": "2026-11-03",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "Kennedy Natatorium",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
       "id": "swimming-and-diving-middle-school-boys-vs-holy-innocents-epi-2026-11-03-",
       "name": "Swimming & Diving - Middle School Boys vs. Holy Innocents' Episcopal School (Home)",
       "description": "",
@@ -10363,28 +10273,6 @@
       "gradeMin": 7,
       "gradeMax": 8,
       "gradeText": "Grades 7–8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "swimming-and-diving-varsity-girls-vs-holy-innocents-episcopa-2026-11-03-",
-      "name": "Swimming & Diving - Varsity Girls vs. Holy Innocents' Episcopal School (Home)",
-      "description": "",
-      "date": "2026-11-03",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "Kennedy Natatorium",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
       "category": "Athletics",
       "contact": "",
       "contactEmail": "",
@@ -10751,28 +10639,6 @@
       "source": "woodward.edu"
     },
     {
-      "id": "swimming-and-diving-varsity-girls-vs-pace-academy-away-2026-11-10-",
-      "name": "Swimming & Diving - Varsity Girls vs. Pace Academy (Away)",
-      "description": "",
-      "date": "2026-11-10",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "Pace Academy",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
       "id": "swimming-and-diving-middle-school-girls-vs-pace-academy-away-2026-11-10-",
       "name": "Swimming & Diving - Middle School Girls vs. Pace Academy (Away)",
       "description": "",
@@ -10811,6 +10677,28 @@
       "gradeMin": 7,
       "gradeMax": 8,
       "gradeText": "Grades 7–8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "swimming-and-diving-varsity-girls-vs-pace-academy-away-2026-11-10-",
+      "name": "Swimming & Diving - Varsity Girls vs. Pace Academy (Away)",
+      "description": "",
+      "date": "2026-11-10",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "Pace Academy",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
       "category": "Athletics",
       "contact": "",
       "contactEmail": "",
@@ -10923,6 +10811,97 @@
       "gradeMin": 8,
       "gradeMax": 8,
       "gradeText": "Grade 8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "wrestling-middle-school-woodward-ms-scramble-home-2026-11-11-4-30-pm",
+      "name": "Wrestling - Middle School - Woodward MS Scramble (Home)",
+      "description": "",
+      "date": "2026-11-11",
+      "dateEnd": "",
+      "start": "4:30 PM",
+      "end": "",
+      "location": "Champions Gym",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 8,
+      "gradeText": "Grades 7–8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "wrestling-varsity-girls-woodward-scramble-home-2026-11-11-5-00-pm",
+      "name": "Wrestling - Varsity Girls - Woodward Scramble (Home)",
+      "description": "",
+      "date": "2026-11-11",
+      "dateEnd": "",
+      "start": "5:00 PM",
+      "end": "",
+      "location": "Champions Gym",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-middle-school-team-gray-girls-vs-david-t-howard-m-2026-11-11-5-00-pm",
+      "name": "Basketball - Middle School Team Gray Girls vs. David T. Howard Middle School (Home)",
+      "description": "",
+      "date": "2026-11-11",
+      "dateEnd": "",
+      "start": "5:00 PM",
+      "end": "",
+      "location": "Champions Gym",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 8,
+      "gradeText": "Grades 7–8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-middle-school-team-red-girls-vs-david-t-howard-mi-2026-11-11-6-00-pm",
+      "name": "Basketball - Middle School Team Red Girls vs. David T. Howard Middle School (Home)",
+      "description": "",
+      "date": "2026-11-11",
+      "dateEnd": "",
+      "start": "6:00 PM",
+      "end": "",
+      "location": "Champions Gym",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 8,
+      "gradeText": "Grades 7–8",
       "category": "Athletics",
       "contact": "",
       "contactEmail": "",
