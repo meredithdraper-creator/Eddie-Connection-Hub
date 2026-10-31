@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-10-30T15:54:35.530Z",
+    "updated": "2026-10-31T15:18:26.598Z",
     "opportunityCount": 288,
-    "eventCount": 53,
+    "eventCount": 57,
     "divisions": {
       "PS": {
         "label": "Primary School",
@@ -31,7 +31,7 @@
       }
     },
     "safetyNote": "Please talk with a trusted adult, your school counselor, or call or text 988 (Suicide & Crisis Lifeline) any time.",
-    "eventsSyncedAt": "2026-10-30T15:55:02.766Z",
+    "eventsSyncedAt": "2026-10-31T15:18:42.946Z",
     "eventsFromFeed": true
   },
   "items": [
@@ -9992,95 +9992,6 @@
   ],
   "events": [
     {
-      "id": "cheerleading-football-middle-school-ms-cheer-team-2026-10-30-",
-      "name": "Cheerleading - Football - Middle School - MS Cheer Team",
-      "description": "",
-      "date": "2026-10-30",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 8,
-      "gradeText": "Grades 7–8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "clay-target-varsity-co-ed-gisa-clay-target-state-championshi-2026-10-30-",
-      "name": "Clay Target - Varsity Co-ed - GISA Clay Target State Championships (Away)",
-      "description": "",
-      "date": "2026-10-30",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "Forest City Gun Club",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "football-varsity-vs-lovejoy-high-school-home-2026-10-30-7-30-pm",
-      "name": "Football - Varsity vs. Lovejoy High School (Home)",
-      "description": "",
-      "date": "2026-10-30",
-      "dateEnd": "",
-      "start": "7:30 PM",
-      "end": "",
-      "location": "Graham Hixon Field @ Colquitt Stadium",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "cheerleading-football-varsity-vs-lovejoy-high-school-home-2026-10-30-7-30-pm",
-      "name": "Cheerleading - Football - Varsity vs. Lovejoy High School (Home)",
-      "description": "",
-      "date": "2026-10-30",
-      "dateEnd": "",
-      "start": "7:30 PM",
-      "end": "",
-      "location": "Graham Hixon Field @ Colquitt Stadium",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
       "id": "cross-country-varsity-boys-ghsa-sectional-xc-meet-away-2026-10-31-",
       "name": "Cross Country - Varsity Boys - GHSA Sectional XC Meet (Away)",
       "description": "",
@@ -10351,8 +10262,8 @@
       "source": "woodward.edu"
     },
     {
-      "id": "cross-country-varsity-boys-ghsa-state-xc-meet-away-2026-11-07-",
-      "name": "Cross Country - Varsity Boys - GHSA State XC Meet (Away)",
+      "id": "cross-country-varsity-girls-ghsa-state-xc-meet-away-2026-11-07-",
+      "name": "Cross Country - Varsity Girls - GHSA State XC Meet (Away)",
       "description": "",
       "date": "2026-11-07",
       "dateEnd": "",
@@ -10373,8 +10284,8 @@
       "source": "woodward.edu"
     },
     {
-      "id": "cross-country-varsity-girls-ghsa-state-xc-meet-away-2026-11-07-",
-      "name": "Cross Country - Varsity Girls - GHSA State XC Meet (Away)",
+      "id": "cross-country-varsity-boys-ghsa-state-xc-meet-away-2026-11-07-",
+      "name": "Cross Country - Varsity Boys - GHSA State XC Meet (Away)",
       "description": "",
       "date": "2026-11-07",
       "dateEnd": "",
@@ -10461,14 +10372,14 @@
       "source": "woodward.edu"
     },
     {
-      "id": "wrestling-varsity-bronco-scramble-away-2026-11-07-9-00-am",
-      "name": "Wrestling - Varsity - Bronco Scramble (Away)",
+      "id": "wrestling-varsity-girls-jaxco-crowns-and-claws-away-2026-11-07-9-00-am",
+      "name": "Wrestling - Varsity Girls - Jaxco Crowns & Claws (Away)",
       "description": "",
       "date": "2026-11-07",
       "dateEnd": "",
       "start": "9:00 AM",
       "end": "",
-      "location": "Brookwood High School",
+      "location": "Jackson County High School",
       "schools": [
         "US"
       ],
@@ -10505,14 +10416,14 @@
       "source": "woodward.edu"
     },
     {
-      "id": "wrestling-varsity-girls-jaxco-crowns-and-claws-away-2026-11-07-9-00-am",
-      "name": "Wrestling - Varsity Girls - Jaxco Crowns & Claws (Away)",
+      "id": "wrestling-varsity-bronco-scramble-away-2026-11-07-9-00-am",
+      "name": "Wrestling - Varsity - Bronco Scramble (Away)",
       "description": "",
       "date": "2026-11-07",
       "dateEnd": "",
       "start": "9:00 AM",
       "end": "",
-      "location": "Jackson County High School",
+      "location": "Brookwood High School",
       "schools": [
         "US"
       ],
@@ -11165,6 +11076,184 @@
       "start": "7:30 PM",
       "end": "",
       "location": "Paget Gym",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "swimming-and-diving-middle-school-boys-westminster-invitatio-2026-11-14-",
+      "name": "Swimming & Diving - Middle School Boys - Westminster Invitational (Away)",
+      "description": "",
+      "date": "2026-11-14",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "The Westminster Schools",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 8,
+      "gradeText": "Grades 7–8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "swimming-and-diving-middle-school-girls-westminster-invitati-2026-11-14-",
+      "name": "Swimming & Diving - Middle School Girls - Westminster Invitational (Away)",
+      "description": "",
+      "date": "2026-11-14",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "The Westminster Schools",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 8,
+      "gradeText": "Grades 7–8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "wrestling-varsity-girls-iron-maiden-away-2026-11-14-10-00-am",
+      "name": "Wrestling - Varsity Girls - Iron Maiden (Away)",
+      "description": "",
+      "date": "2026-11-14",
+      "dateEnd": "",
+      "start": "10:00 AM",
+      "end": "",
+      "location": "Jordan Vocational High School",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-junior-varsity-boys-vs-whitewater-high-school-awa-2026-11-14-3-15-pm",
+      "name": "Basketball - Junior Varsity Boys vs. Whitewater High School (Away)",
+      "description": "",
+      "date": "2026-11-14",
+      "dateEnd": "",
+      "start": "3:15 PM",
+      "end": "",
+      "location": "McIntosh High School",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-9th-grade-boys-vs-mcintosh-high-school-away-2026-11-14-3-15-pm",
+      "name": "Basketball - 9th Grade Boys vs. McIntosh High School (Away)",
+      "description": "",
+      "date": "2026-11-14",
+      "dateEnd": "",
+      "start": "3:15 PM",
+      "end": "",
+      "location": "McIntosh High School",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 9,
+      "gradeText": "Grade 9",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-varsity-boys-vs-hillgrove-high-school-away-2026-11-14-8-00-pm",
+      "name": "Basketball - Varsity Boys vs. Hillgrove High School (Away)",
+      "description": "",
+      "date": "2026-11-14",
+      "dateEnd": "",
+      "start": "8:00 PM",
+      "end": "",
+      "location": "Hillgrove High School",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "wrestling-varsity-hoya-duals-away-2026-11-14-9-00-am",
+      "name": "Wrestling - Varsity - Hoya Duals (Away)",
+      "description": "",
+      "date": "2026-11-14",
+      "dateEnd": "",
+      "start": "9:00 AM",
+      "end": "",
+      "location": "Harrison High School",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "wrestling-junior-varsity-hoya-duals-away-2026-11-14-9-00-am",
+      "name": "Wrestling - Junior Varsity - Hoya Duals (Away)",
+      "description": "",
+      "date": "2026-11-14",
+      "dateEnd": "",
+      "start": "9:00 AM",
+      "end": "",
+      "location": "Harrison High School",
       "schools": [
         "US"
       ],
