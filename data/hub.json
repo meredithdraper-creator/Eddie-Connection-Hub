@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-11-04T17:12:39.322Z",
+    "updated": "2026-11-05T17:22:18.129Z",
     "opportunityCount": 288,
-    "eventCount": 56,
+    "eventCount": 62,
     "divisions": {
       "PS": {
         "label": "Primary School",
@@ -31,7 +31,7 @@
       }
     },
     "safetyNote": "Please talk with a trusted adult, your school counselor, or call or text 988 (Suicide & Crisis Lifeline) any time.",
-    "eventsSyncedAt": "2026-11-04T17:13:00.928Z",
+    "eventsSyncedAt": "2026-11-05T17:22:49.667Z",
     "eventsFromFeed": true
   },
   "items": [
@@ -11240,6 +11240,142 @@
       "gradeMin": 9,
       "gradeMax": 12,
       "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "wrestling-middle-school-woodward-ms-scramble-home-2026-11-19-4-30-pm",
+      "name": "Wrestling - Middle School - Woodward MS Scramble (Home)",
+      "description": "",
+      "date": "2026-11-19",
+      "dateEnd": "",
+      "start": "4:30 PM",
+      "end": "",
+      "location": "Champions Gym",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 8,
+      "gradeText": "Grades 7–8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-middle-school-team-gray-girls-vs-landmark-christi-2026-11-19-4-30-pm",
+      "name": "Basketball - Middle School Team Gray Girls vs. Landmark Christian School (Home)",
+      "description": "",
+      "date": "2026-11-19",
+      "dateEnd": "",
+      "start": "4:30 PM",
+      "end": "",
+      "location": "Champions Gym",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 8,
+      "gradeText": "Grades 7–8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-varsity-girls-vs-hebron-christian-academy-home-2026-11-19-6-00-pm",
+      "name": "Basketball - Varsity Girls vs. Hebron Christian Academy (Home)",
+      "description": "",
+      "date": "2026-11-19",
+      "dateEnd": "",
+      "start": "6:00 PM",
+      "end": "",
+      "location": "Paget Gym",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-7th-grade-boys-vs-landmark-christian-school-home-2026-11-19-6-30-pm",
+      "name": "Basketball - 7th Grade Boys vs. Landmark Christian School (Home)",
+      "description": "",
+      "date": "2026-11-19",
+      "dateEnd": "",
+      "start": "6:30 PM",
+      "end": "",
+      "location": "Champions Gym",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 7,
+      "gradeText": "Grade 7",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-middle-school-team-red-girls-vs-landmark-christia-2026-11-19-6-30-pm",
+      "name": "Basketball - Middle School Team Red Girls vs. Landmark Christian School (Home)",
+      "description": "",
+      "date": "2026-11-19",
+      "dateEnd": "",
+      "start": "6:30 PM",
+      "end": "",
+      "location": "Champions Gym",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 8,
+      "gradeText": "Grades 7–8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-8th-grade-boys-vs-landmark-christian-school-home-2026-11-19-7-30-pm",
+      "name": "Basketball - 8th Grade Boys vs. Landmark Christian School (Home)",
+      "description": "",
+      "date": "2026-11-19",
+      "dateEnd": "",
+      "start": "7:30 PM",
+      "end": "",
+      "location": "Champions Gym",
+      "schools": [
+        "MS"
+      ],
+      "gradeMin": 8,
+      "gradeMax": 8,
+      "gradeText": "Grade 8",
       "category": "Athletics",
       "contact": "",
       "contactEmail": "",
