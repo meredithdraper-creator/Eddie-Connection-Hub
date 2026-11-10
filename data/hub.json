@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-11-09T19:46:10.865Z",
+    "updated": "2026-11-10T17:00:24.066Z",
     "opportunityCount": 288,
-    "eventCount": 62,
+    "eventCount": 59,
     "divisions": {
       "PS": {
         "label": "Primary School",
@@ -31,7 +31,7 @@
       }
     },
     "safetyNote": "Please talk with a trusted adult, your school counselor, or call or text 988 (Suicide & Crisis Lifeline) any time.",
-    "eventsSyncedAt": "2026-11-09T19:46:35.352Z",
+    "eventsSyncedAt": "2026-11-10T17:00:59.174Z",
     "eventsFromFeed": true
   },
   "items": [
@@ -9991,74 +9991,6 @@
     }
   ],
   "events": [
-    {
-      "id": "basketball-middle-school-team-gray-girls-vs-the-paideia-scho-2026-11-09-5-00-pm",
-      "name": "Basketball - Middle School Team Gray Girls vs. The Paideia School (Away)",
-      "description": "",
-      "date": "2026-11-09",
-      "dateEnd": "",
-      "start": "5:00 PM",
-      "end": "",
-      "location": "The Paideia School",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 8,
-      "gradeText": "Grades 7–8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-7th-grade-boys-vs-the-paideia-school-away-2026-11-09-6-00-pm",
-      "name": "Basketball - 7th Grade Boys vs. The Paideia School (Away)",
-      "description": "",
-      "date": "2026-11-09",
-      "dateEnd": "",
-      "start": "6:00 PM",
-      "end": "",
-      "location": "The Paideia School",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 7,
-      "gradeText": "Grade 7",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-junior-varsity-girls-vs-trinity-christian-school--2026-11-09-6-00-pm",
-      "name": "Basketball - Junior Varsity Girls vs. Trinity Christian School CANCELLED (Home)",
-      "description": "",
-      "date": "2026-11-09",
-      "dateEnd": "",
-      "start": "6:00 PM",
-      "end": "",
-      "location": "Champions Gym",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
     {
       "id": "wrestling-varsity-girls-grils-wrestling-2026-11-10-",
       "name": "Wrestling - Varsity Girls - Grils Wrestling",
