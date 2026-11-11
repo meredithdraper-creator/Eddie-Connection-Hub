@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-11-10T17:00:24.066Z",
+    "updated": "2026-11-11T17:05:46.895Z",
     "opportunityCount": 288,
-    "eventCount": 59,
+    "eventCount": 52,
     "divisions": {
       "PS": {
         "label": "Primary School",
@@ -31,7 +31,7 @@
       }
     },
     "safetyNote": "Please talk with a trusted adult, your school counselor, or call or text 988 (Suicide & Crisis Lifeline) any time.",
-    "eventsSyncedAt": "2026-11-10T17:00:59.174Z",
+    "eventsSyncedAt": "2026-11-11T17:06:16.820Z",
     "eventsFromFeed": true
   },
   "items": [
@@ -9992,253 +9992,6 @@
   ],
   "events": [
     {
-      "id": "wrestling-varsity-girls-grils-wrestling-2026-11-10-",
-      "name": "Wrestling - Varsity Girls - Grils Wrestling",
-      "description": "",
-      "date": "2026-11-10",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "swimming-and-diving-varsity-boys-vs-pace-academy-away-2026-11-10-",
-      "name": "Swimming & Diving - Varsity Boys vs. Pace Academy (Away)",
-      "description": "",
-      "date": "2026-11-10",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "Pace Academy",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "swimming-and-diving-varsity-girls-vs-pace-academy-away-2026-11-10-",
-      "name": "Swimming & Diving - Varsity Girls vs. Pace Academy (Away)",
-      "description": "",
-      "date": "2026-11-10",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "Pace Academy",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "swimming-and-diving-middle-school-boys-vs-pace-academy-away-2026-11-10-3-00-pm",
-      "name": "Swimming & Diving - Middle School Boys vs. Pace Academy (Away)",
-      "description": "",
-      "date": "2026-11-10",
-      "dateEnd": "",
-      "start": "3:00 PM",
-      "end": "",
-      "location": "Pace Academy",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 8,
-      "gradeText": "Grades 7–8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "swimming-and-diving-middle-school-girls-vs-pace-academy-away-2026-11-10-3-00-pm",
-      "name": "Swimming & Diving - Middle School Girls vs. Pace Academy (Away)",
-      "description": "",
-      "date": "2026-11-10",
-      "dateEnd": "",
-      "start": "3:00 PM",
-      "end": "",
-      "location": "Pace Academy",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 8,
-      "gradeText": "Grades 7–8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-middle-school-team-red-girls-vs-trinity-christian-2026-11-10-4-30-pm",
-      "name": "Basketball - Middle School Team Red Girls vs. Trinity Christian School (Home)",
-      "description": "",
-      "date": "2026-11-10",
-      "dateEnd": "",
-      "start": "4:30 PM",
-      "end": "",
-      "location": "Champions Gym",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 8,
-      "gradeText": "Grades 7–8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-9th-grade-boys-vs-riverwood-international-charter-2026-11-10-4-30-pm",
-      "name": "Basketball - 9th Grade Boys vs. Riverwood International Charter School (Away)",
-      "description": "",
-      "date": "2026-11-10",
-      "dateEnd": "",
-      "start": "4:30 PM",
-      "end": "",
-      "location": "Riverwood International Charter School",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 9,
-      "gradeText": "Grade 9",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-7th-grade-boys-vs-blessed-trinity-catholic-high-s-2026-11-10-6-00-pm",
-      "name": "Basketball - 7th Grade Boys vs. Blessed Trinity Catholic High School (Home)",
-      "description": "",
-      "date": "2026-11-10",
-      "dateEnd": "",
-      "start": "6:00 PM",
-      "end": "",
-      "location": "Champions Gym",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 7,
-      "gradeText": "Grade 7",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-8th-grade-boys-vs-blessed-trinity-catholic-high-s-2026-11-10-7-00-pm",
-      "name": "Basketball - 8th Grade Boys vs. Blessed Trinity Catholic High School (Home)",
-      "description": "",
-      "date": "2026-11-10",
-      "dateEnd": "",
-      "start": "7:00 PM",
-      "end": "",
-      "location": "Champions Gym",
-      "schools": [
-        "MS"
-      ],
-      "gradeMin": 8,
-      "gradeMax": 8,
-      "gradeText": "Grade 8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "wrestling-middle-school-ms-wrestling-2026-11-11-",
-      "name": "Wrestling - Middle School - MS Wrestling",
-      "description": "",
-      "date": "2026-11-11",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 8,
-      "gradeText": "Grades 7–8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "wrestling-varsity-v-boys-wrestling-2026-11-11-",
-      "name": "Wrestling - Varsity - V Boys Wrestling",
-      "description": "",
-      "date": "2026-11-11",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
       "id": "wrestling-middle-school-woodward-ms-scramble-home-2026-11-11-4-30-pm",
       "name": "Wrestling - Middle School - Woodward MS Scramble (Home)",
       "description": "",
@@ -10330,28 +10083,6 @@
       "source": "woodward.edu"
     },
     {
-      "id": "cheerleading-basketball-varsity-v-basketball-cheer-team-2026-11-12-",
-      "name": "Cheerleading Basketball - Varsity - V Basketball Cheer Team",
-      "description": "",
-      "date": "2026-11-12",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
       "id": "basketball-middle-school-team-red-girls-vs-eagle-s-landing-c-2026-11-12-4-00-pm",
       "name": "Basketball - Middle School Team Red Girls vs. Eagle's Landing Christian Academy (Away)",
       "description": "",
@@ -10411,6 +10142,73 @@
       "gradeMin": 8,
       "gradeMax": 8,
       "gradeText": "Grade 8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "wrestling-middle-school-ms-wrestling-2026-11-13-",
+      "name": "Wrestling - Middle School - MS Wrestling",
+      "description": "",
+      "date": "2026-11-13",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 8,
+      "gradeText": "Grades 7–8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "wrestling-varsity-v-boys-wrestling-2026-11-13-",
+      "name": "Wrestling - Varsity - V Boys Wrestling",
+      "description": "",
+      "date": "2026-11-13",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "wrestling-varsity-girls-grils-wrestling-2026-11-13-",
+      "name": "Wrestling - Varsity Girls - Grils Wrestling",
+      "description": "",
+      "date": "2026-11-13",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
       "category": "Athletics",
       "contact": "",
       "contactEmail": "",
@@ -10754,8 +10552,8 @@
       "source": "woodward.edu"
     },
     {
-      "id": "basketball-junior-varsity-boys-vs-whitewater-high-school-awa-2026-11-14-3-15-pm",
-      "name": "Basketball - Junior Varsity Boys vs. Whitewater High School (Away)",
+      "id": "basketball-junior-varsity-boys-vs-mcintosh-high-school-away-2026-11-14-3-15-pm",
+      "name": "Basketball - Junior Varsity Boys vs. McIntosh High School (Away)",
       "description": "",
       "date": "2026-11-14",
       "dateEnd": "",
@@ -11294,14 +11092,58 @@
       "source": "woodward.edu"
     },
     {
-      "id": "basketball-junior-varsity-boys-jv-boy-s-basketball-2026-11-23-",
-      "name": "Basketball - Junior Varsity Boys - JV Boy's Basketball",
+      "id": "wrestling-varsity-girls-tomahawk-tussle-away-2026-11-24-9-00-am",
+      "name": "Wrestling - Varsity Girls - Tomahawk Tussle (Away)",
       "description": "",
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "dateEnd": "",
-      "start": "",
+      "start": "9:00 AM",
       "end": "",
-      "location": "",
+      "location": "East Coweta High School",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "wrestling-varsity-georgia-grappler-invitational-away-2026-11-24-9-00-am",
+      "name": "Wrestling - Varsity - Georgia Grappler Invitational (Away)",
+      "description": "",
+      "date": "2026-11-24",
+      "dateEnd": "",
+      "start": "9:00 AM",
+      "end": "",
+      "location": "Troup County High School",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "wrestling-varsity-georgia-grappler-invitational-away-2026-11-25-9-00-am",
+      "name": "Wrestling - Varsity - Georgia Grappler Invitational (Away)",
+      "description": "",
+      "date": "2026-11-25",
+      "dateEnd": "",
+      "start": "9:00 AM",
+      "end": "",
+      "location": "Troup County High School",
       "schools": [
         "US"
       ],
