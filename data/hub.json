@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-11-12T17:33:41.675Z",
+    "updated": "2026-11-13T17:10:58.930Z",
     "opportunityCount": 288,
-    "eventCount": 50,
+    "eventCount": 45,
     "divisions": {
       "PS": {
         "label": "Primary School",
@@ -31,7 +31,7 @@
       }
     },
     "safetyNote": "Please talk with a trusted adult, your school counselor, or call or text 988 (Suicide & Crisis Lifeline) any time.",
-    "eventsSyncedAt": "2026-11-12T17:34:33.307Z",
+    "eventsSyncedAt": "2026-11-13T17:11:32.872Z",
     "eventsFromFeed": true
   },
   "items": [
@@ -9992,73 +9992,6 @@
   ],
   "events": [
     {
-      "id": "basketball-middle-school-team-red-girls-vs-eagle-s-landing-c-2026-11-12-4-00-pm",
-      "name": "Basketball - Middle School Team Red Girls vs. Eagle's Landing Christian Academy (Away)",
-      "description": "",
-      "date": "2026-11-12",
-      "dateEnd": "",
-      "start": "4:00 PM",
-      "end": "",
-      "location": "Eagle's Landing Christian Academy",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 8,
-      "gradeText": "Grades 7–8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-junior-varsity-boys-vs-the-mount-vernon-school-aw-2026-11-12-4-30-pm",
-      "name": "Basketball - Junior Varsity Boys vs. The Mount Vernon School (Away)",
-      "description": "",
-      "date": "2026-11-12",
-      "dateEnd": "",
-      "start": "4:30 PM",
-      "end": "",
-      "location": "The Mount Vernon School",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-8th-grade-boys-vs-eagle-s-landing-christian-acade-2026-11-12-5-00-pm",
-      "name": "Basketball - 8th Grade Boys vs. Eagle's Landing Christian Academy (Away)",
-      "description": "",
-      "date": "2026-11-12",
-      "dateEnd": "",
-      "start": "5:00 PM",
-      "end": "",
-      "location": "Eagle's Landing Christian Academy",
-      "schools": [
-        "MS"
-      ],
-      "gradeMin": 8,
-      "gradeMax": 8,
-      "gradeText": "Grade 8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
       "id": "wrestling-middle-school-ms-wrestling-2026-11-13-",
       "name": "Wrestling - Middle School - MS Wrestling",
       "description": "",
@@ -10074,50 +10007,6 @@
       "gradeMin": 7,
       "gradeMax": 8,
       "gradeText": "Grades 7–8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "wrestling-varsity-v-boys-wrestling-2026-11-13-",
-      "name": "Wrestling - Varsity - V Boys Wrestling",
-      "description": "",
-      "date": "2026-11-13",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "wrestling-varsity-girls-grils-wrestling-2026-11-13-",
-      "name": "Wrestling - Varsity Girls - Grils Wrestling",
-      "description": "",
-      "date": "2026-11-13",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
       "category": "Athletics",
       "contact": "",
       "contactEmail": "",
@@ -10395,28 +10284,6 @@
       "source": "woodward.edu"
     },
     {
-      "id": "cheerleading-basketball-varsity-v-basketball-cheer-team-2026-11-14-",
-      "name": "Cheerleading Basketball - Varsity - V Basketball Cheer Team",
-      "description": "",
-      "date": "2026-11-14",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
       "id": "basketball-9th-grade-boys-vs-holy-innocents-episcopal-school-2026-11-14-1-30-pm",
       "name": "Basketball - 9th Grade Boys vs. Holy Innocents' Episcopal School (Away)",
       "description": "",
@@ -10571,10 +10438,10 @@
       "source": "woodward.edu"
     },
     {
-      "id": "basketball-junior-varsity-boys-jv-boy-s-basketball-2026-11-17-",
-      "name": "Basketball - Junior Varsity Boys - JV Boy's Basketball",
+      "id": "cheerleading-basketball-varsity-v-basketball-cheer-team-2026-11-16-",
+      "name": "Cheerleading Basketball - Varsity - V Basketball Cheer Team",
       "description": "",
-      "date": "2026-11-17",
+      "date": "2026-11-16",
       "dateEnd": "",
       "start": "",
       "end": "",
@@ -10648,7 +10515,7 @@
       "dateEnd": "",
       "start": "4:30 PM",
       "end": "",
-      "location": "Champions Gym",
+      "location": "Paget Gym",
       "schools": [
         "US"
       ],
@@ -10663,8 +10530,8 @@
       "source": "woodward.edu"
     },
     {
-      "id": "wrestling-varsity-vs-holy-innocents-episcopal-school-home-2026-11-18-5-30-pm",
-      "name": "Wrestling - Varsity vs. Holy Innocents' Episcopal School (Home)",
+      "id": "wrestling-junior-varsity-vs-holy-innocents-episcopal-school--2026-11-18-5-30-pm",
+      "name": "Wrestling - Junior Varsity vs. Holy Innocents' Episcopal School (Home)",
       "description": "",
       "date": "2026-11-18",
       "dateEnd": "",
@@ -10685,8 +10552,8 @@
       "source": "woodward.edu"
     },
     {
-      "id": "wrestling-junior-varsity-vs-holy-innocents-episcopal-school--2026-11-18-5-30-pm",
-      "name": "Wrestling - Junior Varsity vs. Holy Innocents' Episcopal School (Home)",
+      "id": "wrestling-varsity-vs-holy-innocents-episcopal-school-home-2026-11-18-5-30-pm",
+      "name": "Wrestling - Varsity vs. Holy Innocents' Episcopal School (Home)",
       "description": "",
       "date": "2026-11-18",
       "dateEnd": "",
@@ -10759,7 +10626,7 @@
       "dateEnd": "",
       "start": "4:30 PM",
       "end": "",
-      "location": "Champions Gym",
+      "location": "Paget Gym",
       "schools": [
         "WN",
         "MS"
@@ -10767,6 +10634,29 @@
       "gradeMin": 7,
       "gradeMax": 8,
       "gradeText": "Grades 7–8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-7th-grade-boys-vs-landmark-christian-school-home-2026-11-19-5-30-pm",
+      "name": "Basketball - 7th Grade Boys vs. Landmark Christian School (Home)",
+      "description": "",
+      "date": "2026-11-19",
+      "dateEnd": "",
+      "start": "5:30 PM",
+      "end": "",
+      "location": "Dobbs Gym",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 7,
+      "gradeText": "Grade 7",
       "category": "Athletics",
       "contact": "",
       "contactEmail": "",
@@ -10797,29 +10687,6 @@
       "source": "woodward.edu"
     },
     {
-      "id": "basketball-7th-grade-boys-vs-landmark-christian-school-home-2026-11-19-6-30-pm",
-      "name": "Basketball - 7th Grade Boys vs. Landmark Christian School (Home)",
-      "description": "",
-      "date": "2026-11-19",
-      "dateEnd": "",
-      "start": "6:30 PM",
-      "end": "",
-      "location": "Champions Gym",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 7,
-      "gradeText": "Grade 7",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
       "id": "basketball-middle-school-team-red-girls-vs-landmark-christia-2026-11-19-6-30-pm",
       "name": "Basketball - Middle School Team Red Girls vs. Landmark Christian School (Home)",
       "description": "",
@@ -10827,7 +10694,7 @@
       "dateEnd": "",
       "start": "6:30 PM",
       "end": "",
-      "location": "Champions Gym",
+      "location": "Dobbs Gym",
       "schools": [
         "WN",
         "MS"
@@ -10850,7 +10717,7 @@
       "dateEnd": "",
       "start": "7:30 PM",
       "end": "",
-      "location": "Champions Gym",
+      "location": "Dobbs Gym",
       "schools": [
         "MS"
       ],
@@ -10865,12 +10732,12 @@
       "source": "woodward.edu"
     },
     {
-      "id": "basketball-varsity-girls-thanksgiving-on-southside-away-2026-11-21-",
-      "name": "Basketball - Varsity Girls - Thanksgiving on Southside (Away)",
+      "id": "basketball-varsity-girls-vs-carver-early-college-high-school-2026-11-21-1-45-pm",
+      "name": "Basketball - Varsity Girls vs. Carver Early College High School (Away)",
       "description": "",
       "date": "2026-11-21",
       "dateEnd": "",
-      "start": "",
+      "start": "1:45 PM",
       "end": "",
       "location": "Morrow High School",
       "schools": [
@@ -10894,7 +10761,7 @@
       "dateEnd": "",
       "start": "10:00 AM",
       "end": "",
-      "location": "Champions Gym",
+      "location": "Paget Gym",
       "schools": [
         "MS"
       ],
@@ -11097,6 +10964,28 @@
       "start": "9:00 AM",
       "end": "",
       "location": "Troup County High School",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-junior-varsity-boys-jv-boy-s-basketball-2026-11-27-",
+      "name": "Basketball - Junior Varsity Boys - JV Boy's Basketball",
+      "description": "",
+      "date": "2026-11-27",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "",
       "schools": [
         "US"
       ],
