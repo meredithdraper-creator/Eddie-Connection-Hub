@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-11-13T17:10:58.930Z",
+    "updated": "2026-11-14T15:47:32.102Z",
     "opportunityCount": 288,
-    "eventCount": 45,
+    "eventCount": 35,
     "divisions": {
       "PS": {
         "label": "Primary School",
@@ -31,7 +31,7 @@
       }
     },
     "safetyNote": "Please talk with a trusted adult, your school counselor, or call or text 988 (Suicide & Crisis Lifeline) any time.",
-    "eventsSyncedAt": "2026-11-13T17:11:32.872Z",
+    "eventsSyncedAt": "2026-11-14T15:48:02.129Z",
     "eventsFromFeed": true
   },
   "items": [
@@ -9992,252 +9992,6 @@
   ],
   "events": [
     {
-      "id": "wrestling-middle-school-ms-wrestling-2026-11-13-",
-      "name": "Wrestling - Middle School - MS Wrestling",
-      "description": "",
-      "date": "2026-11-13",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 8,
-      "gradeText": "Grades 7–8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "swimming-and-diving-middle-school-boys-westminster-invitatio-2026-11-13-",
-      "name": "Swimming & Diving - Middle School Boys - Westminster Invitational (Away)",
-      "description": "",
-      "date": "2026-11-13",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "The Westminster Schools",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 8,
-      "gradeText": "Grades 7–8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "swimming-and-diving-middle-school-girls-westminster-invitati-2026-11-13-",
-      "name": "Swimming & Diving - Middle School Girls - Westminster Invitational (Away)",
-      "description": "",
-      "date": "2026-11-13",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "The Westminster Schools",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 8,
-      "gradeText": "Grades 7–8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "swimming-and-diving-varsity-boys-vs-the-lovett-school-home-2026-11-13-4-30-pm",
-      "name": "Swimming & Diving - Varsity Boys vs. The Lovett School (Home)",
-      "description": "",
-      "date": "2026-11-13",
-      "dateEnd": "",
-      "start": "4:30 PM",
-      "end": "",
-      "location": "Kennedy Natatorium",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "swimming-and-diving-varsity-girls-vs-the-lovett-school-home-2026-11-13-4-30-pm",
-      "name": "Swimming & Diving - Varsity Girls vs. The Lovett School (Home)",
-      "description": "",
-      "date": "2026-11-13",
-      "dateEnd": "",
-      "start": "4:30 PM",
-      "end": "",
-      "location": "Kennedy Natatorium",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-junior-varsity-girls-vs-pace-academy-postponed-aw-2026-11-13-5-00-pm",
-      "name": "Basketball - Junior Varsity Girls vs. Pace Academy POSTPONED (Away)",
-      "description": "",
-      "date": "2026-11-13",
-      "dateEnd": "",
-      "start": "5:00 PM",
-      "end": "",
-      "location": "Pace Academy",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-7th-grade-boys-vs-the-galloway-school-postponed-h-2026-11-13-5-00-pm",
-      "name": "Basketball - 7th Grade Boys vs. The Galloway School POSTPONED (Home)",
-      "description": "",
-      "date": "2026-11-13",
-      "dateEnd": "",
-      "start": "5:00 PM",
-      "end": "",
-      "location": "Champions Gym",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 7,
-      "gradeText": "Grade 7",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-varsity-girls-vs-the-galloway-school-postponed-ho-2026-11-13-6-00-pm",
-      "name": "Basketball - Varsity Girls vs. The Galloway School POSTPONED (Home)",
-      "description": "",
-      "date": "2026-11-13",
-      "dateEnd": "",
-      "start": "6:00 PM",
-      "end": "",
-      "location": "Paget Gym",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "football-varsity-vs-langston-hughes-high-school-away-2026-11-13-7-30-pm",
-      "name": "Football - Varsity vs. Langston Hughes High School (Away)",
-      "description": "",
-      "date": "2026-11-13",
-      "dateEnd": "",
-      "start": "7:30 PM",
-      "end": "",
-      "location": "Langston Hughes High School",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "cheerleading-football-varsity-vs-langston-hughes-high-school-2026-11-13-7-30-pm",
-      "name": "Cheerleading - Football - Varsity vs. Langston Hughes High School (Away)",
-      "description": "",
-      "date": "2026-11-13",
-      "dateEnd": "",
-      "start": "7:30 PM",
-      "end": "",
-      "location": "Langston Hughes High School",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-varsity-boys-vs-the-galloway-school-postponed-hom-2026-11-13-7-30-pm",
-      "name": "Basketball - Varsity Boys vs. The Galloway School POSTPONED (Home)",
-      "description": "",
-      "date": "2026-11-13",
-      "dateEnd": "",
-      "start": "7:30 PM",
-      "end": "",
-      "location": "Paget Gym",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
       "id": "swimming-and-diving-middle-school-boys-westminster-invitatio-2026-11-14-",
       "name": "Swimming & Diving - Middle School Boys - Westminster Invitational (Away)",
       "description": "",
@@ -10438,10 +10192,10 @@
       "source": "woodward.edu"
     },
     {
-      "id": "cheerleading-basketball-varsity-v-basketball-cheer-team-2026-11-16-",
+      "id": "cheerleading-basketball-varsity-v-basketball-cheer-team-2026-11-15-",
       "name": "Cheerleading Basketball - Varsity - V Basketball Cheer Team",
       "description": "",
-      "date": "2026-11-16",
+      "date": "2026-11-15",
       "dateEnd": "",
       "start": "",
       "end": "",
@@ -10982,6 +10736,28 @@
       "name": "Basketball - Junior Varsity Boys - JV Boy's Basketball",
       "description": "",
       "date": "2026-11-27",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-varsity-boys-hard-in-the-paint-away-2026-11-28-",
+      "name": "Basketball - Varsity Boys - Hard in the Paint (Away)",
+      "description": "",
+      "date": "2026-11-28",
       "dateEnd": "",
       "start": "",
       "end": "",
