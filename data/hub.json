@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-11-14T15:47:32.102Z",
+    "updated": "2026-11-15T16:19:23.432Z",
     "opportunityCount": 288,
-    "eventCount": 35,
+    "eventCount": 26,
     "divisions": {
       "PS": {
         "label": "Primary School",
@@ -31,7 +31,7 @@
       }
     },
     "safetyNote": "Please talk with a trusted adult, your school counselor, or call or text 988 (Suicide & Crisis Lifeline) any time.",
-    "eventsSyncedAt": "2026-11-14T15:48:02.129Z",
+    "eventsSyncedAt": "2026-11-15T16:19:53.452Z",
     "eventsFromFeed": true
   },
   "items": [
@@ -9992,210 +9992,10 @@
   ],
   "events": [
     {
-      "id": "swimming-and-diving-middle-school-boys-westminster-invitatio-2026-11-14-",
-      "name": "Swimming & Diving - Middle School Boys - Westminster Invitational (Away)",
-      "description": "",
-      "date": "2026-11-14",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "The Westminster Schools",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 8,
-      "gradeText": "Grades 7–8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "swimming-and-diving-middle-school-girls-westminster-invitati-2026-11-14-",
-      "name": "Swimming & Diving - Middle School Girls - Westminster Invitational (Away)",
-      "description": "",
-      "date": "2026-11-14",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "The Westminster Schools",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 8,
-      "gradeText": "Grades 7–8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-9th-grade-boys-vs-holy-innocents-episcopal-school-2026-11-14-1-30-pm",
-      "name": "Basketball - 9th Grade Boys vs. Holy Innocents' Episcopal School (Away)",
-      "description": "",
-      "date": "2026-11-14",
-      "dateEnd": "",
-      "start": "1:30 PM",
-      "end": "",
-      "location": "Holy Innocents' Episcopal School",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 9,
-      "gradeText": "Grade 9",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "wrestling-varsity-girls-iron-maiden-away-2026-11-14-10-00-am",
-      "name": "Wrestling - Varsity Girls - Iron Maiden (Away)",
-      "description": "",
-      "date": "2026-11-14",
-      "dateEnd": "",
-      "start": "10:00 AM",
-      "end": "",
-      "location": "Jordan Vocational High School",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-9th-grade-boys-vs-mcintosh-high-school-cancelled--2026-11-14-3-15-pm",
-      "name": "Basketball - 9th Grade Boys vs. McIntosh High School CANCELLED (Away)",
-      "description": "",
-      "date": "2026-11-14",
-      "dateEnd": "",
-      "start": "3:15 PM",
-      "end": "",
-      "location": "McIntosh High School",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 9,
-      "gradeText": "Grade 9",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-junior-varsity-boys-vs-mcintosh-high-school-away-2026-11-14-3-15-pm",
-      "name": "Basketball - Junior Varsity Boys vs. McIntosh High School (Away)",
-      "description": "",
-      "date": "2026-11-14",
-      "dateEnd": "",
-      "start": "3:15 PM",
-      "end": "",
-      "location": "McIntosh High School",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-varsity-boys-vs-hillgrove-high-school-away-2026-11-14-8-00-pm",
-      "name": "Basketball - Varsity Boys vs. Hillgrove High School (Away)",
-      "description": "",
-      "date": "2026-11-14",
-      "dateEnd": "",
-      "start": "8:00 PM",
-      "end": "",
-      "location": "Hillgrove High School",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "wrestling-varsity-hoya-duals-away-2026-11-14-9-00-am",
-      "name": "Wrestling - Varsity - Hoya Duals (Away)",
-      "description": "",
-      "date": "2026-11-14",
-      "dateEnd": "",
-      "start": "9:00 AM",
-      "end": "",
-      "location": "Harrison High School",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "wrestling-junior-varsity-hoya-duals-away-2026-11-14-9-00-am",
-      "name": "Wrestling - Junior Varsity - Hoya Duals (Away)",
-      "description": "",
-      "date": "2026-11-14",
-      "dateEnd": "",
-      "start": "9:00 AM",
-      "end": "",
-      "location": "Harrison High School",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "cheerleading-basketball-varsity-v-basketball-cheer-team-2026-11-15-",
+      "id": "cheerleading-basketball-varsity-v-basketball-cheer-team-2026-11-16-",
       "name": "Cheerleading Basketball - Varsity - V Basketball Cheer Team",
       "description": "",
-      "date": "2026-11-15",
+      "date": "2026-11-16",
       "dateEnd": "",
       "start": "",
       "end": "",
@@ -10596,14 +10396,14 @@
       "source": "woodward.edu"
     },
     {
-      "id": "wrestling-varsity-girls-battle-at-the-castle-away-2026-11-21-9-00-am",
-      "name": "Wrestling - Varsity Girls - Battle at the Castle (Away)",
+      "id": "wrestling-varsity-todd-granger-duals-away-2026-11-21-9-00-am",
+      "name": "Wrestling - Varsity - Todd Granger Duals (Away)",
       "description": "",
       "date": "2026-11-21",
       "dateEnd": "",
       "start": "9:00 AM",
       "end": "",
-      "location": "Central Gwinnett High School",
+      "location": "Murray County High School",
       "schools": [
         "US"
       ],
@@ -10618,14 +10418,14 @@
       "source": "woodward.edu"
     },
     {
-      "id": "wrestling-varsity-todd-granger-duals-away-2026-11-21-9-00-am",
-      "name": "Wrestling - Varsity - Todd Granger Duals (Away)",
+      "id": "wrestling-varsity-girls-battle-at-the-castle-away-2026-11-21-9-00-am",
+      "name": "Wrestling - Varsity Girls - Battle at the Castle (Away)",
       "description": "",
       "date": "2026-11-21",
       "dateEnd": "",
       "start": "9:00 AM",
       "end": "",
-      "location": "Murray County High School",
+      "location": "Central Gwinnett High School",
       "schools": [
         "US"
       ],
@@ -10662,6 +10462,28 @@
       "contact": "",
       "contactEmail": "",
       "link": "https://www.woodward.edu/calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-junior-varsity-boys-jv-boy-s-basketball-2026-11-23-",
+      "name": "Basketball - Junior Varsity Boys - JV Boy's Basketball",
+      "description": "",
+      "date": "2026-11-23",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
       "costText": "",
       "source": "woodward.edu"
     },
@@ -10718,28 +10540,6 @@
       "start": "9:00 AM",
       "end": "",
       "location": "Troup County High School",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-junior-varsity-boys-jv-boy-s-basketball-2026-11-27-",
-      "name": "Basketball - Junior Varsity Boys - JV Boy's Basketball",
-      "description": "",
-      "date": "2026-11-27",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
       "schools": [
         "US"
       ],
