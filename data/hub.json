@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-11-16T19:33:32.407Z",
+    "updated": "2026-11-17T18:32:05.889Z",
     "opportunityCount": 288,
-    "eventCount": 31,
+    "eventCount": 41,
     "divisions": {
       "PS": {
         "label": "Primary School",
@@ -31,7 +31,7 @@
       }
     },
     "safetyNote": "Please talk with a trusted adult, your school counselor, or call or text 988 (Suicide & Crisis Lifeline) any time.",
-    "eventsSyncedAt": "2026-11-16T19:33:57.629Z",
+    "eventsSyncedAt": "2026-11-17T18:32:38.274Z",
     "eventsFromFeed": true
   },
   "items": [
@@ -10532,28 +10532,6 @@
       "source": "woodward.edu"
     },
     {
-      "id": "basketball-8th-grade-boys-6th-8th-boy-s-basketball-2026-11-25-",
-      "name": "Basketball - 8th Grade Boys - 6th-8th Boy's Basketball",
-      "description": "",
-      "date": "2026-11-25",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
-      "schools": [
-        "MS"
-      ],
-      "gradeMin": 8,
-      "gradeMax": 8,
-      "gradeText": "Grade 8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
       "id": "wrestling-varsity-georgia-grappler-invitational-away-2026-11-25-9-00-am",
       "name": "Wrestling - Varsity - Georgia Grappler Invitational (Away)",
       "description": "",
@@ -10568,6 +10546,28 @@
       "gradeMin": 9,
       "gradeMax": 12,
       "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-8th-grade-boys-6th-8th-boy-s-basketball-2026-11-27-",
+      "name": "Basketball - 8th Grade Boys - 6th-8th Boy's Basketball",
+      "description": "",
+      "date": "2026-11-27",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "",
+      "schools": [
+        "MS"
+      ],
+      "gradeMin": 8,
+      "gradeMax": 8,
+      "gradeText": "Grade 8",
       "category": "Athletics",
       "contact": "",
       "contactEmail": "",
@@ -10679,6 +10679,229 @@
       "gradeMin": 8,
       "gradeMax": 8,
       "gradeText": "Grade 8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "swimming-and-diving-middle-school-girls-vs-beacon-hill-middl-2026-12-01-",
+      "name": "Swimming & Diving - Middle School Girls vs. Beacon Hill Middle School (Home)",
+      "description": "",
+      "date": "2026-12-01",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "Kennedy Natatorium",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 8,
+      "gradeText": "Grades 7–8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "swimming-and-diving-middle-school-boys-vs-beacon-hill-middle-2026-12-01-",
+      "name": "Swimming & Diving - Middle School Boys vs. Beacon Hill Middle School (Home)",
+      "description": "",
+      "date": "2026-12-01",
+      "dateEnd": "",
+      "start": "",
+      "end": "",
+      "location": "Kennedy Natatorium",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 8,
+      "gradeText": "Grades 7–8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-junior-varsity-girls-vs-eagle-s-landing-christian-2026-12-01-4-00-pm",
+      "name": "Basketball - Junior Varsity Girls vs. Eagle's Landing Christian Academy POSTPONED (Away)",
+      "description": "",
+      "date": "2026-12-01",
+      "dateEnd": "",
+      "start": "4:00 PM",
+      "end": "",
+      "location": "Eagle's Landing Christian Academy",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "swimming-and-diving-varsity-girls-vs-decatur-high-school-hom-2026-12-01-4-30-pm",
+      "name": "Swimming & Diving - Varsity Girls vs. Decatur High School (Home)",
+      "description": "",
+      "date": "2026-12-01",
+      "dateEnd": "",
+      "start": "4:30 PM",
+      "end": "",
+      "location": "Kennedy Natatorium",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "swimming-and-diving-varsity-boys-vs-decatur-high-school-home-2026-12-01-4-30-pm",
+      "name": "Swimming & Diving - Varsity Boys vs. Decatur High School (Home)",
+      "description": "",
+      "date": "2026-12-01",
+      "dateEnd": "",
+      "start": "4:30 PM",
+      "end": "",
+      "location": "Kennedy Natatorium",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-9th-grade-boys-vs-morrow-high-school-home-2026-12-01-4-30-pm",
+      "name": "Basketball - 9th Grade Boys vs. Morrow High School (Home)",
+      "description": "",
+      "date": "2026-12-01",
+      "dateEnd": "",
+      "start": "4:30 PM",
+      "end": "",
+      "location": "Champions Gym",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 9,
+      "gradeText": "Grade 9",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-middle-school-team-gray-girls-away-2026-12-01-4-30-pm",
+      "name": "Basketball - Middle School Team Gray Girls (Away)",
+      "description": "",
+      "date": "2026-12-01",
+      "dateEnd": "",
+      "start": "4:30 PM",
+      "end": "",
+      "location": "Odyssey Charter School",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 8,
+      "gradeText": "Grades 7–8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-varsity-girls-vs-morrow-high-school-home-2026-12-01-6-00-pm",
+      "name": "Basketball - Varsity Girls vs. Morrow High School (Home)",
+      "description": "",
+      "date": "2026-12-01",
+      "dateEnd": "",
+      "start": "6:00 PM",
+      "end": "",
+      "location": "Paget Gym",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-junior-varsity-boys-vs-morrow-high-school-home-2026-12-01-6-00-pm",
+      "name": "Basketball - Junior Varsity Boys vs. Morrow High School (Home)",
+      "description": "",
+      "date": "2026-12-01",
+      "dateEnd": "",
+      "start": "6:00 PM",
+      "end": "",
+      "location": "Paget Gym",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-varsity-boys-vs-morrow-high-school-home-2026-12-01-7-30-pm",
+      "name": "Basketball - Varsity Boys vs. Morrow High School (Home)",
+      "description": "",
+      "date": "2026-12-01",
+      "dateEnd": "",
+      "start": "7:30 PM",
+      "end": "",
+      "location": "Paget Gym",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
       "category": "Athletics",
       "contact": "",
       "contactEmail": "",
