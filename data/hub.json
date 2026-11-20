@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated": "2026-11-19T18:14:27.825Z",
+    "updated": "2026-11-20T17:46:10.359Z",
     "opportunityCount": 288,
     "eventCount": 40,
     "divisions": {
@@ -31,7 +31,7 @@
       }
     },
     "safetyNote": "Please talk with a trusted adult, your school counselor, or call or text 988 (Suicide & Crisis Lifeline) any time.",
-    "eventsSyncedAt": "2026-11-19T18:14:54.848Z",
+    "eventsSyncedAt": "2026-11-20T17:47:39.692Z",
     "eventsFromFeed": true
   },
   "items": [
@@ -9992,164 +9992,6 @@
   ],
   "events": [
     {
-      "id": "swimming-and-diving-varsity-girls-swim-and-dive-2026-11-19-",
-      "name": "Swimming & Diving - Varsity Girls - Swim & Dive",
-      "description": "",
-      "date": "2026-11-19",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "wrestling-middle-school-woodward-ms-scramble-home-2026-11-19-4-30-pm",
-      "name": "Wrestling - Middle School - Woodward MS Scramble (Home)",
-      "description": "",
-      "date": "2026-11-19",
-      "dateEnd": "",
-      "start": "4:30 PM",
-      "end": "",
-      "location": "Champions Gym",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 8,
-      "gradeText": "Grades 7–8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-middle-school-team-gray-girls-vs-landmark-christi-2026-11-19-4-30-pm",
-      "name": "Basketball - Middle School Team Gray Girls vs. Landmark Christian School (Home)",
-      "description": "",
-      "date": "2026-11-19",
-      "dateEnd": "",
-      "start": "4:30 PM",
-      "end": "",
-      "location": "Paget Gym",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 8,
-      "gradeText": "Grades 7–8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-7th-grade-boys-vs-landmark-christian-school-home-2026-11-19-5-30-pm",
-      "name": "Basketball - 7th Grade Boys vs. Landmark Christian School (Home)",
-      "description": "",
-      "date": "2026-11-19",
-      "dateEnd": "",
-      "start": "5:30 PM",
-      "end": "",
-      "location": "Dobbs Gym",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 7,
-      "gradeText": "Grade 7",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-varsity-girls-vs-hebron-christian-academy-home-2026-11-19-6-00-pm",
-      "name": "Basketball - Varsity Girls vs. Hebron Christian Academy (Home)",
-      "description": "",
-      "date": "2026-11-19",
-      "dateEnd": "",
-      "start": "6:00 PM",
-      "end": "",
-      "location": "Paget Gym",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-middle-school-team-red-girls-vs-landmark-christia-2026-11-19-6-30-pm",
-      "name": "Basketball - Middle School Team Red Girls vs. Landmark Christian School (Home)",
-      "description": "",
-      "date": "2026-11-19",
-      "dateEnd": "",
-      "start": "6:30 PM",
-      "end": "",
-      "location": "Dobbs Gym",
-      "schools": [
-        "WN",
-        "MS"
-      ],
-      "gradeMin": 7,
-      "gradeMax": 8,
-      "gradeText": "Grades 7–8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-8th-grade-boys-vs-landmark-christian-school-home-2026-11-19-7-30-pm",
-      "name": "Basketball - 8th Grade Boys vs. Landmark Christian School (Home)",
-      "description": "",
-      "date": "2026-11-19",
-      "dateEnd": "",
-      "start": "7:30 PM",
-      "end": "",
-      "location": "Dobbs Gym",
-      "schools": [
-        "MS"
-      ],
-      "gradeMin": 8,
-      "gradeMax": 8,
-      "gradeText": "Grade 8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
       "id": "football-varsity-vs-sequoyah-high-school-away-2026-11-20-7-30-pm",
       "name": "Football - Varsity vs. Sequoyah High School (Away)",
       "description": "",
@@ -10426,28 +10268,6 @@
       "start": "9:00 AM",
       "end": "",
       "location": "Troup County High School",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-9th-grade-boys-jv-boy-s-basketball-2026-11-26-",
-      "name": "Basketball - 9th Grade Boys - JV Boy's Basketball",
-      "description": "",
-      "date": "2026-11-26",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
       "schools": [
         "US"
       ],
@@ -10883,6 +10703,184 @@
       "gradeMin": 8,
       "gradeMax": 8,
       "gradeText": "Grade 8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "wrestling-junior-varsity-jv-scramble-away-2026-12-04-4-00-pm",
+      "name": "Wrestling - Junior Varsity - JV Scramble (Away)",
+      "description": "",
+      "date": "2026-12-04",
+      "dateEnd": "",
+      "start": "4:00 PM",
+      "end": "",
+      "location": "Whitewater High School",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-9th-grade-boys-vs-langston-hughes-high-school-awa-2026-12-04-4-00-pm",
+      "name": "Basketball - 9th Grade Boys vs. Langston Hughes High School (Away)",
+      "description": "",
+      "date": "2026-12-04",
+      "dateEnd": "",
+      "start": "4:00 PM",
+      "end": "",
+      "location": "Langston Hughes High School",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 9,
+      "gradeText": "Grade 9",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-junior-varsity-boys-vs-langston-hughes-high-schoo-2026-12-04-4-00-pm",
+      "name": "Basketball - Junior Varsity Boys vs. Langston Hughes High School (Away)",
+      "description": "",
+      "date": "2026-12-04",
+      "dateEnd": "",
+      "start": "4:00 PM",
+      "end": "",
+      "location": "Langston Hughes High School",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-middle-school-team-gray-girls-vs-the-lovett-schoo-2026-12-04-5-00-pm",
+      "name": "Basketball - Middle School Team Gray Girls vs. The Lovett School (Home)",
+      "description": "",
+      "date": "2026-12-04",
+      "dateEnd": "",
+      "start": "5:00 PM",
+      "end": "",
+      "location": "Champions Gym",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 8,
+      "gradeText": "Grades 7–8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "wrestling-varsity-girls-marietta-invitational-away-2026-12-04-5-30-pm",
+      "name": "Wrestling - Varsity Girls - Marietta Invitational (Away)",
+      "description": "",
+      "date": "2026-12-04",
+      "dateEnd": "",
+      "start": "5:30 PM",
+      "end": "",
+      "location": "Marietta High School",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-varsity-girls-vs-langston-hughes-high-school-away-2026-12-04-6-00-pm",
+      "name": "Basketball - Varsity Girls vs. Langston Hughes High School (Away)",
+      "description": "",
+      "date": "2026-12-04",
+      "dateEnd": "",
+      "start": "6:00 PM",
+      "end": "",
+      "location": "Langston Hughes High School",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-middle-school-team-red-girls-vs-the-lovett-school-2026-12-04-6-00-pm",
+      "name": "Basketball - Middle School Team Red Girls vs. The Lovett School (Home)",
+      "description": "",
+      "date": "2026-12-04",
+      "dateEnd": "",
+      "start": "6:00 PM",
+      "end": "",
+      "location": "Champions Gym",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 8,
+      "gradeText": "Grades 7–8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-varsity-boys-vs-langston-hughes-high-school-away-2026-12-04-7-30-pm",
+      "name": "Basketball - Varsity Boys vs. Langston Hughes High School (Away)",
+      "description": "",
+      "date": "2026-12-04",
+      "dateEnd": "",
+      "start": "7:30 PM",
+      "end": "",
+      "location": "Langston Hughes High School",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
       "category": "Athletics",
       "contact": "",
       "contactEmail": "",
