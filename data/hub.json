@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-11-21T16:45:25.255Z",
+    "updated": "2026-11-22T17:07:17.131Z",
     "opportunityCount": 288,
-    "eventCount": 51,
+    "eventCount": 45,
     "divisions": {
       "PS": {
         "label": "Primary School",
@@ -31,7 +31,7 @@
       }
     },
     "safetyNote": "Please talk with a trusted adult, your school counselor, or call or text 988 (Suicide & Crisis Lifeline) any time.",
-    "eventsSyncedAt": "2026-11-21T16:45:47.897Z",
+    "eventsSyncedAt": "2026-11-22T17:08:00.803Z",
     "eventsFromFeed": true
   },
   "items": [
@@ -9992,160 +9992,6 @@
   ],
   "events": [
     {
-      "id": "basketball-varsity-girls-vs-carver-early-college-high-school-2026-11-21-1-45-pm",
-      "name": "Basketball - Varsity Girls vs. Carver Early College High School (Away)",
-      "description": "",
-      "date": "2026-11-21",
-      "dateEnd": "",
-      "start": "1:45 PM",
-      "end": "",
-      "location": "Morrow High School",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-8th-grade-boys-vs-bethel-christian-school-home-2026-11-21-10-00-am",
-      "name": "Basketball - 8th Grade Boys vs. Bethel Christian School (Home)",
-      "description": "",
-      "date": "2026-11-21",
-      "dateEnd": "",
-      "start": "10:00 AM",
-      "end": "",
-      "location": "Paget Gym",
-      "schools": [
-        "MS"
-      ],
-      "gradeMin": 8,
-      "gradeMax": 8,
-      "gradeText": "Grade 8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-junior-varsity-boys-vs-pace-academy-home-2026-11-21-11-30-am",
-      "name": "Basketball - Junior Varsity Boys vs. Pace Academy (Home)",
-      "description": "",
-      "date": "2026-11-21",
-      "dateEnd": "",
-      "start": "11:30 AM",
-      "end": "",
-      "location": "Paget Gym",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-9th-grade-boys-vs-locust-grove-high-school-away-2026-11-21-2-30-pm",
-      "name": "Basketball - 9th Grade Boys vs. Locust Grove High School (Away)",
-      "description": "",
-      "date": "2026-11-21",
-      "dateEnd": "",
-      "start": "2:30 PM",
-      "end": "",
-      "location": "Eagle's Landing High School",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 9,
-      "gradeText": "Grade 9",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "wrestling-junior-varsity-battle-at-the-castle-away-2026-11-21-9-00-am",
-      "name": "Wrestling - Junior Varsity - Battle at the Castle (Away)",
-      "description": "",
-      "date": "2026-11-21",
-      "dateEnd": "",
-      "start": "9:00 AM",
-      "end": "",
-      "location": "Central Gwinnett High School",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "wrestling-varsity-todd-granger-duals-away-2026-11-21-9-00-am",
-      "name": "Wrestling - Varsity - Todd Granger Duals (Away)",
-      "description": "",
-      "date": "2026-11-21",
-      "dateEnd": "",
-      "start": "9:00 AM",
-      "end": "",
-      "location": "Murray County High School",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "wrestling-varsity-girls-battle-at-the-castle-away-2026-11-21-9-00-am",
-      "name": "Wrestling - Varsity Girls - Battle at the Castle (Away)",
-      "description": "",
-      "date": "2026-11-21",
-      "dateEnd": "",
-      "start": "9:00 AM",
-      "end": "",
-      "location": "Central Gwinnett High School",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
       "id": "thanksgiving-break-school-closed-2026-11-23-",
       "name": "Thanksgiving Break – School Closed",
       "description": "",
@@ -10172,14 +10018,14 @@
       "source": "woodward.edu"
     },
     {
-      "id": "basketball-junior-varsity-boys-jv-boy-s-basketball-2026-11-23-",
-      "name": "Basketball - Junior Varsity Boys - JV Boy's Basketball",
+      "id": "wrestling-varsity-georgia-grappler-invitational-away-2026-11-24-9-00-am",
+      "name": "Wrestling - Varsity - Georgia Grappler Invitational (Away)",
       "description": "",
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "dateEnd": "",
-      "start": "",
+      "start": "9:00 AM",
       "end": "",
-      "location": "",
+      "location": "Troup County High School",
       "schools": [
         "US"
       ],
@@ -10216,10 +10062,10 @@
       "source": "woodward.edu"
     },
     {
-      "id": "wrestling-varsity-georgia-grappler-invitational-away-2026-11-24-9-00-am",
+      "id": "wrestling-varsity-georgia-grappler-invitational-away-2026-11-25-9-00-am",
       "name": "Wrestling - Varsity - Georgia Grappler Invitational (Away)",
       "description": "",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "dateEnd": "",
       "start": "9:00 AM",
       "end": "",
@@ -10238,14 +10084,36 @@
       "source": "woodward.edu"
     },
     {
-      "id": "wrestling-varsity-georgia-grappler-invitational-away-2026-11-25-9-00-am",
-      "name": "Wrestling - Varsity - Georgia Grappler Invitational (Away)",
+      "id": "football-varsity-vs-lee-county-high-school-away-2026-11-27-7-30-pm",
+      "name": "Football - Varsity vs. Lee County High School (Away)",
       "description": "",
-      "date": "2026-11-25",
+      "date": "2026-11-27",
       "dateEnd": "",
-      "start": "9:00 AM",
+      "start": "7:30 PM",
       "end": "",
-      "location": "Troup County High School",
+      "location": "Lee County High School",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "cheerleading-football-varsity-vs-lee-county-high-school-away-2026-11-27-7-30-pm",
+      "name": "Cheerleading - Football - Varsity vs. Lee County High School (Away)",
+      "description": "",
+      "date": "2026-11-27",
+      "dateEnd": "",
+      "start": "7:30 PM",
+      "end": "",
+      "location": "Lee County High School",
       "schools": [
         "US"
       ],
@@ -10417,28 +10285,6 @@
       "source": "woodward.edu"
     },
     {
-      "id": "swimming-and-diving-varsity-boys-vs-decatur-high-school-home-2026-12-01-4-30-pm",
-      "name": "Swimming & Diving - Varsity Boys vs. Decatur High School (Home)",
-      "description": "",
-      "date": "2026-12-01",
-      "dateEnd": "",
-      "start": "4:30 PM",
-      "end": "",
-      "location": "Kennedy Natatorium",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
       "id": "swimming-and-diving-varsity-girls-vs-decatur-high-school-hom-2026-12-01-4-30-pm",
       "name": "Swimming & Diving - Varsity Girls vs. Decatur High School (Home)",
       "description": "",
@@ -10461,20 +10307,20 @@
       "source": "woodward.edu"
     },
     {
-      "id": "basketball-9th-grade-boys-vs-morrow-high-school-home-2026-12-01-4-30-pm",
-      "name": "Basketball - 9th Grade Boys vs. Morrow High School (Home)",
+      "id": "swimming-and-diving-varsity-boys-vs-decatur-high-school-home-2026-12-01-4-30-pm",
+      "name": "Swimming & Diving - Varsity Boys vs. Decatur High School (Home)",
       "description": "",
       "date": "2026-12-01",
       "dateEnd": "",
       "start": "4:30 PM",
       "end": "",
-      "location": "Champions Gym",
+      "location": "Kennedy Natatorium",
       "schools": [
         "US"
       ],
       "gradeMin": 9,
-      "gradeMax": 9,
-      "gradeText": "Grade 9",
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
       "category": "Athletics",
       "contact": "",
       "contactEmail": "",
@@ -10506,8 +10352,30 @@
       "source": "woodward.edu"
     },
     {
-      "id": "basketball-varsity-girls-vs-morrow-high-school-home-2026-12-01-6-00-pm",
-      "name": "Basketball - Varsity Girls vs. Morrow High School (Home)",
+      "id": "basketball-9th-grade-boys-vs-morrow-high-school-home-2026-12-01-4-30-pm",
+      "name": "Basketball - 9th Grade Boys vs. Morrow High School (Home)",
+      "description": "",
+      "date": "2026-12-01",
+      "dateEnd": "",
+      "start": "4:30 PM",
+      "end": "",
+      "location": "Champions Gym",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 9,
+      "gradeText": "Grade 9",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-junior-varsity-boys-vs-morrow-high-school-home-2026-12-01-6-00-pm",
+      "name": "Basketball - Junior Varsity Boys vs. Morrow High School (Home)",
       "description": "",
       "date": "2026-12-01",
       "dateEnd": "",
@@ -10528,8 +10396,8 @@
       "source": "woodward.edu"
     },
     {
-      "id": "basketball-junior-varsity-boys-vs-morrow-high-school-home-2026-12-01-6-00-pm",
-      "name": "Basketball - Junior Varsity Boys vs. Morrow High School (Home)",
+      "id": "basketball-varsity-girls-vs-morrow-high-school-home-2026-12-01-6-00-pm",
+      "name": "Basketball - Varsity Girls vs. Morrow High School (Home)",
       "description": "",
       "date": "2026-12-01",
       "dateEnd": "",
@@ -10912,20 +10780,21 @@
       "source": "woodward.edu"
     },
     {
-      "id": "basketball-9th-grade-boys-vs-the-westminster-schools-home-2026-12-05-10-00-am",
-      "name": "Basketball - 9th Grade Boys vs. The Westminster Schools (Home)",
+      "id": "basketball-middle-school-team-gray-girls-vs-st-pius-x-cathol-2026-12-05-10-00-am",
+      "name": "Basketball - Middle School Team Gray Girls vs. St. Pius X Catholic High School (Away)",
       "description": "",
       "date": "2026-12-05",
       "dateEnd": "",
       "start": "10:00 AM",
       "end": "",
-      "location": "Champions Gym",
+      "location": "St. Pius X Catholic High School",
       "schools": [
-        "US"
+        "WN",
+        "MS"
       ],
-      "gradeMin": 9,
-      "gradeMax": 9,
-      "gradeText": "Grade 9",
+      "gradeMin": 7,
+      "gradeMax": 8,
+      "gradeText": "Grades 7–8",
       "category": "Athletics",
       "contact": "",
       "contactEmail": "",
@@ -10957,21 +10826,42 @@
       "source": "woodward.edu"
     },
     {
-      "id": "basketball-middle-school-team-gray-girls-vs-st-pius-x-cathol-2026-12-05-10-00-am",
-      "name": "Basketball - Middle School Team Gray Girls vs. St. Pius X Catholic High School (Away)",
+      "id": "basketball-9th-grade-boys-vs-the-westminster-schools-home-2026-12-05-10-00-am",
+      "name": "Basketball - 9th Grade Boys vs. The Westminster Schools (Home)",
       "description": "",
       "date": "2026-12-05",
       "dateEnd": "",
       "start": "10:00 AM",
       "end": "",
+      "location": "Champions Gym",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 9,
+      "gradeText": "Grade 9",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-8th-grade-boys-vs-st-pius-x-catholic-high-school--2026-12-05-11-15-am",
+      "name": "Basketball - 8th Grade Boys vs. St. Pius X Catholic High School (Away)",
+      "description": "",
+      "date": "2026-12-05",
+      "dateEnd": "",
+      "start": "11:15 AM",
+      "end": "",
       "location": "St. Pius X Catholic High School",
       "schools": [
-        "WN",
         "MS"
       ],
-      "gradeMin": 7,
+      "gradeMin": 8,
       "gradeMax": 8,
-      "gradeText": "Grades 7–8",
+      "gradeText": "Grade 8",
       "category": "Athletics",
       "contact": "",
       "contactEmail": "",
@@ -10995,28 +10885,6 @@
       "gradeMin": 7,
       "gradeMax": 8,
       "gradeText": "Grades 7–8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-8th-grade-boys-vs-st-pius-x-catholic-high-school--2026-12-05-11-15-am",
-      "name": "Basketball - 8th Grade Boys vs. St. Pius X Catholic High School (Away)",
-      "description": "",
-      "date": "2026-12-05",
-      "dateEnd": "",
-      "start": "11:15 AM",
-      "end": "",
-      "location": "St. Pius X Catholic High School",
-      "schools": [
-        "MS"
-      ],
-      "gradeMin": 8,
-      "gradeMax": 8,
-      "gradeText": "Grade 8",
       "category": "Athletics",
       "contact": "",
       "contactEmail": "",
