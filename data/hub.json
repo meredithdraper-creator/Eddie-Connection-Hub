@@ -1,8 +1,8 @@
 {
   "meta": {
-    "updated": "2026-11-24T20:07:56.762Z",
+    "updated": "2026-11-25T19:13:20.315Z",
     "opportunityCount": 288,
-    "eventCount": 54,
+    "eventCount": 57,
     "divisions": {
       "PS": {
         "label": "Primary School",
@@ -31,7 +31,7 @@
       }
     },
     "safetyNote": "Please talk with a trusted adult, your school counselor, or call or text 988 (Suicide & Crisis Lifeline) any time.",
-    "eventsSyncedAt": "2026-11-24T20:08:24.321Z",
+    "eventsSyncedAt": "2026-11-25T19:13:55.844Z",
     "eventsFromFeed": true
   },
   "items": [
@@ -10018,50 +10018,6 @@
       "source": "woodward.edu"
     },
     {
-      "id": "wrestling-varsity-georgia-grappler-invitational-away-2026-11-24-9-00-am",
-      "name": "Wrestling - Varsity - Georgia Grappler Invitational (Away)",
-      "description": "",
-      "date": "2026-11-24",
-      "dateEnd": "",
-      "start": "9:00 AM",
-      "end": "",
-      "location": "Troup County High School",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "wrestling-varsity-girls-tomahawk-tussle-away-2026-11-24-9-00-am",
-      "name": "Wrestling - Varsity Girls - Tomahawk Tussle (Away)",
-      "description": "",
-      "date": "2026-11-24",
-      "dateEnd": "",
-      "start": "9:00 AM",
-      "end": "",
-      "location": "East Coweta High School",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
       "id": "wrestling-varsity-georgia-grappler-invitational-away-2026-11-25-9-00-am",
       "name": "Wrestling - Varsity - Georgia Grappler Invitational (Away)",
       "description": "",
@@ -10070,50 +10026,6 @@
       "start": "9:00 AM",
       "end": "",
       "location": "Troup County High School",
-      "schools": [
-        "US"
-      ],
-      "gradeMin": 9,
-      "gradeMax": 12,
-      "gradeText": "Grades 9–12",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-8th-grade-boys-6th-8th-boy-s-basketball-2026-11-27-",
-      "name": "Basketball - 8th Grade Boys - 6th-8th Boy's Basketball",
-      "description": "",
-      "date": "2026-11-27",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
-      "schools": [
-        "MS"
-      ],
-      "gradeMin": 8,
-      "gradeMax": 8,
-      "gradeText": "Grade 8",
-      "category": "Athletics",
-      "contact": "",
-      "contactEmail": "",
-      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
-      "costText": "",
-      "source": "woodward.edu"
-    },
-    {
-      "id": "basketball-junior-varsity-boys-jv-boy-s-basketball-2026-11-27-",
-      "name": "Basketball - Junior Varsity Boys - JV Boy's Basketball",
-      "description": "",
-      "date": "2026-11-27",
-      "dateEnd": "",
-      "start": "",
-      "end": "",
-      "location": "",
       "schools": [
         "US"
       ],
@@ -10329,8 +10241,8 @@
       "source": "woodward.edu"
     },
     {
-      "id": "swimming-and-diving-varsity-girls-vs-decatur-high-school-hom-2026-12-01-4-30-pm",
-      "name": "Swimming & Diving - Varsity Girls vs. Decatur High School (Home)",
+      "id": "swimming-and-diving-varsity-boys-vs-decatur-high-school-home-2026-12-01-4-30-pm",
+      "name": "Swimming & Diving - Varsity Boys vs. Decatur High School (Home)",
       "description": "",
       "date": "2026-12-01",
       "dateEnd": "",
@@ -10351,8 +10263,8 @@
       "source": "woodward.edu"
     },
     {
-      "id": "swimming-and-diving-varsity-boys-vs-decatur-high-school-home-2026-12-01-4-30-pm",
-      "name": "Swimming & Diving - Varsity Boys vs. Decatur High School (Home)",
+      "id": "swimming-and-diving-varsity-girls-vs-decatur-high-school-hom-2026-12-01-4-30-pm",
+      "name": "Swimming & Diving - Varsity Girls vs. Decatur High School (Home)",
       "description": "",
       "date": "2026-12-01",
       "dateEnd": "",
@@ -11192,6 +11104,164 @@
       "start": "7:30 PM",
       "end": "",
       "location": "Lovejoy High School",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "wrestling-middle-school-woodward-ms-scramble-home-2026-12-09-4-30-pm",
+      "name": "Wrestling - Middle School - Woodward MS Scramble (Home)",
+      "description": "",
+      "date": "2026-12-09",
+      "dateEnd": "",
+      "start": "4:30 PM",
+      "end": "",
+      "location": "Champions Gym",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 8,
+      "gradeText": "Grades 7–8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-middle-school-team-gray-girls-vs-the-lovett-schoo-2026-12-09-5-00-pm",
+      "name": "Basketball - Middle School Team Gray Girls vs. The Lovett School (Home)",
+      "description": "",
+      "date": "2026-12-09",
+      "dateEnd": "",
+      "start": "5:00 PM",
+      "end": "",
+      "location": "Champions Gym",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 8,
+      "gradeText": "Grades 7–8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-7th-grade-boys-vs-the-galloway-school-home-2026-12-09-5-00-pm",
+      "name": "Basketball - 7th Grade Boys vs. The Galloway School (Home)",
+      "description": "",
+      "date": "2026-12-09",
+      "dateEnd": "",
+      "start": "5:00 PM",
+      "end": "",
+      "location": "Champions Gym",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 7,
+      "gradeText": "Grade 7",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "wrestling-varsity-girls-woodward-scramble-home-2026-12-09-5-30-pm",
+      "name": "Wrestling - Varsity Girls - Woodward Scramble (Home)",
+      "description": "",
+      "date": "2026-12-09",
+      "dateEnd": "",
+      "start": "5:30 PM",
+      "end": "",
+      "location": "Champions Gym",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-varsity-girls-vs-the-galloway-school-home-2026-12-09-6-00-pm",
+      "name": "Basketball - Varsity Girls vs. The Galloway School (Home)",
+      "description": "",
+      "date": "2026-12-09",
+      "dateEnd": "",
+      "start": "6:00 PM",
+      "end": "",
+      "location": "Paget Gym",
+      "schools": [
+        "US"
+      ],
+      "gradeMin": 9,
+      "gradeMax": 12,
+      "gradeText": "Grades 9–12",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-middle-school-team-red-girls-vs-the-lovett-school-2026-12-09-6-00-pm",
+      "name": "Basketball - Middle School Team Red Girls vs. The Lovett School (Home)",
+      "description": "",
+      "date": "2026-12-09",
+      "dateEnd": "",
+      "start": "6:00 PM",
+      "end": "",
+      "location": "Champions Gym",
+      "schools": [
+        "WN",
+        "MS"
+      ],
+      "gradeMin": 7,
+      "gradeMax": 8,
+      "gradeText": "Grades 7–8",
+      "category": "Athletics",
+      "contact": "",
+      "contactEmail": "",
+      "link": "https://www.woodward.edu/beyond-the-classroom/athletics/athletics-calendar",
+      "costText": "",
+      "source": "woodward.edu"
+    },
+    {
+      "id": "basketball-varsity-boys-vs-the-galloway-school-home-2026-12-09-7-30-pm",
+      "name": "Basketball - Varsity Boys vs. The Galloway School (Home)",
+      "description": "",
+      "date": "2026-12-09",
+      "dateEnd": "",
+      "start": "7:30 PM",
+      "end": "",
+      "location": "Champions Gym",
       "schools": [
         "US"
       ],
